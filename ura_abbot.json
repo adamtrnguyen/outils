@@ -1,0 +1,674 @@
+[
+  {
+    "file_name": "URA-01-the-real-numbers",
+    "title": "The Real Numbers",
+    "chapter_number": 1,
+    "section_number": null,
+    "page": 1,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-01-01-discussion-the-irrationality-of-sqrt-2",
+    "title": "Discussion: The Irrationality of √2",
+    "chapter_number": 1,
+    "section_number": 1,
+    "page": 1,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Proof by Contradiction]]",
+      "[[Rational number]]",
+      "[[Irrational number]]"
+    ]
+  },
+  {
+    "file_name": "URA-01-02-some-preliminaries",
+    "title": "Some Preliminaries",
+    "chapter_number": 1,
+    "section_number": 2,
+    "page": 5,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Set theory]]",
+      "[[Union (set theory)|Union]]",
+      "[[Intersection (set theory)|Intersection]]",
+      "[[Complement (set theory)|Complement]]",
+      "[[De Morgan's laws]]",
+      "[[Functions]]",
+      "[[Domain (mathematics)|Domain]]",
+      "[[Range (mathematics)|Range]]",
+      "[[One-to-one function|Injective function]]",
+      "[[Onto function|Surjective function]]",
+      "[[Mathematical Proofs]]",
+      "[[Triangle inequality]]",
+      "[[Mathematical Induction]]"
+    ]
+  },
+  {
+    "file_name": "URA-01-03-the-axiom-of-completeness",
+    "title": "The Axiom of Completeness",
+    "chapter_number": 1,
+    "section_number": 3,
+    "page": 14,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Fields]]",
+      "[[Ordered field]]",
+      "[[Bounded Set]]",
+      "[[Upper bound]]",
+      "[[Lower bound]]",
+      "[[Supremum|Least Upper Bound]]",
+      "[[Infimum|Greatest Lower Bound]]",
+      "[[Axiom of Completeness]]",
+      "[[Maximum and minimum]]",
+      "[[Dedekind Cut]]"
+    ]
+  },
+  {
+    "file_name": "URA-01-04-consequences-of-completeness",
+    "title": "Consequences of Completeness",
+    "chapter_number": 1,
+    "section_number": 4,
+    "page": 20,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Nested Interval Property]]",
+      "[[Archimedean Property]]",
+      "[[Density of Q in R|Density of ℚ in ℝ]]",
+      "[[Density of I in R|Density of Irrationals]]",
+      "[[Nth root|Existence of n-th Roots]]"
+    ]
+  },
+  {
+    "file_name": "URA-01-05-cardinality",
+    "title": "Cardinality",
+    "chapter_number": 1,
+    "section_number": 5,
+    "page": 25,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Cardinality]]",
+      "[[Bijection]]",
+      "[[Countable Set]]",
+      "[[Uncountable Set]]",
+      "[[Q is countable]]",
+      "[[R is uncountable]]"
+    ]
+  },
+  {
+    "file_name": "URA-01-06-cantors-theorem",
+    "title": "Cantor’s Theorem",
+    "chapter_number": 1,
+    "section_number": 6,
+    "page": 32,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Cantor's Theorem]]",
+      "[[Power set]]"
+    ]
+  },
+  {
+    "file_name": "URA-01-07-epilogue",
+    "title": "Epilogue",
+    "chapter_number": 1,
+    "section_number": 7,
+    "page": 36,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "URA-02-sequences-and-series",
+    "title": "Sequences and Series",
+    "chapter_number": 2,
+    "section_number": null,
+    "page": 39,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-02-01-discussion-rearrangements-of-infinite-series",
+    "title": "Discussion: Rearrangements of Infinite Series",
+    "chapter_number": 2,
+    "section_number": 1,
+    "page": 39,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Infinite Series]]",
+      "[[Partial Sums]]",
+      "[[Rearrangements of series|Rearrangements]]"
+    ]
+  },
+  {
+    "file_name": "URA-02-02-the-limit-of-a-sequence",
+    "title": "The Limit of a Sequence",
+    "chapter_number": 2,
+    "section_number": 2,
+    "page": 42,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Sequence]]",
+      "[[Convergence of a Sequence]]",
+      "[[Neighborhood of epsilon]]",
+      "[[Uniqueness of Limits]]",
+      "[[Divergence]]"
+    ]
+  },
+  {
+    "file_name": "URA-02-03-the-algebraic-and-order-limit-theorems",
+    "title": "The Algebraic and Order Limit Theorems",
+    "chapter_number": 2,
+    "section_number": 3,
+    "page": 49,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Bounded Sequence]]",
+      "[[Convergent sequences are bounded]]",
+      "[[Algebraic Limit Theorem]]",
+      "[[Order Limit Theorem]]",
+      "[[Squeeze theorem]]"
+    ]
+  },
+  {
+    "file_name": "URA-02-04-the-monotone-convergence-theorem-and-a-first-look-at-infinite-series",
+    "title": "The Monotone Convergence Theorem and a First Look at Infinite Series",
+    "chapter_number": 2,
+    "section_number": 4,
+    "page": 56,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Monotone Sequence]]",
+      "[[Monotone Convergence theorem]]",
+      "[[Harmonic series]]",
+      "[[P-series]]"
+    ]
+  },
+  {
+    "file_name": "URA-02-05-subsequences-and-the-bolzano-weierstrass-theorem",
+    "title": "Subsequences and the Bolzano–Weierstrass Theorem",
+    "chapter_number": 2,
+    "section_number": 5,
+    "page": 62,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Subsequence]]",
+      "[[Subsequences of a convergent sequence converge to the same limit]]",
+      "[[Bolzano-Weierstrass Theorem]]"
+    ]
+  },
+  {
+    "file_name": "URA-02-06-the-cauchy-criterion",
+    "title": "The Cauchy Criterion",
+    "chapter_number": 2,
+    "section_number": 6,
+    "page": 66,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Cauchy Sequence]]",
+      "[[Cauchy sequences are bounded]]",
+      "[[Cauchy Criterion]]"
+    ]
+  },
+  {
+    "file_name": "URA-02-07-properties-of-infinite-series",
+    "title": "Properties of Infinite Series",
+    "chapter_number": 2,
+    "section_number": 7,
+    "page": 71,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": [
+      "[[Infinite Series]]",
+      "[[If \\sum a_k converges, then (a_k) to 0]]",
+      "[[Geometric series]]"
+    ]
+  },
+  {
+    "file_name": "URA-02-08-double-summations-and-products-of-infinite-series",
+    "title": "Double Summations and Products of Infinite Series",
+    "chapter_number": 2,
+    "section_number": 8,
+    "page": 79,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-02-09-epilogue",
+    "title": "Epilogue",
+    "chapter_number": 2,
+    "section_number": 9,
+    "page": 83,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "URA-03-basic-topology-of-r",
+    "title": "Basic Topology of R",
+    "chapter_number": 3,
+    "section_number": null,
+    "page": 85,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-03-01-discussion-the-cantor-set",
+    "title": "Discussion: The Cantor Set",
+    "chapter_number": 3,
+    "section_number": 1,
+    "page": 85,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-03-02-open-and-closed-sets",
+    "title": "Open and Closed Sets",
+    "chapter_number": 3,
+    "section_number": 2,
+    "page": 88,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-03-03-compact-sets",
+    "title": "Compact Sets",
+    "chapter_number": 3,
+    "section_number": 3,
+    "page": 96,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-03-04-perfect-sets-and-connected-sets",
+    "title": "Perfect Sets and Connected Sets",
+    "chapter_number": 3,
+    "section_number": 4,
+    "page": 102,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-03-05-baires-theorem",
+    "title": "Baire’s Theorem",
+    "chapter_number": 3,
+    "section_number": 5,
+    "page": 106,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-03-06-epilogue",
+    "title": "Epilogue",
+    "chapter_number": 3,
+    "section_number": 6,
+    "page": 109,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "URA-04-functional-limits-and-continuity",
+    "title": "Functional Limits and Continuity",
+    "chapter_number": 4,
+    "section_number": null,
+    "page": 111,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-04-01-discussion-examples-of-dirichlet-and-thomae",
+    "title": "Discussion: Examples of Dirichlet and Thomae",
+    "chapter_number": 4,
+    "section_number": 1,
+    "page": 111,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-04-02-functional-limits",
+    "title": "Functional Limits",
+    "chapter_number": 4,
+    "section_number": 2,
+    "page": 115,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-04-03-continuous-functions",
+    "title": "Continuous Functions",
+    "chapter_number": 4,
+    "section_number": 3,
+    "page": 122,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-04-04-continuous-functions-on-compact-sets",
+    "title": "Continuous Functions on Compact Sets",
+    "chapter_number": 4,
+    "section_number": 4,
+    "page": 129,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-04-05-the-intermediate-value-theorem",
+    "title": "The Intermediate Value Theorem",
+    "chapter_number": 4,
+    "section_number": 5,
+    "page": 136,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-04-06-sets-of-discontinuity",
+    "title": "Sets of Discontinuity",
+    "chapter_number": 4,
+    "section_number": 6,
+    "page": 141,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-04-07-epilogue",
+    "title": "Epilogue",
+    "chapter_number": 4,
+    "section_number": 7,
+    "page": 144,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "URA-05-the-derivative",
+    "title": "The Derivative",
+    "chapter_number": 5,
+    "section_number": null,
+    "page": 145,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-05-01-discussion-are-derivatives-continuous",
+    "title": "Discussion: Are Derivatives Continuous?",
+    "chapter_number": 5,
+    "section_number": 1,
+    "page": 145,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-05-02-derivatives-and-the-intermediate-value-property",
+    "title": "Derivatives and the Intermediate Value Property",
+    "chapter_number": 5,
+    "section_number": 2,
+    "page": 148,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-05-03-the-mean-value-theorems",
+    "title": "The Mean Value Theorems",
+    "chapter_number": 5,
+    "section_number": 3,
+    "page": 155,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-05-04-a-continuous-nowhere-differentiable-function",
+    "title": "A Continuous Nowhere-Differentiable Function",
+    "chapter_number": 5,
+    "section_number": 4,
+    "page": 162,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-05-05-epilogue",
+    "title": "Epilogue",
+    "chapter_number": 5,
+    "section_number": 5,
+    "page": 166,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "URA-06-sequences-and-series-of-functions",
+    "title": "Sequences and Series of Functions",
+    "chapter_number": 6,
+    "section_number": null,
+    "page": 169,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-06-01-discussion-the-power-of-power-series",
+    "title": "Discussion: The Power of Power Series",
+    "chapter_number": 6,
+    "section_number": 1,
+    "page": 169,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-06-02-uniform-convergence-of-a-sequence-of-functions",
+    "title": "Uniform Convergence of a Sequence of Functions",
+    "chapter_number": 6,
+    "section_number": 2,
+    "page": 173,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-06-03-uniform-convergence-and-differentiation",
+    "title": "Uniform Convergence and Differentiation",
+    "chapter_number": 6,
+    "section_number": 3,
+    "page": 184,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-06-04-series-of-functions",
+    "title": "Series of Functions",
+    "chapter_number": 6,
+    "section_number": 4,
+    "page": 188,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-06-05-power-series",
+    "title": "Power Series",
+    "chapter_number": 6,
+    "section_number": 5,
+    "page": 191,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-06-06-taylor-series",
+    "title": "Taylor Series",
+    "chapter_number": 6,
+    "section_number": 6,
+    "page": 197,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-06-07-the-weierstrass-approximation-theorem",
+    "title": "The Weierstrass Approximation Theorem",
+    "chapter_number": 6,
+    "section_number": 7,
+    "page": 205,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-06-08-epilogue",
+    "title": "Epilogue",
+    "chapter_number": 6,
+    "section_number": 8,
+    "page": 211,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "URA-07-the-riemann-integral",
+    "title": "The Riemann Integral",
+    "chapter_number": 7,
+    "section_number": null,
+    "page": 215,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-07-01-discussion-how-should-integration-be-defined",
+    "title": "Discussion: How Should Integration be Defined?",
+    "chapter_number": 7,
+    "section_number": 1,
+    "page": 215,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-07-02-the-definition-of-the-riemann-integral",
+    "title": "The Definition of the Riemann Integral",
+    "chapter_number": 7,
+    "section_number": 2,
+    "page": 218,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-07-03-integrating-functions-with-discontinuities",
+    "title": "Integrating Functions with Discontinuities",
+    "chapter_number": 7,
+    "section_number": 3,
+    "page": 224,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-07-04-properties-of-the-integral",
+    "title": "Properties of the Integral",
+    "chapter_number": 7,
+    "section_number": 4,
+    "page": 228,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-07-05-the-fundamental-theorem-of-calculus",
+    "title": "The Fundamental Theorem of Calculus",
+    "chapter_number": 7,
+    "section_number": 5,
+    "page": 234,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-07-06-lebesgues-criterion-for-riemann-integrability",
+    "title": "Lebesgue’s Criterion for Riemann Integrability",
+    "chapter_number": 7,
+    "section_number": 6,
+    "page": 238,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-07-07-epilogue",
+    "title": "Epilogue",
+    "chapter_number": 7,
+    "section_number": 7,
+    "page": 246,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "URA-08-additional-topics",
+    "title": "Additional Topics",
+    "chapter_number": 8,
+    "section_number": null,
+    "page": 249,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-08-01-the-generalized-riemann-integral",
+    "title": "The Generalized Riemann Integral",
+    "chapter_number": 8,
+    "section_number": 1,
+    "page": 249,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-08-02-metric-spaces-and-the-baire-category-theorem",
+    "title": "Metric Spaces and the Baire Category Theorem",
+    "chapter_number": 8,
+    "section_number": 2,
+    "page": 258,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-08-03-eulers-sum",
+    "title": "Euler’s Sum",
+    "chapter_number": 8,
+    "section_number": 3,
+    "page": 264,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-08-04-inventing-the-factorial-function",
+    "title": "Inventing the Factorial Function",
+    "chapter_number": 8,
+    "section_number": 4,
+    "page": 270,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-08-05-fourier-series",
+    "title": "Fourier Series",
+    "chapter_number": 8,
+    "section_number": 5,
+    "page": 281,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-08-06-a-construction-of-r-from-q",
+    "title": "A Construction of R From Q",
+    "chapter_number": 8,
+    "section_number": 6,
+    "page": 297,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "URA-bibliography",
+    "title": "Bibliography",
+    "chapter_number": null,
+    "section_number": null,
+    "page": 305,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "URA-index",
+    "title": "Index",
+    "chapter_number": null,
+    "section_number": null,
+    "page": 307,
+    "base": "[[Understanding Real Analysis.base]]",
+    "concepts": []
+  }
+]
+

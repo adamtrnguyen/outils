@@ -1,0 +1,158 @@
+[
+  {
+    "file_name": "UDL-01-introduction",
+    "title": "Introduction",
+    "chapter_number": 1,
+    "section_number": null,
+    "page": 1,
+    "base": "[[Understanding Deep Learning.base]]",
+    "concepts": []
+  },
+  { "file_name": "UDL-01-01-supervised-learning", "title": "Supervised learning", "chapter_number": 1, "section_number": 1, "page": 1, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-01-02-unsupervised-learning", "title": "Unsupervised learning", "chapter_number": 1, "section_number": 2, "page": 7, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-01-03-reinforcement-learning", "title": "Reinforcement learning", "chapter_number": 1, "section_number": 3, "page": 11, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-01-04-ethics", "title": "Ethics", "chapter_number": 1, "section_number": 4, "page": 12, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-01-05-structure-of-book", "title": "Structure of book", "chapter_number": 1, "section_number": 5, "page": 15, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-01-06-other-books", "title": "Other books", "chapter_number": 1, "section_number": 6, "page": 15, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-01-07-how-to-read-this-book", "title": "How to read this book", "chapter_number": 1, "section_number": 7, "page": 16, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+
+  {
+    "file_name": "UDL-02-supervised-learning",
+    "title": "Supervised learning",
+    "chapter_number": 2,
+    "section_number": null,
+    "page": 17,
+    "base": "[[Understanding Deep Learning.base]]",
+    "concepts": []
+  },
+  { "file_name": "UDL-02-01-supervised-learning-overview", "title": "Supervised learning overview", "chapter_number": 2, "section_number": 1, "page": 17, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-02-02-linear-regression-example", "title": "Linear regression example", "chapter_number": 2, "section_number": 2, "page": 18, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-02-03-summary", "title": "Summary", "chapter_number": 2, "section_number": 3, "page": 22, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+
+  {
+    "file_name": "UDL-03-shallow-neural-networks",
+    "title": "Shallow neural networks",
+    "chapter_number": 3,
+    "section_number": null,
+    "page": 25,
+    "base": "[[Understanding Deep Learning.base]]",
+    "concepts": []
+  },
+  { "file_name": "UDL-03-01-neural-network-example", "title": "Neural network example", "chapter_number": 3, "section_number": 1, "page": 25, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-03-02-universal-approximation-theorem", "title": "Universal approximation theorem", "chapter_number": 3, "section_number": 2, "page": 29, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-03-03-multivariate-inputs-and-outputs", "title": "Multivariate inputs and outputs", "chapter_number": 3, "section_number": 3, "page": 30, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-03-04-shallow-neural-networks-general-case", "title": "Shallow neural networks: general case", "chapter_number": 3, "section_number": 4, "page": 33, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-03-05-terminology", "title": "Terminology", "chapter_number": 3, "section_number": 5, "page": 35, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-03-06-summary", "title": "Summary", "chapter_number": 3, "section_number": 6, "page": 36, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+
+  {
+    "file_name": "UDL-04-deep-neural-networks",
+    "title": "Deep neural networks",
+    "chapter_number": 4,
+    "section_number": null,
+    "page": 41,
+    "base": "[[Understanding Deep Learning.base]]",
+    "concepts": []
+  },
+  { "file_name": "UDL-04-01-composing-neural-networks", "title": "Composing neural networks", "chapter_number": 4, "section_number": 1, "page": 41, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-04-02-from-composing-networks-to-deep-networks", "title": "From composing networks to deep networks", "chapter_number": 4, "section_number": 2, "page": 43, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-04-03-deep-neural-networks", "title": "Deep neural networks", "chapter_number": 4, "section_number": 3, "page": 45, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-04-04-matrix-notation", "title": "Matrix notation", "chapter_number": 4, "section_number": 4, "page": 48, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-04-05-shallow-vs-deep-neural-networks", "title": "Shallow vs. deep neural networks", "chapter_number": 4, "section_number": 5, "page": 49, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-04-06-summary", "title": "Summary", "chapter_number": 4, "section_number": 6, "page": 52, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+
+  {
+    "file_name": "UDL-05-loss-functions",
+    "title": "Loss functions",
+    "chapter_number": 5,
+    "section_number": null,
+    "page": 56,
+    "base": "[[Understanding Deep Learning.base]]",
+    "concepts": []
+  },
+  { "file_name": "UDL-05-01-maximum-likelihood", "title": "Maximum likelihood", "chapter_number": 5, "section_number": 1, "page": 56, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-05-02-recipe-for-constructing-loss-functions", "title": "Recipe for constructing loss functions", "chapter_number": 5, "section_number": 2, "page": 60, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-05-03-example-univariate-regression", "title": "Example 1: univariate regression", "chapter_number": 5, "section_number": 3, "page": 61, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-05-04-example-binary-classification", "title": "Example 2: binary classification", "chapter_number": 5, "section_number": 4, "page": 64, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-05-05-example-multiclass-classification", "title": "Example 3: multiclass classification", "chapter_number": 5, "section_number": 5, "page": 67, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-05-06-multiple-outputs", "title": "Multiple outputs", "chapter_number": 5, "section_number": 6, "page": 69, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-05-07-cross-entropy-loss", "title": "Cross-entropy loss", "chapter_number": 5, "section_number": 7, "page": 71, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-05-08-summary", "title": "Summary", "chapter_number": 5, "section_number": 8, "page": 72, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+
+  {
+    "file_name": "UDL-06-fitting-models",
+    "title": "Fitting models",
+    "chapter_number": 6,
+    "section_number": null,
+    "page": 77,
+    "base": "[[Understanding Deep Learning.base]]",
+    "concepts": []
+  },
+  { "file_name": "UDL-06-01-gradient-descent", "title": "Gradient descent", "chapter_number": 6, "section_number": 1, "page": 77, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-06-02-stochastic-gradient-descent", "title": "Stochastic gradient descent", "chapter_number": 6, "section_number": 2, "page": 83, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-06-03-momentum", "title": "Momentum", "chapter_number": 6, "section_number": 3, "page": 86, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-06-04-adam", "title": "Adam", "chapter_number": 6, "section_number": 4, "page": 88, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-06-05-training-algorithm-hyperparameters", "title": "Training algorithm hyperparameters", "chapter_number": 6, "section_number": 5, "page": 91, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-06-06-summary", "title": "Summary", "chapter_number": 6, "section_number": 6, "page": 91, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+
+  {
+    "file_name": "UDL-07-gradients-and-initialization",
+    "title": "Gradients and initialization",
+    "chapter_number": 7,
+    "section_number": null,
+    "page": 96,
+    "base": "[[Understanding Deep Learning.base]]",
+    "concepts": []
+  },
+  { "file_name": "UDL-07-01-problem-definitions", "title": "Problem definitions", "chapter_number": 7, "section_number": 1, "page": 96, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-07-02-computing-derivatives", "title": "Computing derivatives", "chapter_number": 7, "section_number": 2, "page": 97, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-07-03-toy-example", "title": "Toy example", "chapter_number": 7, "section_number": 3, "page": 100, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-07-04-backpropagation-algorithm", "title": "Backpropagation algorithm", "chapter_number": 7, "section_number": 4, "page": 103, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-07-05-parameter-initialization", "title": "Parameter initialization", "chapter_number": 7, "section_number": 5, "page": 107, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-07-06-example-training-code", "title": "Example training code", "chapter_number": 7, "section_number": 6, "page": 111, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-07-07-summary", "title": "Summary", "chapter_number": 7, "section_number": 7, "page": 111, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+
+  {
+    "file_name": "UDL-08-measuring-performance",
+    "title": "Measuring performance",
+    "chapter_number": 8,
+    "section_number": null,
+    "page": 118,
+    "base": "[[Understanding Deep Learning.base]]",
+    "concepts": []
+  },
+  { "file_name": "UDL-08-01-training-a-simple-model", "title": "Training a simple model", "chapter_number": 8, "section_number": 1, "page": 118, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-08-02-sources-of-error", "title": "Sources of error", "chapter_number": 8, "section_number": 2, "page": 120, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-08-03-reducing-error", "title": "Reducing error", "chapter_number": 8, "section_number": 3, "page": 124, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-08-04-double-descent", "title": "Double descent", "chapter_number": 8, "section_number": 4, "page": 127, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-08-05-choosing-hyperparameters", "title": "Choosing hyperparameters", "chapter_number": 8, "section_number": 5, "page": 132, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-08-06-summary", "title": "Summary", "chapter_number": 8, "section_number": 6, "page": 133, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+
+  {
+    "file_name": "UDL-09-regularization",
+    "title": "Regularization",
+    "chapter_number": 9,
+    "section_number": null,
+    "page": 138,
+    "base": "[[Understanding Deep Learning.base]]",
+    "concepts": []
+  },
+  { "file_name": "UDL-09-01-explicit-regularization", "title": "Explicit regularization", "chapter_number": 9, "section_number": 1, "page": 138, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-09-02-implicit-regularization", "title": "Implicit regularization", "chapter_number": 9, "section_number": 2, "page": 141, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-09-03-heuristics-to-improve-performance", "title": "Heuristics to improve performance", "chapter_number": 9, "section_number": 3, "page": 144, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-09-04-summary", "title": "Summary", "chapter_number": 9, "section_number": 4, "page": 154, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+
+  {
+    "file_name": "UDL-10-convolutional-networks",
+    "title": "Convolutional networks",
+    "chapter_number": 10,
+    "section_number": null,
+    "page": 161,
+    "base": "[[Understanding Deep Learning.base]]",
+    "concepts": []
+  },
+  { "file_name": "UDL-10-01-invariance-and-equivariance", "title": "Invariance and equivariance", "chapter_number": 10, "section_number": 1, "page": 161, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-10-02-convolutional-networks-for-1d-inputs", "title": "Convolutional networks for 1D inputs", "chapter_number": 10, "section_number": 2, "page": 163, "base": "[[Understanding Deep Learning.base]]", "concepts": [] },
+  { "file_name": "UDL-10-03-convolutional-networks-for-2d-inputs", "title": "Convolutional networks for 2D inputs", "chapter_number": 10, "section_number": 3, "page": 170, "base": "[[Understanding Deep Learning.base]]", "concepts": [] }
+]
+
