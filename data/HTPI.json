@@ -1,0 +1,480 @@
+[
+  {
+    "file_name": "HTPI - 0.1 Preface to the Third Edition",
+    "title": "Preface to the Third Edition",
+    "chapter": "0",
+    "section": "0.1",
+    "page": "ix",
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 0.2 Introduction",
+    "title": "Introduction",
+    "chapter": "0",
+    "section": "0.2",
+    "page": 1,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTPI - 1 Sentential Logic",
+    "title": "Sentential Logic",
+    "chapter": "1",
+    "section": "1.0",
+    "page": 8,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 1.1 Deductive Reasoning and Logical Connectives",
+    "title": "Deductive Reasoning and Logical Connectives",
+    "chapter": "1",
+    "section": "1.1",
+    "page": 8,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 1.2 Truth Tables",
+    "title": "Truth Tables",
+    "chapter": "1",
+    "section": "1.2",
+    "page": 15,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 1.3 Variables and Sets",
+    "title": "Variables and Sets",
+    "chapter": "1",
+    "section": "1.3",
+    "page": 26,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 1.4 Operations on Sets",
+    "title": "Operations on Sets",
+    "chapter": "1",
+    "section": "1.4",
+    "page": 35,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 1.5 The Conditional and Biconditional Connectives",
+    "title": "The Conditional and Biconditional Connectives",
+    "chapter": "1",
+    "section": "1.5",
+    "page": 45,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTPI - 2 Quantificational Logic",
+    "title": "Quantificational Logic",
+    "chapter": "2",
+    "section": "2.0",
+    "page": 58,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 2.1 Quantifiers",
+    "title": "Quantifiers",
+    "chapter": "2",
+    "section": "2.1",
+    "page": 58,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 2.2 Equivalences Involving Quantifiers",
+    "title": "Equivalences Involving Quantifiers",
+    "chapter": "2",
+    "section": "2.2",
+    "page": 68,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 2.3 More Operations on Sets",
+    "title": "More Operations on Sets",
+    "chapter": "2",
+    "section": "2.3",
+    "page": 78,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTPI - 3 Proofs",
+    "title": "Proofs",
+    "chapter": "3",
+    "section": "3.0",
+    "page": 89,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 3.1 Proof Strategies",
+    "title": "Proof Strategies",
+    "chapter": "3",
+    "section": "3.1",
+    "page": 89,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 3.2 Proofs Involving Negations and Conditionals",
+    "title": "Proofs Involving Negations and Conditionals",
+    "chapter": "3",
+    "section": "3.2",
+    "page": 100,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 3.3 Proofs Involving Quantifiers",
+    "title": "Proofs Involving Quantifiers",
+    "chapter": "3",
+    "section": "3.3",
+    "page": 113,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 3.4 Proofs Involving Conjunctions and Biconditionals",
+    "title": "Proofs Involving Conjunctions and Biconditionals",
+    "chapter": "3",
+    "section": "3.4",
+    "page": 130,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 3.5 Proofs Involving Disjunctions",
+    "title": "Proofs Involving Disjunctions",
+    "chapter": "3",
+    "section": "3.5",
+    "page": 142,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 3.6 Existence and Uniqueness Proofs",
+    "title": "Existence and Uniqueness Proofs",
+    "chapter": "3",
+    "section": "3.6",
+    "page": 153,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 3.7 More Examples of Proofs",
+    "title": "More Examples of Proofs",
+    "chapter": "3",
+    "section": "3.7",
+    "page": 162,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTPI - 4 Relations",
+    "title": "Relations",
+    "chapter": "4",
+    "section": "4.0",
+    "page": 173,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 4.1 Ordered Pairs and Cartesian Products",
+    "title": "Ordered Pairs and Cartesian Products",
+    "chapter": "4",
+    "section": "4.1",
+    "page": 173,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 4.2 Relations",
+    "title": "Relations",
+    "chapter": "4",
+    "section": "4.2",
+    "page": 182,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 4.3 More About Relations",
+    "title": "More About Relations",
+    "chapter": "4",
+    "section": "4.3",
+    "page": 191,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 4.4 Ordering Relations",
+    "title": "Ordering Relations",
+    "chapter": "4",
+    "section": "4.4",
+    "page": 200,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 4.5 Equivalence Relations",
+    "title": "Equivalence Relations",
+    "chapter": "4",
+    "section": "4.5",
+    "page": 215,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTPI - 5 Functions",
+    "title": "Functions",
+    "chapter": "5",
+    "section": "5.0",
+    "page": 229,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 5.1 Functions",
+    "title": "Functions",
+    "chapter": "5",
+    "section": "5.1",
+    "page": 229,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 5.2 One-to-One and Onto",
+    "title": "One-to-One and Onto",
+    "chapter": "5",
+    "section": "5.2",
+    "page": 240,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 5.3 Inverses of Functions",
+    "title": "Inverses of Functions",
+    "chapter": "5",
+    "section": "5.3",
+    "page": 249,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 5.4 Closures",
+    "title": "Closures",
+    "chapter": "5",
+    "section": "5.4",
+    "page": 259,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 5.5 Images and Inverse Images - A Research Project",
+    "title": "Images and Inverse Images: A Research Project",
+    "chapter": "5",
+    "section": "5.5",
+    "page": 268,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTPI - 6 Mathematical Induction",
+    "title": "Mathematical Induction",
+    "chapter": "6",
+    "section": "6.0",
+    "page": 273,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 6.1 Proof by Mathematical Induction",
+    "title": "Proof by Mathematical Induction",
+    "chapter": "6",
+    "section": "6.1",
+    "page": 273,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 6.2 More Examples",
+    "title": "More Examples",
+    "chapter": "6",
+    "section": "6.2",
+    "page": 280,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 6.3 Recursion",
+    "title": "Recursion",
+    "chapter": "6",
+    "section": "6.3",
+    "page": 293,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 6.4 Strong Induction",
+    "title": "Strong Induction",
+    "chapter": "6",
+    "section": "6.4",
+    "page": 303,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 6.5 Closures Again",
+    "title": "Closures Again",
+    "chapter": "6",
+    "section": "6.5",
+    "page": 316,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTPI - 7 Number Theory",
+    "title": "Number Theory",
+    "chapter": "7",
+    "section": "7.0",
+    "page": 324,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 7.1 Greatest Common Divisors",
+    "title": "Greatest Common Divisors",
+    "chapter": "7",
+    "section": "7.1",
+    "page": 324,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 7.2 Prime Factorization",
+    "title": "Prime Factorization",
+    "chapter": "7",
+    "section": "7.2",
+    "page": 332,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 7.3 Modular Arithmetic",
+    "title": "Modular Arithmetic",
+    "chapter": "7",
+    "section": "7.3",
+    "page": 341,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 7.4 Euler’s Theorem",
+    "title": "Euler’s Theorem",
+    "chapter": "7",
+    "section": "7.4",
+    "page": 351,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 7.5 Public-Key Cryptography",
+    "title": "Public-Key Cryptography",
+    "chapter": "7",
+    "section": "7.5",
+    "page": 359,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTPI - 8 Infinite Sets",
+    "title": "Infinite Sets",
+    "chapter": "8",
+    "section": "8.0",
+    "page": 372,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 8.1 Equinumerous Sets",
+    "title": "Equinumerous Sets",
+    "chapter": "8",
+    "section": "8.1",
+    "page": 372,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 8.2 Countable and Uncountable Sets",
+    "title": "Countable and Uncountable Sets",
+    "chapter": "8",
+    "section": "8.2",
+    "page": 382,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - 8.3 The Cantor-Schroder-Bernstein Theorem",
+    "title": "The Cantor-Schroder-Bernstein Theorem",
+    "chapter": "8",
+    "section": "8.3",
+    "page": 389,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTPI - A Appendix - Solutions to Selected Exercises",
+    "title": "Appendix: Solutions to Selected Exercises",
+    "chapter": "A",
+    "section": "A.1",
+    "page": 397,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - B Suggestions for Further Reading",
+    "title": "Suggestions for Further Reading",
+    "chapter": "B",
+    "section": "B.1",
+    "page": 451,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - C Summary of Proof Techniques",
+    "title": "Summary of Proof Techniques",
+    "chapter": "C",
+    "section": "C.1",
+    "page": 453,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTPI - I Index",
+    "title": "Index",
+    "chapter": "I",
+    "section": "I.1",
+    "page": 455,
+    "base": "[[How to Prove It.base]]",
+    "concepts": []
+  }
+]
+

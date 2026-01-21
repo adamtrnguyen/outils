@@ -1,0 +1,739 @@
+[
+  {
+    "file_name": "HAA - 1.01 The Skeleton",
+    "title": "The Skeleton",
+    "chapter": "1. Human Body Support",
+    "section": "1.01",
+    "page": 10,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 1.02 Joints of the human body",
+    "title": "Joints of the human body",
+    "chapter": "1. Human Body Support",
+    "section": "1.02",
+    "page": 12,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 1.03 The changing relationship of human body proportions",
+    "title": "The changing relationship of human body proportions",
+    "chapter": "1. Human Body Support",
+    "section": "1.03",
+    "page": 15,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 1.04 Exercise in drawing human body support",
+    "title": "Exercise in drawing human body support",
+    "chapter": "1. Human Body Support",
+    "section": "1.04",
+    "page": 18,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 1.05 The relationship between muscles and joints",
+    "title": "The relationship between muscles and joints",
+    "chapter": "1. Human Body Support",
+    "section": "1.05",
+    "page": 24,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 1.06 Proportioning of different characters",
+    "title": "Proportioning of different characters",
+    "chapter": "1. Human Body Support",
+    "section": "1.06",
+    "page": 27,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 1.07 Geometric Perspective Exercises",
+    "title": "Geometric Perspective Exercises",
+    "chapter": "1. Human Body Support",
+    "section": "1.07",
+    "page": 29,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 1.08 How to shape the human body using a square body",
+    "title": "How to shape the human body using a square body",
+    "chapter": "1. Human Body Support",
+    "section": "1.08",
+    "page": 35,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 1.09 The relationship between the cylinder and the human body",
+    "title": "The relationship between the cylinder and the human body",
+    "chapter": "1. Human Body Support",
+    "section": "1.09",
+    "page": 40,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 1.10 The human body and flat shapes",
+    "title": "The human body and flat shapes",
+    "chapter": "1. Human Body Support",
+    "section": "1.10",
+    "page": 45,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HAA - 2.01 Skull, Face and Jaw",
+    "title": "Skull, Face and Jaw",
+    "chapter": "2. Head Structure",
+    "section": "2.01",
+    "page": 50,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 2.02 Steps for shaping the bones of the head",
+    "title": "Steps for shaping the bones of the head",
+    "chapter": "2. Head Structure",
+    "section": "2.02",
+    "page": 54,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 2.03 Practice drawing the bones of the head",
+    "title": "Practice drawing the bones of the head",
+    "chapter": "2. Head Structure",
+    "section": "2.03",
+    "page": 56,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 2.04 Use of head trisection",
+    "title": "Use of head trisection",
+    "chapter": "2. Head Structure",
+    "section": "2.04",
+    "page": 58,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 2.05 Facial features of people",
+    "title": "Facial features of people",
+    "chapter": "2. Head Structure",
+    "section": "2.05",
+    "page": 64,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 2.06 Facial features of the same character from different angles",
+    "title": "Facial features of the same character from different angles",
+    "chapter": "2. Head Structure",
+    "section": "2.06",
+    "page": 69,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 2.07 Modeling of the five features",
+    "title": "Modeling of the five features",
+    "chapter": "2. Head Structure",
+    "section": "2.07",
+    "page": 75,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 2.08 Hair sculpting",
+    "title": "Hair sculpting",
+    "chapter": "2. Head Structure",
+    "section": "2.08",
+    "page": 88,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 2.09 Facial muscles and expressions",
+    "title": "Facial muscles and expressions",
+    "chapter": "2. Head Structure",
+    "section": "2.09",
+    "page": 100,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 2.10 Steps for drawing the head",
+    "title": "Steps for drawing the head",
+    "chapter": "2. Head Structure",
+    "section": "2.10",
+    "page": 108,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 2.11 Comprehensive exercises for the head",
+    "title": "Comprehensive exercises for the head",
+    "chapter": "2. Head Structure",
+    "section": "2.11",
+    "page": 111,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HAA - 3.01 Torso structure breakdown",
+    "title": "Torso structure breakdown",
+    "chapter": "3. Torso Structure",
+    "section": "3.01",
+    "page": 118,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 3.02 Structure of the neck",
+    "title": "Structure of the neck",
+    "chapter": "3. Torso Structure",
+    "section": "3.02",
+    "page": 124,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 3.03 Structure of the waist",
+    "title": "Structure of the waist",
+    "chapter": "3. Torso Structure",
+    "section": "3.03",
+    "page": 133,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 3.04 Structure of the thoracic cavity",
+    "title": "Structure of the thoracic cavity",
+    "chapter": "3. Torso Structure",
+    "section": "3.04",
+    "page": 140,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 3.05 The structure of the hips",
+    "title": "The structure of the hips",
+    "chapter": "3. Torso Structure",
+    "section": "3.05",
+    "page": 147,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 3.06 Comparison of the torsos of a fat person and a thin person",
+    "title": "Comparison of the torsos of a fat person and a thin person",
+    "chapter": "3. Torso Structure",
+    "section": "3.06",
+    "page": 153,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 3.07 Steps for drawing the torso",
+    "title": "Steps for drawing the torso",
+    "chapter": "3. Torso Structure",
+    "section": "3.07",
+    "page": 157,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 3.08 Drawing steps for variations and utilization of torso",
+    "title": "Drawing steps for variations and utilization of torso",
+    "chapter": "3. Torso Structure",
+    "section": "3.08",
+    "page": 164,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HAA - 4.01 Limb structure explanation",
+    "title": "Limb structure explanation",
+    "chapter": "4. Limbs Structure",
+    "section": "4.01",
+    "page": 174,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.02 Structure of the shoulder",
+    "title": "Structure of the shoulder",
+    "chapter": "4. Limbs Structure",
+    "section": "4.02",
+    "page": 176,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.03 Bones and muscles of the upper arm",
+    "title": "Bones and muscles of the upper arm",
+    "chapter": "4. Limbs Structure",
+    "section": "4.03",
+    "page": 182,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.04 Structure of the elbow",
+    "title": "Structure of the elbow",
+    "chapter": "4. Limbs Structure",
+    "section": "4.04",
+    "page": 183,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.05 Skeletal structure of the forearm",
+    "title": "Skeletal structure of the forearm",
+    "chapter": "4. Limbs Structure",
+    "section": "4.05",
+    "page": 184,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.06 Points for drawing the arm structure",
+    "title": "Points for drawing the arm structure",
+    "chapter": "4. Limbs Structure",
+    "section": "4.06",
+    "page": 185,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.07 Arm Drawing Exercise",
+    "title": "Arm Drawing Exercise",
+    "chapter": "4. Limbs Structure",
+    "section": "4.07",
+    "page": 188,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.08 Hips and lower limbs",
+    "title": "Hips and lower limbs",
+    "chapter": "4. Limbs Structure",
+    "section": "4.08",
+    "page": 190,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.09 Structure of the thigh muscles",
+    "title": "Structure of the thigh muscles",
+    "chapter": "4. Limbs Structure",
+    "section": "4.09",
+    "page": 195,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.10 Structure of the knee joint",
+    "title": "Structure of the knee joint",
+    "chapter": "4. Limbs Structure",
+    "section": "4.10",
+    "page": 196,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.11 Structure of the calf",
+    "title": "Structure of the calf",
+    "chapter": "4. Limbs Structure",
+    "section": "4.11",
+    "page": 197,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.12 Exercises for drawing leg muscles",
+    "title": "Exercises for drawing leg muscles",
+    "chapter": "4. Limbs Structure",
+    "section": "4.12",
+    "page": 198,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 4.13 The use of upper limb structure",
+    "title": "The use of upper limb structure",
+    "chapter": "4. Limbs Structure",
+    "section": "4.13",
+    "page": 205,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HAA - 5.01 Structural disassembly of the hand",
+    "title": "Structural disassembly of the hand",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.01",
+    "page": 216,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.02 Proportion of hands",
+    "title": "Proportion of hands",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.02",
+    "page": 217,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.03 Structure of the wrist",
+    "title": "Structure of the wrist",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.03",
+    "page": 218,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.04 The structure of the palm",
+    "title": "The structure of the palm",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.04",
+    "page": 219,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.05 The structure of the fingers",
+    "title": "The structure of the fingers",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.05",
+    "page": 221,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.06 Spatial relationships of the hand",
+    "title": "Spatial relationships of the hand",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.06",
+    "page": 224,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.07 Depicting the hand holding an object exercise",
+    "title": "Depicting the hand holding an object exercise",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.07",
+    "page": 229,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.08 Exercises for drawing a clenched fist",
+    "title": "Exercises for drawing a clenched fist",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.08",
+    "page": 231,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.09 Two-handed Drawing Exercise",
+    "title": "Two-handed Drawing Exercise",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.09",
+    "page": 233,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.10 Hands of different shapes",
+    "title": "Hands of different shapes",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.10",
+    "page": 235,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.11 Structure of the foot breakdown",
+    "title": "Structure of the foot breakdown",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.11",
+    "page": 239,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.12 The proportions of the foot",
+    "title": "The proportions of the foot",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.12",
+    "page": 240,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.13 Structure of the ankle",
+    "title": "Structure of the ankle",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.13",
+    "page": 241,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.14 Structural points of the foot",
+    "title": "Structural points of the foot",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.14",
+    "page": 243,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.15 The Spatial Relationship between the Foot and the Ground",
+    "title": "The Spatial Relationship between the Foot and the Ground",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.15",
+    "page": 248,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.16 Steps for drawing feet",
+    "title": "Steps for drawing feet",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.16",
+    "page": 249,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.17 Foot Drawing Points",
+    "title": "Foot Drawing Points",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.17",
+    "page": 250,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 5.18 Shoe Drawing Exercises",
+    "title": "Shoe Drawing Exercises",
+    "chapter": "5. Hand and Foot Structure",
+    "section": "5.18",
+    "page": 252,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HAA - 6.01 Cube Man Drawing Exercise",
+    "title": "Cube Man Drawing Exercise",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.01",
+    "page": 260,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.02 Cube Man from Imagination",
+    "title": "Cube Man from Imagination",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.02",
+    "page": 264,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.03 Square Man Muscle Adding Exercise",
+    "title": "Square Man Muscle Adding Exercise",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.03",
+    "page": 266,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.04 Simplification of muscles",
+    "title": "Simplification of muscles",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.04",
+    "page": 268,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.05 Adjustment of human body dynamics",
+    "title": "Adjustment of human body dynamics",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.05",
+    "page": 270,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.06 Quickly draw the human body dynamics",
+    "title": "Quickly draw the human body dynamics",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.06",
+    "page": 272,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.07 Drawing the human body in different shapes",
+    "title": "Drawing the human body in different shapes",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.07",
+    "page": 275,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.08 Female Figure Sketches",
+    "title": "Female Figure Sketches",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.08",
+    "page": 278,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.09 Character Sketching",
+    "title": "Character Sketching",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.09",
+    "page": 280,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.10 Optimizing the human body support",
+    "title": "Optimizing the human body support",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.10",
+    "page": 282,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.11 Exercises for drawing the human body with a sense of power",
+    "title": "Exercises for drawing the human body with a sense of power",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.11",
+    "page": 284,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.12 Comprehensive drawing exercise of human body support",
+    "title": "Comprehensive drawing exercise of human body support",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.12",
+    "page": 286,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 6.13 Ink and wash human body dynamic drawing exercises",
+    "title": "Ink and wash human body dynamic drawing exercises",
+    "chapter": "6. Body Support Exercises",
+    "section": "6.13",
+    "page": 290,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HAA - 7.01 Heibai Wuchang (Black Impermanence)",
+    "title": "Heibai Wuchang (Black Impermanence)",
+    "chapter": "7. Artwork Appreciation",
+    "section": "7.01",
+    "page": 296,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 7.02 Sword-wielding Devil",
+    "title": "Sword-wielding Devil",
+    "chapter": "7. Artwork Appreciation",
+    "section": "7.02",
+    "page": 300,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 7.03 Ghost Jack-o'-lantern",
+    "title": "Ghost Jack-o'-lantern",
+    "chapter": "7. Artwork Appreciation",
+    "section": "7.03",
+    "page": 304,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 7.04 The King of Powerful Evil Ghosts",
+    "title": "The King of Powerful Evil Ghosts",
+    "chapter": "7. Artwork Appreciation",
+    "section": "7.04",
+    "page": 310,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 7.05 Demon and Wild Hog",
+    "title": "Demon and Wild Hog",
+    "chapter": "7. Artwork Appreciation",
+    "section": "7.05",
+    "page": 315,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 7.06 More Demons and Spirits",
+    "title": "More Demons and Spirits",
+    "chapter": "7. Artwork Appreciation",
+    "section": "7.06",
+    "page": 316,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HAA - 7.07 Character Showcase",
+    "title": "Character Showcase",
+    "chapter": "7. Artwork Appreciation",
+    "section": "7.07",
+    "page": 321,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HAA - 8.01 Afterword",
+    "title": "Afterword",
+    "chapter": "8. Afterword",
+    "section": "8.01",
+    "page": 326,
+    "base": "[[Human Anatomy For Artists.base]]",
+    "concepts": []
+  }
+]
+

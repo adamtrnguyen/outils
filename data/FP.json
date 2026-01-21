@@ -1,0 +1,206 @@
+[
+  {
+    "file_name": "FP - 01. Fashion History & Style",
+    "title": "Fashion History & Style",
+    "chapter": "1",
+    "section": "1.0",
+    "page": 8,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "FP - 01.1 Fashion and World History",
+    "title": "Fashion and World History",
+    "chapter": "1",
+    "section": "1.1",
+    "page": 10,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "FP - 01.2 Fashion Style and Silhouette",
+    "title": "Fashion Style and Silhouette",
+    "chapter": "1",
+    "section": "1.2",
+    "page": 17,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "FP - 02. Apparel",
+    "title": "Apparel",
+    "chapter": "2",
+    "section": "2.0",
+    "page": 30,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 02.1 Jacket", "title": "Jacket", "chapter": "2", "section": "2.1", "page": 32, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.2 Coat and Outerwear", "title": "Coat and Outerwear", "chapter": "2", "section": "2.2", "page": 40, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.3 Shirt", "title": "Shirt", "chapter": "2", "section": "2.3", "page": 49, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.4 Blouse and Other Tops", "title": "Blouse and Other Tops", "chapter": "2", "section": "2.4", "page": 58, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.5 Dress", "title": "Dress", "chapter": "2", "section": "2.5", "page": 65, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.6 Vest", "title": "Vest", "chapter": "2", "section": "2.6", "page": 78, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.7 Sweater and Cardigan", "title": "Sweater and Cardigan", "chapter": "2", "section": "2.7", "page": 83, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.8 Denim and Jeans", "title": "Denim and Jeans", "chapter": "2", "section": "2.8", "page": 91, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.9 Pants", "title": "Pants", "chapter": "2", "section": "2.9", "page": 99, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.10 Skirt", "title": "Skirt", "chapter": "2", "section": "2.10", "page": 112, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.11 Jumpsuit and Overall", "title": "Jumpsuit and Overall", "chapter": "2", "section": "2.11", "page": 124, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.12 Suit", "title": "Suit", "chapter": "2", "section": "2.12", "page": 127, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.13 Sleepwear and Nightwear", "title": "Sleepwear and Nightwear", "chapter": "2", "section": "2.13", "page": 131, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 02.14 Underwear", "title": "Underwear", "chapter": "2", "section": "2.14", "page": 134, "base": "[[Fashionpedia.base]]", "concepts": [] },
+
+  {
+    "file_name": "FP - 03. Detail",
+    "title": "Detail",
+    "chapter": "3",
+    "section": "3.0",
+    "page": 146,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 03.1 Neckline", "title": "Neckline", "chapter": "3", "section": "3.1", "page": 148, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 03.2 Collar", "title": "Collar", "chapter": "3", "section": "3.2", "page": 150, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 03.3 Lapel", "title": "Lapel", "chapter": "3", "section": "3.3", "page": 152, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 03.4 Sleeve", "title": "Sleeve", "chapter": "3", "section": "3.4", "page": 153, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 03.5 Cuff", "title": "Cuff", "chapter": "3", "section": "3.5", "page": 156, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 03.6 Opening", "title": "Opening", "chapter": "3", "section": "3.6", "page": 157, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 03.7 Pocket", "title": "Pocket", "chapter": "3", "section": "3.7", "page": 158, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 03.8 Jacket Detail", "title": "Jacket Detail", "chapter": "3", "section": "3.8", "page": 160, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 03.9 Shirt Detail", "title": "Shirt Detail", "chapter": "3", "section": "3.9", "page": 161, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 03.10 Pants Detail", "title": "Pants Detail", "chapter": "3", "section": "3.10", "page": 162, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 03.11 Jeans Detail", "title": "Jeans Detail", "chapter": "3", "section": "3.11", "page": 163, "base": "[[Fashionpedia.base]]", "concepts": [] },
+
+  {
+    "file_name": "FP - 04. Accessories",
+    "title": "Accessories",
+    "chapter": "4",
+    "section": "4.0",
+    "page": 164,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 04.1 Hat and Cap", "title": "Hat and Cap", "chapter": "4", "section": "4.1", "page": 166, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.2 Mask", "title": "Mask", "chapter": "4", "section": "4.2", "page": 169, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.3 Eyewear", "title": "Eyewear", "chapter": "4", "section": "4.3", "page": 170, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.4 Tie", "title": "Tie", "chapter": "4", "section": "4.4", "page": 172, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.5 Scarf", "title": "Scarf", "chapter": "4", "section": "4.5", "page": 173, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.6 Bag", "title": "Bag", "chapter": "4", "section": "4.6", "page": 174, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.7 Wallet", "title": "Wallet", "chapter": "4", "section": "4.7", "page": 178, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.8 Watch", "title": "Watch", "chapter": "4", "section": "4.8", "page": 179, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.9 Gloves", "title": "Gloves", "chapter": "4", "section": "4.9", "page": 182, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.10 Hand Fan", "title": "Hand Fan", "chapter": "4", "section": "4.10", "page": 184, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.11 Belt", "title": "Belt", "chapter": "4", "section": "4.11", "page": 185, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  {
+    "file_name": "FP - 04.12 Hosiery (Socks, Stockings and Tights)",
+    "title": "Hosiery (Socks, Stockings and Tights)",
+    "chapter": "4",
+    "section": "4.12",
+    "page": 186,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 04.13 Shoes", "title": "Shoes", "chapter": "4", "section": "4.13", "page": 188, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.14 Gem", "title": "Gem", "chapter": "4", "section": "4.14", "page": 192, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.15 Ring", "title": "Ring", "chapter": "4", "section": "4.15", "page": 194, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.16 Body Piercing and Earrings", "title": "Body Piercing and Earrings", "chapter": "4", "section": "4.16", "page": 198, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.17 Necklace", "title": "Necklace", "chapter": "4", "section": "4.17", "page": 200, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.18 Bracelet", "title": "Bracelet", "chapter": "4", "section": "4.18", "page": 202, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 04.19 Other Accessories", "title": "Other Accessories", "chapter": "4", "section": "4.19", "page": 203, "base": "[[Fashionpedia.base]]", "concepts": [] },
+
+  {
+    "file_name": "FP - 05. Textile",
+    "title": "Textile",
+    "chapter": "5",
+    "section": "5.0",
+    "page": 204,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 05.1 Fiber", "title": "Fiber", "chapter": "5", "section": "5.1", "page": 206, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 05.2 Yarn", "title": "Yarn", "chapter": "5", "section": "5.2", "page": 214, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  {
+    "file_name": "FP - 05.3 Fabric (Woven, Knit and Nonwoven)",
+    "title": "Fabric (Woven, Knit and Nonwoven)",
+    "chapter": "5",
+    "section": "5.3",
+    "page": 220,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 05.4 Leather", "title": "Leather", "chapter": "5", "section": "5.4", "page": 236, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 05.5 Lace", "title": "Lace", "chapter": "5", "section": "5.5", "page": 240, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  {
+    "file_name": "FP - 05.6 Finishing (Dyeing and Printing)",
+    "title": "Finishing (Dyeing and Printing)",
+    "chapter": "5",
+    "section": "5.6",
+    "page": 244,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 05.7 Fabric Pattern", "title": "Fabric Pattern", "chapter": "5", "section": "5.7", "page": 252, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 05.8 Organic Textile", "title": "Organic Textile", "chapter": "5", "section": "5.8", "page": 254, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 05.9 Fabric Selection Guide", "title": "Fabric Selection Guide", "chapter": "5", "section": "5.9", "page": 256, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 05.10 Fabric Dictionary", "title": "Fabric Dictionary", "chapter": "5", "section": "5.10", "page": 260, "base": "[[Fashionpedia.base]]", "concepts": [] },
+
+  {
+    "file_name": "FP - 06. Manufacturing",
+    "title": "Manufacturing",
+    "chapter": "6",
+    "section": "6.0",
+    "page": 262,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 06.1 Product Development", "title": "Product Development", "chapter": "6", "section": "6.1", "page": 264, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 06.2 Design Studio and Factory", "title": "Design Studio and Factory", "chapter": "6", "section": "6.2", "page": 266, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 06.3 Flat Pattern", "title": "Flat Pattern", "chapter": "6", "section": "6.3", "page": 276, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 06.4 Sewing Detail", "title": "Sewing Detail", "chapter": "6", "section": "6.4", "page": 280, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 06.5 Embellishment", "title": "Embellishment", "chapter": "6", "section": "6.5", "page": 284, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 06.6 Label", "title": "Label", "chapter": "6", "section": "6.6", "page": 290, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 06.7 Packaging", "title": "Packaging", "chapter": "6", "section": "6.7", "page": 293, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 06.8 Fabric Sourcing", "title": "Fabric Sourcing", "chapter": "6", "section": "6.8", "page": 294, "base": "[[Fashionpedia.base]]", "concepts": [] },
+
+  {
+    "file_name": "FP - 07. Body & Beauty",
+    "title": "Body & Beauty",
+    "chapter": "7",
+    "section": "7.0",
+    "page": 296,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 07.1 Body", "title": "Body", "chapter": "7", "section": "7.1", "page": 298, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 07.2 Hair", "title": "Hair", "chapter": "7", "section": "7.2", "page": 304, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 07.3 Cosmetics", "title": "Cosmetics", "chapter": "7", "section": "7.3", "page": 309, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 07.4 Perfume", "title": "Perfume", "chapter": "7", "section": "7.4", "page": 316, "base": "[[Fashionpedia.base]]", "concepts": [] },
+
+  {
+    "file_name": "FP - 08. Measurement & Care",
+    "title": "Measurement & Care",
+    "chapter": "8",
+    "section": "8.0",
+    "page": 318,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 08.1 Women's Measurement", "title": "Women's Measurement", "chapter": "8", "section": "8.1", "page": 320, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 08.2 Men's Measurement", "title": "Men's Measurement", "chapter": "8", "section": "8.2", "page": 322, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 08.3 Care Labeling", "title": "Care Labeling", "chapter": "8", "section": "8.3", "page": 324, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 08.4 Fabric Care", "title": "Fabric Care", "chapter": "8", "section": "8.4", "page": 326, "base": "[[Fashionpedia.base]]", "concepts": [] },
+
+  {
+    "file_name": "FP - 09. Other",
+    "title": "Other",
+    "chapter": "9",
+    "section": "9.0",
+    "page": 328,
+    "base": "[[Fashionpedia.base]]",
+    "concepts": []
+  },
+  { "file_name": "FP - 09.1 Glossary", "title": "Glossary", "chapter": "9", "section": "9.1", "page": 328, "base": "[[Fashionpedia.base]]", "concepts": [] },
+  { "file_name": "FP - 09.2 Acknowledgements", "title": "Acknowledgements", "chapter": "9", "section": "9.2", "page": 336, "base": "[[Fashionpedia.base]]", "concepts": [] }
+]
+

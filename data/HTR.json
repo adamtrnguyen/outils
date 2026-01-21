@@ -1,0 +1,1995 @@
+[
+  {
+    "file_name": "HTR - 00. Introduction",
+    "title": "Introduction",
+    "chapter": "0",
+    "section": "0.0",
+    "page": 8,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 01. What Is Rendering - Tools and Materials",
+    "title": "What Is Rendering? + Tools and Materials",
+    "chapter": "1",
+    "section": "1.0",
+    "page": 13,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 01.1 How We See Form",
+    "title": "How We See Form",
+    "chapter": "1",
+    "section": "1.1",
+    "page": 13,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 01.2 Content Overview",
+    "title": "Content Overview",
+    "chapter": "1",
+    "section": "1.2",
+    "page": 13,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 01.3 Tools and Materials",
+    "title": "Tools and Materials",
+    "chapter": "1",
+    "section": "1.3",
+    "page": 14,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 02. Light Types and Casting Shadows",
+    "title": "Light Types and Casting Shadows",
+    "chapter": "2",
+    "section": "2.0",
+    "page": 17,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.1 Value Change = Form Change",
+    "title": "Value Change = Form Change",
+    "chapter": "2",
+    "section": "2.1",
+    "page": 18,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.2 Direct, Hard Light",
+    "title": "Direct, Hard Light",
+    "chapter": "2",
+    "section": "2.2",
+    "page": 20,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.3 Direct, Soft Light",
+    "title": "Direct, Soft Light",
+    "chapter": "2",
+    "section": "2.3",
+    "page": 21,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.4 Light Decay (Falloff)",
+    "title": "Light Decay, A.K.A. Falloff",
+    "chapter": "2",
+    "section": "2.4",
+    "page": 22,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.5 Occlusion",
+    "title": "Occlusion",
+    "chapter": "2",
+    "section": "2.5",
+    "page": 23,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.6 Edge-Rim Light and Half-Light",
+    "title": "Edge/Rim Light, Half-Light",
+    "chapter": "2",
+    "section": "2.6",
+    "page": 24,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.7 Multiple Light Sources",
+    "title": "Multiple Light Sources",
+    "chapter": "2",
+    "section": "2.7",
+    "page": 25,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.8 Reflected Light",
+    "title": "Reflected Light",
+    "chapter": "2",
+    "section": "2.8",
+    "page": 26,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.9 Sunbeams",
+    "title": "Sunbeams",
+    "chapter": "2",
+    "section": "2.9",
+    "page": 27,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.10 Atmospheric Perspective",
+    "title": "Atmospheric Perspective",
+    "chapter": "2",
+    "section": "2.10",
+    "page": 28,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.11 Constructing Cast Shadows",
+    "title": "Constructing Cast Shadows",
+    "chapter": "2",
+    "section": "2.11",
+    "page": 30,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.12 Perspective Grid Skills",
+    "title": "Perspective Grid Skills",
+    "chapter": "2",
+    "section": "2.12",
+    "page": 30,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.13 Form-Building Skills",
+    "title": "Form-Building Skills",
+    "chapter": "2",
+    "section": "2.13",
+    "page": 30,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.14 Construction Skills",
+    "title": "Construction Skills",
+    "chapter": "2",
+    "section": "2.14",
+    "page": 31,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.15 Section-Drawing Skills",
+    "title": "Section-Drawing Skills",
+    "chapter": "2",
+    "section": "2.15",
+    "page": 31,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.16 The Fundamentals of Casting Shadows",
+    "title": "The Fundamentals of Casting Shadows",
+    "chapter": "2",
+    "section": "2.16",
+    "page": 32,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.17 Light-Shadow Direction and Light Planes",
+    "title": "Light/Shadow Direction and Light Planes",
+    "chapter": "2",
+    "section": "2.17",
+    "page": 32,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.18 Casting the Shadow of a Single Stick in Perspective",
+    "title": "Casting the Shadow of a Single Stick in Perspective",
+    "chapter": "2",
+    "section": "2.18",
+    "page": 32,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.19 Shadow Construction with Local Light",
+    "title": "Shadow Construction with Local Light",
+    "chapter": "2",
+    "section": "2.19",
+    "page": 33,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.20 Local Light: Multiple Sticks on a Single Level",
+    "title": "Local Light Shadow Construction: Multiple Sticks on a Single Level",
+    "chapter": "2",
+    "section": "2.20",
+    "page": 33,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.21 Local Light: Multiple Sticks on Multiple Levels",
+    "title": "Local Light Shadow Construction: Multiple Sticks on Multiple Levels",
+    "chapter": "2",
+    "section": "2.21",
+    "page": 33,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.22 Sunlight Construction",
+    "title": "Sunlight Construction",
+    "chapter": "2",
+    "section": "2.22",
+    "page": 34,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.23 Light Plane Set-Up for Sunlight",
+    "title": "Light Plane Set-Up for Sunlight",
+    "chapter": "2",
+    "section": "2.23",
+    "page": 34,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.24 Sunlight: Finding Shadow Origin and Light Source",
+    "title": "Sunlight Construction: Finding the Shadow Origin and Light Source",
+    "chapter": "2",
+    "section": "2.24",
+    "page": 34,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.25 Positive Sunlight Construction (Backlight)",
+    "title": "Positive Sunlight Construction: Backlight",
+    "chapter": "2",
+    "section": "2.25",
+    "page": 34,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.26 Negative Sunlight Construction (Front Light)",
+    "title": "Negative Sunlight Construction: Front Light",
+    "chapter": "2",
+    "section": "2.26",
+    "page": 35,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.27 Sunlight: Shadow Origin and Light Source off the Page",
+    "title": "Sunlight Construction: Shadow Origin and Light Source off the Page",
+    "chapter": "2",
+    "section": "2.27",
+    "page": 35,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.28 Sunlight Construction without Convergence",
+    "title": "Sunlight Construction without Convergence",
+    "chapter": "2",
+    "section": "2.28",
+    "page": 35,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.29 Sunlight: Casting Shadows on Multiple Levels",
+    "title": "Sunlight Construction: Casting Shadows on Multiple Levels",
+    "chapter": "2",
+    "section": "2.29",
+    "page": 35,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.30 Casting Shadows of Wall Shapes",
+    "title": "Casting Shadows of Wall Shapes",
+    "chapter": "2",
+    "section": "2.30",
+    "page": 36,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.31 Casting Shadows over Obstacles",
+    "title": "Casting Shadows over Obstacles",
+    "chapter": "2",
+    "section": "2.31",
+    "page": 36,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.32 Casting a Stick's Shadow on a Wall",
+    "title": "Casting a Stick's Shadow on a Wall",
+    "chapter": "2",
+    "section": "2.32",
+    "page": 36,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.33 Casting the Shadow of a Vertical Stick onto an Object",
+    "title": "Casting the Shadow of a Vertical Stick onto an Object",
+    "chapter": "2",
+    "section": "2.33",
+    "page": 38,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.34 Casting the Shadow of a Horizontal Stick onto a Wall",
+    "title": "Casting the Shadow of a Horizontal Stick onto a Wall",
+    "chapter": "2",
+    "section": "2.34",
+    "page": 39,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.35 Horizontal Stick onto Wall and Ground",
+    "title": "Casting the Shadow of a Horizontal Stick onto a Wall and the Ground",
+    "chapter": "2",
+    "section": "2.35",
+    "page": 39,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.36 Horizontal Stick Beyond the Edge of a Wall",
+    "title": "Casting the Shadow of a Horizontal Stick Beyond the Edge of a Wall, onto the Ground",
+    "chapter": "2",
+    "section": "2.36",
+    "page": 40,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.37 Horizontal Stick over Complex Shapes",
+    "title": "Casting the Shadow of a Horizontal Stick over Complex Shapes",
+    "chapter": "2",
+    "section": "2.37",
+    "page": 41,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.38 Casting the Shadow of an Angled (Leaning) Stick",
+    "title": "Casting the Shadow of an Angled (Leaning) Stick",
+    "chapter": "2",
+    "section": "2.38",
+    "page": 42,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.39 Casting the Shadow of a Triangular Shape",
+    "title": "Casting the Shadow of a Triangular Shape",
+    "chapter": "2",
+    "section": "2.39",
+    "page": 42,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.40 Student Examples",
+    "title": "Student Examples",
+    "chapter": "2",
+    "section": "2.40",
+    "page": 43,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.41 Casting Shadows of Simple Volumes",
+    "title": "Casting Shadows of Simple Volumes",
+    "chapter": "2",
+    "section": "2.41",
+    "page": 44,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.42 Simple Volumes: Sunlight",
+    "title": "Casting Shadows of Simple Volumes: Sunlight",
+    "chapter": "2",
+    "section": "2.42",
+    "page": 44,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.43 Simple Volumes: Local Light",
+    "title": "Casting Shadows of Simple Volumes: Local Light",
+    "chapter": "2",
+    "section": "2.43",
+    "page": 45,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.44 Casting Shadows of Overhangs",
+    "title": "Casting Shadows of Overhangs",
+    "chapter": "2",
+    "section": "2.44",
+    "page": 46,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.45 Casting Shadows of Openings",
+    "title": "Casting Shadows of Openings",
+    "chapter": "2",
+    "section": "2.45",
+    "page": 47,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.46 Casting Shadows of Complex Planar Volumes",
+    "title": "Casting Shadows of Complex Planar Volumes",
+    "chapter": "2",
+    "section": "2.46",
+    "page": 48,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 02.47 Casting Shadows with Multiple Light Sources",
+    "title": "Casting Shadows with Multiple Light Sources",
+    "chapter": "2",
+    "section": "2.47",
+    "page": 49,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 03. Rendering the Geo Forms",
+    "title": "Rendering the Geo Forms",
+    "chapter": "3",
+    "section": "3.0",
+    "page": 51,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.1 Creating an Ideal Lighting Set-Up",
+    "title": "Creating an Ideal Lighting Set-Up",
+    "chapter": "3",
+    "section": "3.1",
+    "page": 52,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.2 1-2-3 Read",
+    "title": "1-2-3 Read",
+    "chapter": "3",
+    "section": "3.2",
+    "page": 52,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.3 Lighting Strategies for Box Forms",
+    "title": "Lighting Strategies for Box Forms",
+    "chapter": "3",
+    "section": "3.3",
+    "page": 53,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.4 Assigning Values for Matte Surface Objects",
+    "title": "Assigning Values for Matte Surface Objects",
+    "chapter": "3",
+    "section": "3.4",
+    "page": 54,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.5 Shadow Value Observation: Halfway to Black",
+    "title": "Shadow Value Observation: Halfway to Black",
+    "chapter": "3",
+    "section": "3.5",
+    "page": 54,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.6 Object Value and Cast Shadow Value",
+    "title": "Object Value and Cast Shadow Value",
+    "chapter": "3",
+    "section": "3.6",
+    "page": 55,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.7 Ambient Light and Shadow Value",
+    "title": "Ambient Light and Shadow Value",
+    "chapter": "3",
+    "section": "3.7",
+    "page": 55,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.8 Value Assignments for Other Sides",
+    "title": "Value Assignments for Other Sides",
+    "chapter": "3",
+    "section": "3.8",
+    "page": 56,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.9 Top Surface, Number 1 Side",
+    "title": "Top Surface, Number 1 Side",
+    "chapter": "3",
+    "section": "3.9",
+    "page": 56,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.10 Front Surface, Number 2 Side",
+    "title": "Front Surface, Number 2 Side",
+    "chapter": "3",
+    "section": "3.10",
+    "page": 56,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.11 Planning Values",
+    "title": "Planning Values",
+    "chapter": "3",
+    "section": "3.11",
+    "page": 57,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.12 Reflected Light",
+    "title": "Reflected Light",
+    "chapter": "3",
+    "section": "3.12",
+    "page": 58,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.13 Reflected Light off the Ground",
+    "title": "Reflected Light off the Ground",
+    "chapter": "3",
+    "section": "3.13",
+    "page": 58,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.14 Reflected Light of Plane Reflectors",
+    "title": "Reflected Light of Plane Reflectors",
+    "chapter": "3",
+    "section": "3.14",
+    "page": 59,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.15 Reflected Light: Double-Bounce",
+    "title": "Reflected Light: Double-Bounce",
+    "chapter": "3",
+    "section": "3.15",
+    "page": 60,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.16 Local Light Value Assignment",
+    "title": "Local Light Value Assignment",
+    "chapter": "3",
+    "section": "3.16",
+    "page": 61,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.17 Local Light Rendering Examples",
+    "title": "Local Light Rendering Examples",
+    "chapter": "3",
+    "section": "3.17",
+    "page": 61,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.18 Sloped-Surface Value Assignment",
+    "title": "Sloped-Surface Value Assignment",
+    "chapter": "3",
+    "section": "3.18",
+    "page": 62,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.19 Planning and Approach to Sloped Surfaces",
+    "title": "Planning and Approach to Value Assignments of Sloped Surfaces",
+    "chapter": "3",
+    "section": "3.19",
+    "page": 62,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.20 Student Examples (Sloped Surfaces)",
+    "title": "Student Examples",
+    "chapter": "3",
+    "section": "3.20",
+    "page": 63,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.21 Rendering Curved Surfaces",
+    "title": "Rendering Curved Surfaces",
+    "chapter": "3",
+    "section": "3.21",
+    "page": 64,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.22 Terminology for Shading Curved Surfaces",
+    "title": "Terminology for Shading Curved Surfaces",
+    "chapter": "3",
+    "section": "3.22",
+    "page": 64,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.23 Light Side, Shadow Side and Cast Shadow",
+    "title": "Light Side, Shadow Side and Cast Shadow",
+    "chapter": "3",
+    "section": "3.23",
+    "page": 65,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.24 Terminator and Core Shadow",
+    "title": "Terminator and Core Shadow",
+    "chapter": "3",
+    "section": "3.24",
+    "page": 65,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.25 Core Shadow",
+    "title": "Core Shadow",
+    "chapter": "3",
+    "section": "3.25",
+    "page": 66,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.26 Form Highlights",
+    "title": "Form Highlights",
+    "chapter": "3",
+    "section": "3.26",
+    "page": 66,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.27 Passive Highlight",
+    "title": "Passive Highlight",
+    "chapter": "3",
+    "section": "3.27",
+    "page": 66,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.28 Reflective Highlight",
+    "title": "Reflective Highlight",
+    "chapter": "3",
+    "section": "3.28",
+    "page": 66,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.29 Reflected Light and Occlusion Shadows",
+    "title": "Reflected Light and Occlusion Shadows",
+    "chapter": "3",
+    "section": "3.29",
+    "page": 67,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.30 Cylinders",
+    "title": "Cylinders",
+    "chapter": "3",
+    "section": "3.30",
+    "page": 68,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.31 Vertical Cylinder: Shadow Construction (Sunlight)",
+    "title": "Shadow Construction of a Vertical Cylinder in Sunlight",
+    "chapter": "3",
+    "section": "3.31",
+    "page": 68,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.32 Vertical Cylinder: Shading (Sunlight)",
+    "title": "Shading of a Vertical Cylinder in Sunlight",
+    "chapter": "3",
+    "section": "3.32",
+    "page": 69,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.33 Vertical Cylinder: Shadow Construction (Local Light)",
+    "title": "Shadow Construction of a Vertical Cylinder in Local Light",
+    "chapter": "3",
+    "section": "3.33",
+    "page": 70,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.34 Vertical Cylinder: Rendering (Local Light)",
+    "title": "Rendering of a Vertical Cylinder in Local Light",
+    "chapter": "3",
+    "section": "3.34",
+    "page": 71,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.35 Vertical Cylinder Rendering Examples",
+    "title": "Vertical Cylinder Rendering Examples",
+    "chapter": "3",
+    "section": "3.35",
+    "page": 72,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.36 Horizontal Cylinder: Shadow Construction (Sunlight)",
+    "title": "Shadow Construction of a Horizontal Cylinder: Sunlight",
+    "chapter": "3",
+    "section": "3.36",
+    "page": 72,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.37 Horizontal Cylinder: Terminator-Highlight-Cast Shadow Edge",
+    "title": "Terminator, Highlight and Cast Shadow Edge of a Horizontal Cylinder",
+    "chapter": "3",
+    "section": "3.37",
+    "page": 73,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.38 Horizontal Cylinder in Sunlight: Top Light",
+    "title": "Rendering a Horizontal Cylinder in Sunlight: Top Light",
+    "chapter": "3",
+    "section": "3.38",
+    "page": 73,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.39 Horizontal Cylinder in Sunlight: Side and Diagonal Light",
+    "title": "Rendering a Horizontal Cylinder in Sunlight: Side and Diagonal Light",
+    "chapter": "3",
+    "section": "3.39",
+    "page": 74,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.40 Horizontal Cylinder in Sunlight: Sidelight",
+    "title": "Rendering a Horizontal Cylinder in Sunlight: Sidelight",
+    "chapter": "3",
+    "section": "3.40",
+    "page": 74,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.41 Horizontal Cylinder in Sunlight: Diagonal Light",
+    "title": "Rendering a Horizontal Cylinder in Sunlight: Diagonal Light",
+    "chapter": "3",
+    "section": "3.41",
+    "page": 75,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.42 Horizontal Cylinder in Local Light",
+    "title": "Rendering a Horizontal Cylinder in Local Light",
+    "chapter": "3",
+    "section": "3.42",
+    "page": 76,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.43 Tilted Cylinder: Cast Shadow Construction",
+    "title": "Cast Shadow Construction of a Tilted Cylinder",
+    "chapter": "3",
+    "section": "3.43",
+    "page": 77,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.44 Creating Practical Set-Ups",
+    "title": "Creating Practical Set-Ups",
+    "chapter": "3",
+    "section": "3.44",
+    "page": 77,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.45 Cones",
+    "title": "Cones",
+    "chapter": "3",
+    "section": "3.45",
+    "page": 78,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.46 Rendering Cones in Sunlight or Local Light",
+    "title": "Rendering Cones in Sunlight or Local Light",
+    "chapter": "3",
+    "section": "3.46",
+    "page": 78,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.47 Combining Cylinders and Cones",
+    "title": "Combining Cylinders and Cones",
+    "chapter": "3",
+    "section": "3.47",
+    "page": 79,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.48 Casting the Shadow of a Horizontal Cone",
+    "title": "Casting the Shadow of a Horizontal Cone",
+    "chapter": "3",
+    "section": "3.48",
+    "page": 79,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.49 Spheres",
+    "title": "Spheres",
+    "chapter": "3",
+    "section": "3.49",
+    "page": 80,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.50 Constructing a Sphere",
+    "title": "Constructing a Sphere",
+    "chapter": "3",
+    "section": "3.50",
+    "page": 80,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.51 Sphere in Sunlight: Top Light",
+    "title": "Rendering a Sphere in Sunlight: Top Light",
+    "chapter": "3",
+    "section": "3.51",
+    "page": 81,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.52 Sphere in Sunlight: Sidelight",
+    "title": "Rendering a Sphere in Sunlight: Sidelight",
+    "chapter": "3",
+    "section": "3.52",
+    "page": 82,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.53 Sphere in Local Light: Top Light",
+    "title": "Rendering a Sphere in Local Light: Top Light",
+    "chapter": "3",
+    "section": "3.53",
+    "page": 83,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.54 Sphere in Local Light: Sidelight",
+    "title": "Rendering a Sphere in Local Light: Sidelight",
+    "chapter": "3",
+    "section": "3.54",
+    "page": 84,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.55 Shadow Edges",
+    "title": "Shadow Edges",
+    "chapter": "3",
+    "section": "3.55",
+    "page": 86,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.56 Student Examples (Geo Forms)",
+    "title": "Student Examples",
+    "chapter": "3",
+    "section": "3.56",
+    "page": 87,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.57 Backgrounds",
+    "title": "Backgrounds",
+    "chapter": "3",
+    "section": "3.57",
+    "page": 88,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.58 Why the Background Is So Powerful",
+    "title": "Why the Background Is So Powerful",
+    "chapter": "3",
+    "section": "3.58",
+    "page": 89,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.59 Traditional Versus Digital Rendering Tools",
+    "title": "Traditional Versus Digital Rendering Tools",
+    "chapter": "3",
+    "section": "3.59",
+    "page": 90,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.60 Traditional Tools of the Trade",
+    "title": "Traditional Tools of the Trade",
+    "chapter": "3",
+    "section": "3.60",
+    "page": 90,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.61 Pencil Handling",
+    "title": "Pencil Handling",
+    "chapter": "3",
+    "section": "3.61",
+    "page": 91,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.62 Graphite and Wax Pencils",
+    "title": "Graphite and Wax Pencils",
+    "chapter": "3",
+    "section": "3.62",
+    "page": 91,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.63 Wax Pencil Application",
+    "title": "Wax Pencil Application",
+    "chapter": "3",
+    "section": "3.63",
+    "page": 92,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.64 Graphite Pencil Application + Paper",
+    "title": "Graphite Pencil Application + Paper",
+    "chapter": "3",
+    "section": "3.64",
+    "page": 92,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.65 Practice",
+    "title": "Practice",
+    "chapter": "3",
+    "section": "3.65",
+    "page": 93,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.66 Markers",
+    "title": "Markers",
+    "chapter": "3",
+    "section": "3.66",
+    "page": 94,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.67 Pastels",
+    "title": "Pastels",
+    "chapter": "3",
+    "section": "3.67",
+    "page": 96,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.68 Wet Media and Other Traditional Techniques",
+    "title": "Wet Media and Other Traditional Techniques",
+    "chapter": "3",
+    "section": "3.68",
+    "page": 98,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.69 Mixed Media",
+    "title": "Mixed Media",
+    "chapter": "3",
+    "section": "3.69",
+    "page": 99,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.70 The Importance of Mastering the Fundamentals",
+    "title": "The Importance of Mastering the Fundamentals",
+    "chapter": "3",
+    "section": "3.70",
+    "page": 100,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.71 Digital Rendering Programs",
+    "title": "Digital Rendering Programs",
+    "chapter": "3",
+    "section": "3.71",
+    "page": 101,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.72 Matching Values to a Photograph",
+    "title": "Matching Values to a Photograph",
+    "chapter": "3",
+    "section": "3.72",
+    "page": 102,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 03.73 Student Examples (Digital/Photo Match)",
+    "title": "Student Examples",
+    "chapter": "3",
+    "section": "3.73",
+    "page": 103,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 04. Complex Volumes",
+    "title": "Complex Volumes",
+    "chapter": "4",
+    "section": "4.0",
+    "page": 105,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.1 Shading Simple Curved Surfaces",
+    "title": "Shading Simple Curved Surfaces",
+    "chapter": "4",
+    "section": "4.1",
+    "page": 106,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.2 Creating X-Y-Z Form Sections",
+    "title": "Creating X-Y-Z Form Sections",
+    "chapter": "4",
+    "section": "4.2",
+    "page": 107,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.3 X-Y-Z Form: Sunlight from Directly Above",
+    "title": "X-Y-Z Form: Sunlight from Directly Above",
+    "chapter": "4",
+    "section": "4.3",
+    "page": 108,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.4 X-Y-Z Form: Sunlight from the Side",
+    "title": "X-Y-Z Form: Sunlight from the Side",
+    "chapter": "4",
+    "section": "4.4",
+    "page": 108,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.5 X-Y-Z Form: Diagonal Sunlight",
+    "title": "X-Y-Z Form: Diagonal Sunlight",
+    "chapter": "4",
+    "section": "4.5",
+    "page": 109,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.6 X-Y-Z Form: Local Light",
+    "title": "X-Y-Z Form: Local Light",
+    "chapter": "4",
+    "section": "4.6",
+    "page": 110,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.7 X-Y-Z Forms: Planning a Rendering",
+    "title": "X-Y-Z Forms: Planning a Rendering",
+    "chapter": "4",
+    "section": "4.7",
+    "page": 110,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.8 Student Examples (X-Y-Z Forms)",
+    "title": "Student Examples",
+    "chapter": "4",
+    "section": "4.8",
+    "page": 111,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.9 Rendering Workflow",
+    "title": "Rendering Workflow",
+    "chapter": "4",
+    "section": "4.9",
+    "page": 112,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.10 Student Examples (Workflow)",
+    "title": "Student Examples",
+    "chapter": "4",
+    "section": "4.10",
+    "page": 113,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.11 Digitally Rendering an X-Y-Z Form",
+    "title": "Digitally Rendering an X-Y-Z Form",
+    "chapter": "4",
+    "section": "4.11",
+    "page": 114,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.12 Cut Lines",
+    "title": "Cut Lines",
+    "chapter": "4",
+    "section": "4.12",
+    "page": 116,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.13 Graphics",
+    "title": "Graphics",
+    "chapter": "4",
+    "section": "4.13",
+    "page": 117,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.14 Texture",
+    "title": "Texture",
+    "chapter": "4",
+    "section": "4.14",
+    "page": 118,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.15 Detail and Texture Gradients",
+    "title": "Detail and Texture Gradients",
+    "chapter": "4",
+    "section": "4.15",
+    "page": 119,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 04.16 Print + Practice",
+    "title": "Print + Practice",
+    "chapter": "4",
+    "section": "4.16",
+    "page": 120,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 05. Rendering Specific Objects",
+    "title": "Rendering Specific Objects",
+    "chapter": "5",
+    "section": "5.0",
+    "page": 123,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.1 Vehicle Lighting Strategies",
+    "title": "Vehicle Lighting Strategies",
+    "chapter": "5",
+    "section": "5.1",
+    "page": 124,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.2 General to Specific Form Building",
+    "title": "General to Specific Form Building",
+    "chapter": "5",
+    "section": "5.2",
+    "page": 125,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.3 Vehicle Rendering Step-by-Step",
+    "title": "Vehicle Rendering Step-by-Step",
+    "chapter": "5",
+    "section": "5.3",
+    "page": 126,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.4 Simplification for Communication",
+    "title": "Simplification for Communication",
+    "chapter": "5",
+    "section": "5.4",
+    "page": 130,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.5 Mech Step-by-Step",
+    "title": "Mech Step-by-Step",
+    "chapter": "5",
+    "section": "5.5",
+    "page": 132,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.6 Character Step-by-Step",
+    "title": "Character Step-by-Step",
+    "chapter": "5",
+    "section": "5.6",
+    "page": 134,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.7 Value and Color Relationship",
+    "title": "Value and Color Relationship",
+    "chapter": "5",
+    "section": "5.7",
+    "page": 136,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.8 Organic Form Rendering (Neville Page)",
+    "title": "Organic Form Rendering by Neville Page",
+    "chapter": "5",
+    "section": "5.8",
+    "page": 138,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.9 Environment Sketching in Graphite (John Park)",
+    "title": "Environment Sketching in Graphite with John Park",
+    "chapter": "5",
+    "section": "5.9",
+    "page": 146,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.10 Rendering Environments (Robh Ruppel)",
+    "title": "Rendering Environments by Robh Ruppel",
+    "chapter": "5",
+    "section": "5.10",
+    "page": 150,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 05.11 Environment Rendering Examples (Robh Ruppel)",
+    "title": "Environment Rendering Examples by Robh Ruppel",
+    "chapter": "5",
+    "section": "5.11",
+    "page": 154,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 06. Photo Reference",
+    "title": "Photo Reference",
+    "chapter": "6",
+    "section": "6.0",
+    "page": 157,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 06.1 What is Good Photo Reference?",
+    "title": "What is Good Photo Reference?",
+    "chapter": "6",
+    "section": "6.1",
+    "page": 158,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 06.2 How to Use Good Photo Reference",
+    "title": "How to Use Good Photo Reference",
+    "chapter": "6",
+    "section": "6.2",
+    "page": 158,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 06.3 Building a Reference Library",
+    "title": "Building a Reference Library",
+    "chapter": "6",
+    "section": "6.3",
+    "page": 159,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 07. Reflective Surfaces",
+    "title": "Reflective Surfaces",
+    "chapter": "7",
+    "section": "7.0",
+    "page": 161,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.1 Angle of Incidence",
+    "title": "Angle of Incidence",
+    "chapter": "7",
+    "section": "7.1",
+    "page": 162,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.2 Plotting Reflections",
+    "title": "Plotting Reflections",
+    "chapter": "7",
+    "section": "7.2",
+    "page": 164,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.3 The Basic Idea",
+    "title": "The Basic Idea",
+    "chapter": "7",
+    "section": "7.3",
+    "page": 165,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.4 Plotting Reflections: Concave and Convex Surfaces",
+    "title": "Plotting Reflections: Concave and Convex Surfaces",
+    "chapter": "7",
+    "section": "7.4",
+    "page": 166,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.5 Value, Color and Perceived Reflectivity",
+    "title": "Value, Color and Perceived Reflectivity",
+    "chapter": "7",
+    "section": "7.5",
+    "page": 168,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.6 Fresnel Effect",
+    "title": "Fresnel Effect",
+    "chapter": "7",
+    "section": "7.6",
+    "page": 170,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.7 Digital Layering Strategy",
+    "title": "Digital Layering Strategy",
+    "chapter": "7",
+    "section": "7.7",
+    "page": 179,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.8 Reflection Flipping",
+    "title": "Reflection Flipping",
+    "chapter": "7",
+    "section": "7.8",
+    "page": 180,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.9 Reflection Pools and Puddles",
+    "title": "Reflection Pools and Puddles",
+    "chapter": "7",
+    "section": "7.9",
+    "page": 181,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.10 Reflections of the Light",
+    "title": "Reflections of the Light",
+    "chapter": "7",
+    "section": "7.10",
+    "page": 182,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.11 Reflections of Reflective Surfaces",
+    "title": "Reflections of Reflective Surfaces",
+    "chapter": "7",
+    "section": "7.11",
+    "page": 183,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.12 Reflections over Graphics",
+    "title": "Reflections over Graphics",
+    "chapter": "7",
+    "section": "7.12",
+    "page": 184,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 07.13 Cast Shadows on Reflective Surfaces",
+    "title": "Cast Shadows on Reflective Surfaces",
+    "chapter": "7",
+    "section": "7.13",
+    "page": 185,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 08. Reflections - Indoor Scenes",
+    "title": "Reflections: Indoor Scenes",
+    "chapter": "8",
+    "section": "8.0",
+    "page": 187,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 08.1 Understanding the Scene",
+    "title": "Understanding the Scene",
+    "chapter": "8",
+    "section": "8.1",
+    "page": 188,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 08.2 Digital Layering Strategy (Indoor)",
+    "title": "Digital Layering Strategy",
+    "chapter": "8",
+    "section": "8.2",
+    "page": 189,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 08.3 Indoor Studio Rendering Step-by-Step",
+    "title": "Indoor Studio Rendering Step-by-Step",
+    "chapter": "8",
+    "section": "8.3",
+    "page": 191,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 09. Reflections - Outdoor Scenes",
+    "title": "Reflections: Outdoor Scenes",
+    "chapter": "9",
+    "section": "9.0",
+    "page": 195,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 09.1 Understanding The Sky's Reflection",
+    "title": "Understanding The Sky's Reflection",
+    "chapter": "9",
+    "section": "9.1",
+    "page": 196,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 09.2 Layering Strategy (Outdoor)",
+    "title": "Layering Strategy",
+    "chapter": "9",
+    "section": "9.2",
+    "page": 200,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 09.3 Outdoor Scene Rendering Step-by-Step",
+    "title": "Outdoor Scene Rendering Step-by-Step",
+    "chapter": "9",
+    "section": "9.3",
+    "page": 201,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 09.4 How to Render Eyes (Neville Page)",
+    "title": "How to Render Eyes by Neville Page",
+    "chapter": "9",
+    "section": "9.4",
+    "page": 204,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 10. Rendering Specific Materials",
+    "title": "Rendering Specific Materials",
+    "chapter": "10",
+    "section": "10.0",
+    "page": 209,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.1 Metallic Paint",
+    "title": "Metallic Paint",
+    "chapter": "10",
+    "section": "10.1",
+    "page": 210,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.2 Metallic Paint vs. Glossy Paint",
+    "title": "Metallic Paint vs. Glossy Paint",
+    "chapter": "10",
+    "section": "10.2",
+    "page": 212,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.3 Digitally Rendering a Metallic Look",
+    "title": "Digitally Rendering a Metallic Look",
+    "chapter": "10",
+    "section": "10.3",
+    "page": 214,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.4 Translucence and Subsurface Scattering",
+    "title": "Translucence and Subsurface Scattering",
+    "chapter": "10",
+    "section": "10.4",
+    "page": 216,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.5 Glass and Plastic",
+    "title": "Glass and Plastic",
+    "chapter": "10",
+    "section": "10.5",
+    "page": 218,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.6 Luminescence",
+    "title": "Luminescence",
+    "chapter": "10",
+    "section": "10.6",
+    "page": 220,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.7 Water",
+    "title": "Water",
+    "chapter": "10",
+    "section": "10.7",
+    "page": 222,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.8 How Reflections Distort",
+    "title": "How Reflections Distort",
+    "chapter": "10",
+    "section": "10.8",
+    "page": 223,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.9 Wind on Water",
+    "title": "Wind on Water",
+    "chapter": "10",
+    "section": "10.9",
+    "page": 224,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.10 Rain",
+    "title": "Rain",
+    "chapter": "10",
+    "section": "10.10",
+    "page": 225,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.11 Semigloss",
+    "title": "Semigloss",
+    "chapter": "10",
+    "section": "10.11",
+    "page": 226,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.12 Textured Surfaces",
+    "title": "Textured Surfaces",
+    "chapter": "10",
+    "section": "10.12",
+    "page": 227,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.13 Chrome",
+    "title": "Chrome",
+    "chapter": "10",
+    "section": "10.13",
+    "page": 228,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.14 Bronze",
+    "title": "Bronze",
+    "chapter": "10",
+    "section": "10.14",
+    "page": 229,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.15 Brushed Metal",
+    "title": "Brushed Metal",
+    "chapter": "10",
+    "section": "10.15",
+    "page": 230,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.16 Raw and Machined Metal",
+    "title": "Raw and Machined Metal",
+    "chapter": "10",
+    "section": "10.16",
+    "page": 231,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.17 Aluminum",
+    "title": "Aluminum",
+    "chapter": "10",
+    "section": "10.17",
+    "page": 232,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.18 Gold",
+    "title": "Gold",
+    "chapter": "10",
+    "section": "10.18",
+    "page": 233,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.19 Wood",
+    "title": "Wood",
+    "chapter": "10",
+    "section": "10.19",
+    "page": 234,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.20 Rust",
+    "title": "Rust",
+    "chapter": "10",
+    "section": "10.20",
+    "page": 236,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.21 Leather",
+    "title": "Leather",
+    "chapter": "10",
+    "section": "10.21",
+    "page": 237,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.22 Cloth",
+    "title": "Cloth",
+    "chapter": "10",
+    "section": "10.22",
+    "page": 238,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.23 Carbon Fiber",
+    "title": "Carbon Fiber",
+    "chapter": "10",
+    "section": "10.23",
+    "page": 239,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.24 Weathering",
+    "title": "Weathering",
+    "chapter": "10",
+    "section": "10.24",
+    "page": 240,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.25 Camera Effects: Motion, Bloom and Glints",
+    "title": "Camera Effects: Motion, Bloom and Glints",
+    "chapter": "10",
+    "section": "10.25",
+    "page": 242,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 10.26 Depth of Field",
+    "title": "Depth of Field",
+    "chapter": "10",
+    "section": "10.26",
+    "page": 244,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - 11. Rendering Examples",
+    "title": "Rendering Examples",
+    "chapter": "11",
+    "section": "11.0",
+    "page": 247,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 11.1 Fun with Values and Weathering",
+    "title": "Fun with Values and Weathering",
+    "chapter": "11",
+    "section": "11.1",
+    "page": 248,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 11.2 Photo Booth as a Design Tool",
+    "title": "Photo Booth as a Design Tool",
+    "chapter": "11",
+    "section": "11.2",
+    "page": 250,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 11.3 Photo Paint-Overs",
+    "title": "Photo Paint-Overs",
+    "chapter": "11",
+    "section": "11.3",
+    "page": 252,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 11.4 Rendering a Sci-Fi Suit (Robert Simons)",
+    "title": "Rendering a Sci-Fi Suit with Robert Simons",
+    "chapter": "11",
+    "section": "11.4",
+    "page": 254,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - 11.5 2D Rendering over 3D Renderings",
+    "title": "2D Rendering over 3D Renderings",
+    "chapter": "11",
+    "section": "11.5",
+    "page": 260,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTR - A1. Glossary",
+    "title": "Glossary",
+    "chapter": "A",
+    "section": "A.1",
+    "page": 262,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - A2. Index",
+    "title": "Index",
+    "chapter": "A",
+    "section": "A.2",
+    "page": 266,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - A3. Bios",
+    "title": "Bios",
+    "chapter": "A",
+    "section": "A.3",
+    "page": 268,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTR - A4. Video Links",
+    "title": "Video Links",
+    "chapter": "A",
+    "section": "A.4",
+    "page": 270,
+    "base": "[[How to Render.base]]",
+    "concepts": []
+  }
+]
+

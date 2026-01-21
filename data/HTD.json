@@ -1,0 +1,976 @@
+[
+  {
+    "file_name": "HTD - 00. Introduction",
+    "title": "Introduction",
+    "chapter": "0",
+    "section": "0.0",
+    "page": 8,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTD - 01. Drawing Materials and Skills",
+    "title": "Drawing Materials and Skills",
+    "chapter": "1",
+    "section": "1.0",
+    "page": 10,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 01.1 Choosing Your Drawing Materials",
+    "title": "Choosing Your Drawing Materials",
+    "chapter": "1",
+    "section": "1.1",
+    "page": 12,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 01.2 Choosing Pens and Paper",
+    "title": "Choosing Pens and Paper",
+    "chapter": "1",
+    "section": "1.2",
+    "page": 13,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 01.3 The Craft of Drawing",
+    "title": "The Craft of Drawing",
+    "chapter": "1",
+    "section": "1.3",
+    "page": 14,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 01.4 Practicing Freehand Straight Lines",
+    "title": "Practicing Freehand Straight Lines",
+    "chapter": "1",
+    "section": "1.4",
+    "page": 15,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 01.5 X-Y-Z Coordinate System",
+    "title": "X-Y-Z Coordinate System",
+    "chapter": "1",
+    "section": "1.5",
+    "page": 16,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 01.6 Practicing Freehand Smooth Curves",
+    "title": "Practicing Freehand Smooth Curves",
+    "chapter": "1",
+    "section": "1.6",
+    "page": 17,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 01.7 Practicing Freehand Ellipses",
+    "title": "Practicing Freehand Ellipses",
+    "chapter": "1",
+    "section": "1.7",
+    "page": 18,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 01.8 Drawing an Ellipse on the Minor Axis",
+    "title": "Drawing an Ellipse on the Minor Axis",
+    "chapter": "1",
+    "section": "1.8",
+    "page": 19,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTD - 02. Perspective Terminology",
+    "title": "Perspective Terminology",
+    "chapter": "2",
+    "section": "2.0",
+    "page": 20,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 02.1 Defining the Perspective by the Viewing Position",
+    "title": "Defining the Perspective by the Viewing Position",
+    "chapter": "2",
+    "section": "2.1",
+    "page": 22,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 02.2 Cone of Vision - COV",
+    "title": "Cone of Vision - COV",
+    "chapter": "2",
+    "section": "2.2",
+    "page": 23,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 02.3 Finding Vanishing Points on the Picture Plane",
+    "title": "Finding Vanishing Points on the Picture Plane",
+    "chapter": "2",
+    "section": "2.3",
+    "page": 24,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 02.4 Physical Parallel Lines Converge to a Common Vanishing Point",
+    "title": "Physical Parallel Lines Converge to a Common Vanishing Point",
+    "chapter": "2",
+    "section": "2.4",
+    "page": 26,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 02.5 Horizon Line Relative to Position",
+    "title": "Horizon Line Relative to Position",
+    "chapter": "2",
+    "section": "2.5",
+    "page": 27,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTD - 03. Perspective Drawing Techniques",
+    "title": "Perspective Drawing Techniques",
+    "chapter": "3",
+    "section": "3.0",
+    "page": 28,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 03.1 Division and Multiplication of Dimensions in Perspective",
+    "title": "Division and Multiplication of Dimensions in Perspective",
+    "chapter": "3",
+    "section": "3.1",
+    "page": 30,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 03.2 Multiplying and Dividing Rectangles",
+    "title": "Multiplying and Dividing Rectangles",
+    "chapter": "3",
+    "section": "3.2",
+    "page": 32,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 03.3 Dividing into Odd-Numbered Proportions",
+    "title": "Dividing into Odd-Numbered Proportions",
+    "chapter": "3",
+    "section": "3.3",
+    "page": 33,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 03.4 Mirroring in Perspective",
+    "title": "Mirroring in Perspective",
+    "chapter": "3",
+    "section": "3.4",
+    "page": 34,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 03.5 Mirroring Tilted Planes",
+    "title": "Mirroring Tilted Planes",
+    "chapter": "3",
+    "section": "3.5",
+    "page": 36,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 03.6 Mirroring Rotated, Tilted Planes",
+    "title": "Mirroring Rotated, Tilted Planes",
+    "chapter": "3",
+    "section": "3.6",
+    "page": 37,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 03.7 Mirroring 2D Curves",
+    "title": "Mirroring 2D Curves",
+    "chapter": "3",
+    "section": "3.7",
+    "page": 40,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 03.8 Mirroring a 2D Curve on a Tilted Surface",
+    "title": "Mirroring a 2D Curve on a Tilted Surface",
+    "chapter": "3",
+    "section": "3.8",
+    "page": 42,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 03.9 Mirroring 3D Curves in Perspective: The 2-Curve Combo",
+    "title": "Mirroring 3D Curves in Perspective: The 2-Curve Combo",
+    "chapter": "3",
+    "section": "3.9",
+    "page": 43,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTD - 04. Creating Grids",
+    "title": "Creating Grids",
+    "chapter": "4",
+    "section": "4.0",
+    "page": 44,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.1 Perspective Grid Types",
+    "title": "Perspective Grid Types",
+    "chapter": "4",
+    "section": "4.1",
+    "page": 46,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.2 Perspective Grid Construction",
+    "title": "Perspective Grid Construction",
+    "chapter": "4",
+    "section": "4.2",
+    "page": 48,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.3 Diagonal Vanishing Point, Station Point Method",
+    "title": "Diagonal Vanishing Point, Station Point Method",
+    "chapter": "4",
+    "section": "4.3",
+    "page": 49,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.4 2-Point Grid Construction with Vanishing Points on the Page",
+    "title": "2-Point Grid Construction with Vanishing Points on the Page",
+    "chapter": "4",
+    "section": "4.4",
+    "page": 50,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.5 Rotated 2-Point Grids with Same-Sized Squares",
+    "title": "Rotated 2-Point Grids with Same-Sized Squares",
+    "chapter": "4",
+    "section": "4.5",
+    "page": 51,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.6 Transferring Scale in Perspective",
+    "title": "Transferring Scale in Perspective",
+    "chapter": "4",
+    "section": "4.6",
+    "page": 53,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.7 The Brewer Method: Constructing a Grid with Vanishing Points off the Page",
+    "title": "The Brewer Method: Constructing a Grid with Vanishing Points off the Page",
+    "chapter": "4",
+    "section": "4.7",
+    "page": 54,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.8 Creating a Grid of Squares, without Diagonal Vanishing Points",
+    "title": "Creating a Grid of Squares, without Diagonal Vanishing Points",
+    "chapter": "4",
+    "section": "4.8",
+    "page": 57,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.9 When to Use a Computer-Generated Underlay",
+    "title": "When to Use a Computer-Generated Underlay",
+    "chapter": "4",
+    "section": "4.9",
+    "page": 58,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.10 Other Benefits and Ways to Use an Underlay",
+    "title": "Other Benefits and Ways to Use an Underlay",
+    "chapter": "4",
+    "section": "4.10",
+    "page": 61,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.11 Not All Perspective Grids Are Created Equal",
+    "title": "Not All Perspective Grids Are Created Equal",
+    "chapter": "4",
+    "section": "4.11",
+    "page": 62,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 04.12 Assembly and Exploded Views",
+    "title": "Assembly and Exploded Views",
+    "chapter": "4",
+    "section": "4.12",
+    "page": 68,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTD - 05. Ellipses and Rotations",
+    "title": "Ellipses and Rotations",
+    "chapter": "5",
+    "section": "5.0",
+    "page": 70,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 05.1 Ellipse Basics and Terminology",
+    "title": "Ellipse Basics and Terminology",
+    "chapter": "5",
+    "section": "5.1",
+    "page": 72,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 05.2 Placing a Circle in Perspective or Drawing Ellipses",
+    "title": "Placing a Circle in Perspective or Drawing Ellipses",
+    "chapter": "5",
+    "section": "5.2",
+    "page": 73,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 05.3 Creating a Cube Using Ellipses",
+    "title": "Creating a Cube Using Ellipses",
+    "chapter": "5",
+    "section": "5.3",
+    "page": 74,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 05.4 Offsetting Ellipses",
+    "title": "Offsetting Ellipses",
+    "chapter": "5",
+    "section": "5.4",
+    "page": 74,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 05.5 Hinging and Rotating Flaps and Doors",
+    "title": "Hinging and Rotating Flaps and Doors",
+    "chapter": "5",
+    "section": "5.5",
+    "page": 75,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 05.6 Subdividing Ellipses",
+    "title": "Subdividing Ellipses",
+    "chapter": "5",
+    "section": "5.6",
+    "page": 76,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 05.7 Shortcuts to Dividing Ellipses",
+    "title": "Shortcuts to Dividing Ellipses",
+    "chapter": "5",
+    "section": "5.7",
+    "page": 78,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 05.8 Placing a Circle on a Sloped Surface",
+    "title": "Placing a Circle on a Sloped Surface",
+    "chapter": "5",
+    "section": "5.8",
+    "page": 79,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTD - 06. Working with Volume",
+    "title": "Working with Volume",
+    "chapter": "6",
+    "section": "6.0",
+    "page": 80,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.1 Planning Before Perspective",
+    "title": "Planning Before Perspective",
+    "chapter": "6",
+    "section": "6.1",
+    "page": 82,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.2 Orthographic Views, a.k.a. Orthogonal Views or Draft Views",
+    "title": "Orthographic Views, a.k.a. Orthogonal Views or Draft Views",
+    "chapter": "6",
+    "section": "6.2",
+    "page": 84,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.3 Transferring a Side View into Perspective",
+    "title": "Transferring a Side View into Perspective",
+    "chapter": "6",
+    "section": "6.3",
+    "page": 85,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.4 Putting It All Together: X-Y-Z Section Drawing",
+    "title": "Putting It All Together: X-Y-Z Section Drawing",
+    "chapter": "6",
+    "section": "6.4",
+    "page": 86,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.5 Extending the Sections",
+    "title": "Extending the Sections",
+    "chapter": "6",
+    "section": "6.5",
+    "page": 88,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.6 2-Curve Combo",
+    "title": "2-Curve Combo",
+    "chapter": "6",
+    "section": "6.6",
+    "page": 89,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.7 Cutting Volumes",
+    "title": "Cutting Volumes",
+    "chapter": "6",
+    "section": "6.7",
+    "page": 90,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.8 Adding Radii and Fillets",
+    "title": "Adding Radii and Fillets",
+    "chapter": "6",
+    "section": "6.8",
+    "page": 92,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.9 Wrapping Graphics",
+    "title": "Wrapping Graphics",
+    "chapter": "6",
+    "section": "6.9",
+    "page": 93,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.10 Detailing and Sculpting Surfaces",
+    "title": "Detailing and Sculpting Surfaces",
+    "chapter": "6",
+    "section": "6.10",
+    "page": 94,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.11 More Tips for Modifying Complex Volumes",
+    "title": "More Tips for Modifying Complex Volumes",
+    "chapter": "6",
+    "section": "6.11",
+    "page": 96,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.12 Contour Lines, Overlapping and Line Weight",
+    "title": "Contour Lines, Overlapping and Line Weight",
+    "chapter": "6",
+    "section": "6.12",
+    "page": 100,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 06.13 X-Y-Z Section Drawing Applied",
+    "title": "X-Y-Z Section Drawing Applied",
+    "chapter": "6",
+    "section": "6.13",
+    "page": 102,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTD - 07. Drawing Environments",
+    "title": "Drawing Environments",
+    "chapter": "7",
+    "section": "7.0",
+    "page": 104,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 07.1 Photo Underlay",
+    "title": "Photo Underlay",
+    "chapter": "7",
+    "section": "7.1",
+    "page": 108,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 07.2 Site Planning",
+    "title": "Site Planning",
+    "chapter": "7",
+    "section": "7.2",
+    "page": 110,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 07.3 Thumbnail Sketching",
+    "title": "Thumbnail Sketching",
+    "chapter": "7",
+    "section": "7.3",
+    "page": 112,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 07.4 Non-Photo Blue, Then Ink",
+    "title": "Non-Photo Blue, Then Ink",
+    "chapter": "7",
+    "section": "7.4",
+    "page": 115,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 07.5 Sci-Fi Environment Step-by-Step",
+    "title": "Sci-Fi Environment Step-by-Step",
+    "chapter": "7",
+    "section": "7.5",
+    "page": 116,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 07.6 Warp That Grid with a Wide-Angle Lens!",
+    "title": "Warp That Grid with a Wide-Angle Lens!",
+    "chapter": "7",
+    "section": "7.6",
+    "page": 118,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 07.7 Outdoor Environment Sketch Step-by-Step",
+    "title": "Outdoor Environment Sketch Step-by-Step",
+    "chapter": "7",
+    "section": "7.7",
+    "page": 120,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTD - 08. Drawing Aircraft",
+    "title": "Drawing Aircraft",
+    "chapter": "8",
+    "section": "8.0",
+    "page": 122,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 08.1 Airplane Anatomy",
+    "title": "Airplane Anatomy",
+    "chapter": "8",
+    "section": "8.1",
+    "page": 124,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 08.2 Visual Research",
+    "title": "Visual Research",
+    "chapter": "8",
+    "section": "8.2",
+    "page": 126,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 08.3 Drawing from Observation",
+    "title": "Drawing from Observation",
+    "chapter": "8",
+    "section": "8.3",
+    "page": 128,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 08.4 Loose Concept Sketching",
+    "title": "Loose Concept Sketching",
+    "chapter": "8",
+    "section": "8.4",
+    "page": 130,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 08.5 \"Paper Plane\" Ideation",
+    "title": "\"Paper Plane\" Ideation",
+    "chapter": "8",
+    "section": "8.5",
+    "page": 132,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 08.6 \"Paper Plane\" Perspective Grid",
+    "title": "\"Paper Plane\" Perspective Grid",
+    "chapter": "8",
+    "section": "8.6",
+    "page": 133,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 08.7 Drawing a Paper Plane, Step-by-Step",
+    "title": "Drawing a Paper Plane, Step-by-Step",
+    "chapter": "8",
+    "section": "8.7",
+    "page": 137,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 08.8 Using a 3D Underlay",
+    "title": "Using a 3D Underlay",
+    "chapter": "8",
+    "section": "8.8",
+    "page": 142,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 08.9 Final Airplane Drawing Step-by-Step",
+    "title": "Final Airplane Drawing Step-by-Step",
+    "chapter": "8",
+    "section": "8.9",
+    "page": 146,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTD - 09. Drawing Wheeled Vehicles",
+    "title": "Drawing Wheeled Vehicles",
+    "chapter": "9",
+    "section": "9.0",
+    "page": 152,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.1 Visual Research",
+    "title": "Visual Research",
+    "chapter": "9",
+    "section": "9.1",
+    "page": 154,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.2 Have an Idea or a Goal Before Starting to Sketch",
+    "title": "Have an Idea or a Goal Before Starting to Sketch",
+    "chapter": "9",
+    "section": "9.2",
+    "page": 157,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.3 Some Basics on Vehicle Packaging and Architecture",
+    "title": "Some Basics on Vehicle Packaging and Architecture",
+    "chapter": "9",
+    "section": "9.3",
+    "page": 160,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.4 Flexing Your Creativity",
+    "title": "Flexing Your Creativity",
+    "chapter": "9",
+    "section": "9.4",
+    "page": 164,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.5 Grids, Grids, Grids!",
+    "title": "Grids, Grids, Grids!",
+    "chapter": "9",
+    "section": "9.5",
+    "page": 166,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.6 Drawing a Side View in Perspective",
+    "title": "Drawing a Side View in Perspective",
+    "chapter": "9",
+    "section": "9.6",
+    "page": 169,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.7 Drawing a Stylized Side View in Perspective",
+    "title": "Drawing a Stylized Side View in Perspective",
+    "chapter": "9",
+    "section": "9.7",
+    "page": 170,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.8 Basic Body Sculpting",
+    "title": "Basic Body Sculpting",
+    "chapter": "9",
+    "section": "9.8",
+    "page": 174,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.9 Drawing the Windshield and Greenhouse",
+    "title": "Drawing the Windshield and Greenhouse",
+    "chapter": "9",
+    "section": "9.9",
+    "page": 175,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.10 Wheel Wells, Wheels and Tires in Perspective",
+    "title": "Wheel Wells, Wheels and Tires in Perspective",
+    "chapter": "9",
+    "section": "9.10",
+    "page": 176,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.11 Common Automotive Lines",
+    "title": "Common Automotive Lines",
+    "chapter": "9",
+    "section": "9.11",
+    "page": 178,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.12 Car Drawing Construction, Step-by-Step Grid",
+    "title": "Car Drawing Construction, Step-by-Step Grid",
+    "chapter": "9",
+    "section": "9.12",
+    "page": 180,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 09.13 Vehicle Sketching with a Wide-Angle Lens",
+    "title": "Vehicle Sketching with a Wide-Angle Lens",
+    "chapter": "9",
+    "section": "9.13",
+    "page": 186,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "HTD - 10. Sketching Styles and Mediums",
+    "title": "Sketching Styles and Mediums",
+    "chapter": "10",
+    "section": "10.0",
+    "page": 188,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.1 Ballpoint Pen",
+    "title": "Ballpoint Pen",
+    "chapter": "10",
+    "section": "10.1",
+    "page": 190,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.2 Copic Marker + Ballpoint Pen",
+    "title": "Copic Marker + Ballpoint Pen",
+    "chapter": "10",
+    "section": "10.2",
+    "page": 191,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.3 Graphite Pencil",
+    "title": "Graphite Pencil",
+    "chapter": "10",
+    "section": "10.3",
+    "page": 192,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.4 Colored Pencil",
+    "title": "Colored Pencil",
+    "chapter": "10",
+    "section": "10.4",
+    "page": 193,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.5 Pilot HI-TEC Pen on Newsprint",
+    "title": "Pilot HI-TEC Pen on Newsprint",
+    "chapter": "10",
+    "section": "10.5",
+    "page": 194,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.6 Copic Marker + Pilot HI-TEC Pen",
+    "title": "Copic Marker + Pilot HI-TEC Pen",
+    "chapter": "10",
+    "section": "10.6",
+    "page": 195,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.7 Non-Photo Blue Colored Pencil + Marker + Brush Pen",
+    "title": "Non-Photo Blue Colored Pencil + Marker + Brush Pen",
+    "chapter": "10",
+    "section": "10.7",
+    "page": 196,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.8 Pentel Pocket Brush Pen",
+    "title": "Pentel Pocket Brush Pen",
+    "chapter": "10",
+    "section": "10.8",
+    "page": 197,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.9 Copic Marker + Pen + Gouache",
+    "title": "Copic Marker + Pen + Gouache",
+    "chapter": "10",
+    "section": "10.9",
+    "page": 198,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.10 Gouache on Illustration Board",
+    "title": "Gouache on Illustration Board",
+    "chapter": "10",
+    "section": "10.10",
+    "page": 199,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.11 Toned Paper + Mixed Media",
+    "title": "Toned Paper + Mixed Media",
+    "chapter": "10",
+    "section": "10.11",
+    "page": 200,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "HTD - 10.12 Digital: Sketchbook PRO",
+    "title": "Digital: Sketchbook PRO",
+    "chapter": "10",
+    "section": "10.12",
+    "page": 201,
+    "base": "[[How to Draw.base]]",
+    "concepts": []
+  }
+]
+

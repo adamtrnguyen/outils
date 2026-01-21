@@ -1,0 +1,1023 @@
+[
+  {
+    "file_name": "LLMFS - 0.1 Preface",
+    "title": "Preface",
+    "chapter": "0",
+    "section": "0.1",
+    "page": 12,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 0.2 Acknowledgments",
+    "title": "Acknowledgments",
+    "chapter": "0",
+    "section": "0.2",
+    "page": 14,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 0.3 About This Book",
+    "title": "About this book",
+    "chapter": "0",
+    "section": "0.3",
+    "page": 16,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 0.4 About The Author",
+    "title": "About the author",
+    "chapter": "0",
+    "section": "0.4",
+    "page": 23,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 0.5 About The Cover Illustration",
+    "title": "About the cover illustration",
+    "chapter": "0",
+    "section": "0.5",
+    "page": 24,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - 01 Understanding large language models",
+    "title": "Understanding large language models",
+    "chapter": "1",
+    "section": "1.0",
+    "page": 25,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 1.1 What is an LLM?",
+    "title": "What is an LLM?",
+    "chapter": "1",
+    "section": "1.1",
+    "page": 27,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 1.2 Applications of LLMs",
+    "title": "Applications of LLMs",
+    "chapter": "1",
+    "section": "1.2",
+    "page": 30,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 1.3 Stages of building and using LLMs",
+    "title": "Stages of building and using LLMs",
+    "chapter": "1",
+    "section": "1.3",
+    "page": 32,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 1.4 Introducing the transformer architecture",
+    "title": "Introducing the transformer architecture",
+    "chapter": "1",
+    "section": "1.4",
+    "page": 36,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 1.5 Utilizing large datasets",
+    "title": "Utilizing large datasets",
+    "chapter": "1",
+    "section": "1.5",
+    "page": 43,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 1.6 A closer look at the GPT architecture",
+    "title": "A closer look at the GPT architecture",
+    "chapter": "1",
+    "section": "1.6",
+    "page": 46,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 1.7 Building a large language model",
+    "title": "Building a large language model",
+    "chapter": "1",
+    "section": "1.7",
+    "page": 49,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - 02 Working with text data",
+    "title": "Working with text data",
+    "chapter": "2",
+    "section": "2.0",
+    "page": 53,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 2.1 Understanding word embeddings",
+    "title": "Understanding word embeddings",
+    "chapter": "2",
+    "section": "2.1",
+    "page": 54,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 2.2 Tokenizing text",
+    "title": "Tokenizing text",
+    "chapter": "2",
+    "section": "2.2",
+    "page": 62,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 2.3 Converting tokens into token IDs",
+    "title": "Converting tokens into token IDs",
+    "chapter": "2",
+    "section": "2.3",
+    "page": 68,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 2.4 Adding special context tokens",
+    "title": "Adding special context tokens",
+    "chapter": "2",
+    "section": "2.4",
+    "page": 74,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 2.5 Byte pair encoding",
+    "title": "Byte pair encoding",
+    "chapter": "2",
+    "section": "2.5",
+    "page": 77,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 2.6 Data sampling with a sliding window",
+    "title": "Data sampling with a sliding window",
+    "chapter": "2",
+    "section": "2.6",
+    "page": 89,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 2.7 Creating token embeddings",
+    "title": "Creating token embeddings",
+    "chapter": "2",
+    "section": "2.7",
+    "page": 97,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 2.8 Encoding word positions",
+    "title": "Encoding word positions",
+    "chapter": "2",
+    "section": "2.8",
+    "page": 103,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - 03 Coding attention mechanisms",
+    "title": "Coding attention mechanisms",
+    "chapter": "3",
+    "section": "3.0",
+    "page": 105,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.1 The problem with modeling long sequences",
+    "title": "The problem with modeling long sequences",
+    "chapter": "3",
+    "section": "3.1",
+    "page": 107,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.2 Capturing data dependencies with attention mechanisms",
+    "title": "Capturing data dependencies with attention mechanisms",
+    "chapter": "3",
+    "section": "3.2",
+    "page": 114,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.3 Attending to different parts of the input with self-attention",
+    "title": "Attending to different parts of the input with self-attention",
+    "chapter": "3",
+    "section": "3.3",
+    "page": 118,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.3.1 A simple self-attention mechanism without trainable weights",
+    "title": "A simple self-attention mechanism without trainable weights",
+    "chapter": "3",
+    "section": "3.3.1",
+    "page": 121,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.3.2 Computing attention weights for all input tokens",
+    "title": "Computing attention weights for all input tokens",
+    "chapter": "3",
+    "section": "3.3.2",
+    "page": 127,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.4 Implementing self-attention with trainable weights",
+    "title": "Implementing self-attention with trainable weights",
+    "chapter": "3",
+    "section": "3.4",
+    "page": 133,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.4.1 Computing the attention weights step by step",
+    "title": "Computing the attention weights step by step",
+    "chapter": "3",
+    "section": "3.4.1",
+    "page": 137,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.4.2 Implementing a compact self-attention Python class",
+    "title": "Implementing a compact self-attention Python class",
+    "chapter": "3",
+    "section": "3.4.2",
+    "page": 143,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.5 Hiding future words with causal attention",
+    "title": "Hiding future words with causal attention",
+    "chapter": "3",
+    "section": "3.5",
+    "page": 148,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.5.1 Applying a causal attention mask",
+    "title": "Applying a causal attention mask",
+    "chapter": "3",
+    "section": "3.5.1",
+    "page": 150,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.5.2 Masking additional attention weights with dropout",
+    "title": "Masking additional attention weights with dropout",
+    "chapter": "3",
+    "section": "3.5.2",
+    "page": 153,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.5.3 Implementing a compact causal attention class",
+    "title": "Implementing a compact causal attention class",
+    "chapter": "3",
+    "section": "3.5.3",
+    "page": 155,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.6 Extending single-head attention to multi-head attention",
+    "title": "Extending single-head attention to multi-head attention",
+    "chapter": "3",
+    "section": "3.6",
+    "page": 159,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.6.1 Stacking multiple single-head attention layers",
+    "title": "Stacking multiple single-head attention layers",
+    "chapter": "3",
+    "section": "3.6.1",
+    "page": 159,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 3.6.2 Implementing multi-head attention with weight splits",
+    "title": "Implementing multi-head attention with weight splits",
+    "chapter": "3",
+    "section": "3.6.2",
+    "page": 165,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - 04 Implementing a GPT model from scratch to generate text",
+    "title": "Implementing a GPT model from scratch to generate text",
+    "chapter": "4",
+    "section": "4.0",
+    "page": 174,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 4.1 Coding an LLM architecture",
+    "title": "Coding an LLM architecture",
+    "chapter": "4",
+    "section": "4.1",
+    "page": 175,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 4.2 Normalizing activations with layer normalization",
+    "title": "Normalizing activations with layer normalization",
+    "chapter": "4",
+    "section": "4.2",
+    "page": 186,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 4.3 Implementing a feed forward network with GELU activations",
+    "title": "Implementing a feed forward network with GELU activations",
+    "chapter": "4",
+    "section": "4.3",
+    "page": 195,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 4.4 Adding shortcut connections",
+    "title": "Adding shortcut connections",
+    "chapter": "4",
+    "section": "4.4",
+    "page": 202,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 4.5 Connecting attention and linear layers in a transformer block",
+    "title": "Connecting attention and linear layers in a transformer block",
+    "chapter": "4",
+    "section": "4.5",
+    "page": 208,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 4.6 Coding the GPT model",
+    "title": "Coding the GPT model",
+    "chapter": "4",
+    "section": "4.6",
+    "page": 215,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 4.7 Generating text",
+    "title": "Generating text",
+    "chapter": "4",
+    "section": "4.7",
+    "page": 222,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - 05 Pretraining on unlabeled data",
+    "title": "Pretraining on unlabeled data",
+    "chapter": "5",
+    "section": "5.0",
+    "page": 233,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.1 Evaluating generative text models",
+    "title": "Evaluating generative text models",
+    "chapter": "5",
+    "section": "5.1",
+    "page": 234,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.1.1 Using GPT to generate text",
+    "title": "Using GPT to generate text",
+    "chapter": "5",
+    "section": "5.1.1",
+    "page": 234,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.1.2 Calculating the text generation loss",
+    "title": "Calculating the text generation loss",
+    "chapter": "5",
+    "section": "5.1.2",
+    "page": 239,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.1.3 Calculating the training and validation set losses",
+    "title": "Calculating the training and validation set losses",
+    "chapter": "5",
+    "section": "5.1.3",
+    "page": 242,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.2 Training an LLM",
+    "title": "Training an LLM",
+    "chapter": "5",
+    "section": "5.2",
+    "page": 246,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.3 Decoding strategies to control randomness",
+    "title": "Decoding strategies to control randomness",
+    "chapter": "5",
+    "section": "5.3",
+    "page": 261,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.3.1 Temperature scaling",
+    "title": "Temperature scaling",
+    "chapter": "5",
+    "section": "5.3.1",
+    "page": 262,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.3.2 Top-k sampling",
+    "title": "Top-k sampling",
+    "chapter": "5",
+    "section": "5.3.2",
+    "page": 263,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.3.3 Modifying the text generation function",
+    "title": "Modifying the text generation function",
+    "chapter": "5",
+    "section": "5.3.3",
+    "page": 266,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.4 Loading and saving model weights in PyTorch",
+    "title": "Loading and saving model weights in PyTorch",
+    "chapter": "5",
+    "section": "5.4",
+    "page": 274,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 5.5 Loading pretrained weights from OpenAI",
+    "title": "Loading pretrained weights from OpenAI",
+    "chapter": "5",
+    "section": "5.5",
+    "page": 285,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - 06 Fine-tuning for classification",
+    "title": "Fine-tuning for classification",
+    "chapter": "6",
+    "section": "6.0",
+    "page": 296,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 6.1 Different categories of fine-tuning",
+    "title": "Different categories of fine-tuning",
+    "chapter": "6",
+    "section": "6.1",
+    "page": 297,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 6.2 Preparing the dataset",
+    "title": "Preparing the dataset",
+    "chapter": "6",
+    "section": "6.2",
+    "page": 304,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 6.3 Creating data loaders",
+    "title": "Creating data loaders",
+    "chapter": "6",
+    "section": "6.3",
+    "page": 316,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 6.4 Initializing a model with pretrained weights",
+    "title": "Initializing a model with pretrained weights",
+    "chapter": "6",
+    "section": "6.4",
+    "page": 321,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 6.5 Adding a classification head",
+    "title": "Adding a classification head",
+    "chapter": "6",
+    "section": "6.5",
+    "page": 331,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 6.6 Calculating the classification loss and accuracy",
+    "title": "Calculating the classification loss and accuracy",
+    "chapter": "6",
+    "section": "6.6",
+    "page": 336,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 6.7 Fine-tuning the model on supervised data",
+    "title": "Fine-tuning the model on supervised data",
+    "chapter": "6",
+    "section": "6.7",
+    "page": 341,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 6.8 Using the LLM as a spam classifier",
+    "title": "Using the LLM as a spam classifier",
+    "chapter": "6",
+    "section": "6.8",
+    "page": 346,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - 07 Fine-tuning to follow instructions",
+    "title": "Fine-tuning to follow instructions",
+    "chapter": "7",
+    "section": "7.0",
+    "page": 352,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.1 Introduction to instruction fine-tuning",
+    "title": "Introduction to instruction fine-tuning",
+    "chapter": "7",
+    "section": "7.1",
+    "page": 353,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.2 Preparing a dataset for supervised instruction fine-tuning",
+    "title": "Preparing a dataset for supervised instruction fine-tuning",
+    "chapter": "7",
+    "section": "7.2",
+    "page": 357,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.3 Organizing data into training batches",
+    "title": "Organizing data into training batches",
+    "chapter": "7",
+    "section": "7.3",
+    "page": 364,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.4 Creating data loaders for an instruction dataset",
+    "title": "Creating data loaders for an instruction dataset",
+    "chapter": "7",
+    "section": "7.4",
+    "page": 370,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.5 Loading a pretrained LLM",
+    "title": "Loading a pretrained LLM",
+    "chapter": "7",
+    "section": "7.5",
+    "page": 379,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.6 Fine-tuning the LLM on instruction data",
+    "title": "Fine-tuning the LLM on instruction data",
+    "chapter": "7",
+    "section": "7.6",
+    "page": 392,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.7 Extracting and saving responses",
+    "title": "Extracting and saving responses",
+    "chapter": "7",
+    "section": "7.7",
+    "page": 405,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.8 Evaluating the fine-tuned LLM",
+    "title": "Evaluating the fine-tuned LLM",
+    "chapter": "7",
+    "section": "7.8",
+    "page": 412,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.9 Conclusions",
+    "title": "Conclusions",
+    "chapter": "7",
+    "section": "7.9",
+    "page": 419,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.9.1 What’s next?",
+    "title": "What’s next?",
+    "chapter": "7",
+    "section": "7.9.1",
+    "page": 420,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.9.2 Staying up to date in a fast-moving field",
+    "title": "Staying up to date in a fast-moving field",
+    "chapter": "7",
+    "section": "7.9.2",
+    "page": 421,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - 7.9.3 Final words",
+    "title": "Final words",
+    "chapter": "7",
+    "section": "7.9.3",
+    "page": 422,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - A.0 Appendix A: Introduction to PyTorch",
+    "title": "Appendix A: Introduction to PyTorch",
+    "chapter": "A",
+    "section": "A.0",
+    "page": 423,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.1 What is PyTorch?",
+    "title": "What is PyTorch?",
+    "chapter": "A",
+    "section": "A.1",
+    "page": 423,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.1.1 The three core components of PyTorch",
+    "title": "The three core components of PyTorch",
+    "chapter": "A",
+    "section": "A.1.1",
+    "page": 424,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.1.2 Defining deep learning",
+    "title": "Defining deep learning",
+    "chapter": "A",
+    "section": "A.1.2",
+    "page": 425,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.1.3 Installing PyTorch",
+    "title": "Installing PyTorch",
+    "chapter": "A",
+    "section": "A.1.3",
+    "page": 429,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.2 Understanding tensors",
+    "title": "Understanding tensors",
+    "chapter": "A",
+    "section": "A.2",
+    "page": 435,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.2.1 Scalars, vectors, matrices, and tensors",
+    "title": "Scalars, vectors, matrices, and tensors",
+    "chapter": "A",
+    "section": "A.2.1",
+    "page": 437,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.2.2 Tensor data types",
+    "title": "Tensor data types",
+    "chapter": "A",
+    "section": "A.2.2",
+    "page": 438,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.2.3 Common PyTorch tensor operations",
+    "title": "Common PyTorch tensor operations",
+    "chapter": "A",
+    "section": "A.2.3",
+    "page": 439,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.3 Seeing models as computation graphs",
+    "title": "Seeing models as computation graphs",
+    "chapter": "A",
+    "section": "A.3",
+    "page": 441,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.4 Automatic differentiation made easy",
+    "title": "Automatic differentiation made easy",
+    "chapter": "A",
+    "section": "A.4",
+    "page": 443,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.5 Implementing multilayer neural networks",
+    "title": "Implementing multilayer neural networks",
+    "chapter": "A",
+    "section": "A.5",
+    "page": 447,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.6 Setting up efficient data loaders",
+    "title": "Setting up efficient data loaders",
+    "chapter": "A",
+    "section": "A.6",
+    "page": 454,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.7 A typical training loop",
+    "title": "A typical training loop",
+    "chapter": "A",
+    "section": "A.7",
+    "page": 461,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.8 Saving and loading models",
+    "title": "Saving and loading models",
+    "chapter": "A",
+    "section": "A.8",
+    "page": 467,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.9 Optimizing training performance with GPUs",
+    "title": "Optimizing training performance with GPUs",
+    "chapter": "A",
+    "section": "A.9",
+    "page": 468,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.9.1 PyTorch computations on GPU devices",
+    "title": "PyTorch computations on GPU devices",
+    "chapter": "A",
+    "section": "A.9.1",
+    "page": 468,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.9.2 Single-GPU training",
+    "title": "Single-GPU training",
+    "chapter": "A",
+    "section": "A.9.2",
+    "page": 470,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - A.9.3 Training with multiple GPUs",
+    "title": "Training with multiple GPUs",
+    "chapter": "A",
+    "section": "A.9.3",
+    "page": 472,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - B.0 Appendix B: References and further reading",
+    "title": "Appendix B: References and further reading",
+    "chapter": "B",
+    "section": "B.0",
+    "page": 484,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - C.0 Appendix C: Exercise solutions",
+    "title": "Appendix C: Exercise solutions",
+    "chapter": "C",
+    "section": "C.0",
+    "page": 507,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - D.0 Appendix D: Adding bells and whistles to the training loop",
+    "title": "Appendix D: Adding bells and whistles to the training loop",
+    "chapter": "D",
+    "section": "D.0",
+    "page": 529,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - D.1 Learning rate warmup",
+    "title": "Learning rate warmup",
+    "chapter": "D",
+    "section": "D.1",
+    "page": 530,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - D.2 Cosine decay",
+    "title": "Cosine decay",
+    "chapter": "D",
+    "section": "D.2",
+    "page": 535,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - D.3 Gradient clipping",
+    "title": "Gradient clipping",
+    "chapter": "D",
+    "section": "D.3",
+    "page": 536,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - D.4 The modified training function",
+    "title": "The modified training function",
+    "chapter": "D",
+    "section": "D.4",
+    "page": 537,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - E.0 Appendix E: Parameter-efficient fine-tuning with LoRA",
+    "title": "Appendix E: Parameter-efficient fine-tuning with LoRA",
+    "chapter": "E",
+    "section": "E.0",
+    "page": 542,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - E.1 Introduction to LoRA",
+    "title": "Introduction to LoRA",
+    "chapter": "E",
+    "section": "E.1",
+    "page": 542,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - E.2 Preparing the dataset",
+    "title": "Preparing the dataset",
+    "chapter": "E",
+    "section": "E.2",
+    "page": 548,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - E.3 Initializing the model",
+    "title": "Initializing the model",
+    "chapter": "E",
+    "section": "E.3",
+    "page": 549,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "LLMFS - E.4 Parameter-efficient fine-tuning with LoRA",
+    "title": "Parameter-efficient fine-tuning with LoRA",
+    "chapter": "E",
+    "section": "E.4",
+    "page": 550,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "LLMFS - I.1 Index",
+    "title": "Index",
+    "chapter": "I",
+    "section": "I.1",
+    "page": 581,
+    "base": "[[Build a Large Language Model.base]]",
+    "concepts": []
+  }
+]
+

@@ -1,0 +1,322 @@
+[
+  {
+    "file_name": "PCD - 1.0 Part 1 - Body",
+    "title": "Part 1: Body",
+    "chapter": "1",
+    "section": "1.0",
+    "page": 9,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.1 Neck, shoulders",
+    "title": "Neck, shoulders",
+    "chapter": "1",
+    "section": "1.1",
+    "page": 10,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.2 Chest",
+    "title": "Chest",
+    "chapter": "1",
+    "section": "1.2",
+    "page": 22,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.3 Armpit, abdominal muscles",
+    "title": "Armpit, abdominal muscles",
+    "chapter": "1",
+    "section": "1.3",
+    "page": 35,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.4 Side view",
+    "title": "Side view",
+    "chapter": "1",
+    "section": "1.4",
+    "page": 47,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.5 Rear view",
+    "title": "Rear view",
+    "chapter": "1",
+    "section": "1.5",
+    "page": 53,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.6 Arms, hands",
+    "title": "Arms, hands",
+    "chapter": "1",
+    "section": "1.6",
+    "page": 56,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.7 Flow",
+    "title": "Flow",
+    "chapter": "1",
+    "section": "1.7",
+    "page": 62,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.8 Pelvis",
+    "title": "Pelvis",
+    "chapter": "1",
+    "section": "1.8",
+    "page": 71,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.9 Hips",
+    "title": "Hips",
+    "chapter": "1",
+    "section": "1.9",
+    "page": 83,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.10 Legs, feet",
+    "title": "Legs, feet",
+    "chapter": "1",
+    "section": "1.10",
+    "page": 88,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 1.11 Point drawing for body",
+    "title": "Point drawing for body",
+    "chapter": "1",
+    "section": "1.11",
+    "page": 96,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "PCD - 2.0 Part 2 - Arms",
+    "title": "Part 2: Arms",
+    "chapter": "2",
+    "section": "2.0",
+    "page": 123,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 2.1 Neck",
+    "title": "Neck",
+    "chapter": "2",
+    "section": "2.1",
+    "page": 124,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 2.2 Arms",
+    "title": "Arms",
+    "chapter": "2",
+    "section": "2.2",
+    "page": 127,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 2.3 Wrist",
+    "title": "Wrist",
+    "chapter": "2",
+    "section": "2.3",
+    "page": 151,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 2.4 Hands",
+    "title": "Hands",
+    "chapter": "2",
+    "section": "2.4",
+    "page": 159,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "PCD - 3.0 Part 3 - Face",
+    "title": "Part 3: Face",
+    "chapter": "3",
+    "section": "3.0",
+    "page": 9,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 3.1 Head",
+    "title": "Head",
+    "chapter": "3",
+    "section": "3.1",
+    "page": 10,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 3.2 Eyes",
+    "title": "Eyes",
+    "chapter": "3",
+    "section": "3.2",
+    "page": 16,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 3.3 Nose",
+    "title": "Nose",
+    "chapter": "3",
+    "section": "3.3",
+    "page": 32,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 3.4 Ears",
+    "title": "Ears",
+    "chapter": "3",
+    "section": "3.4",
+    "page": 37,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 3.5 Mouth",
+    "title": "Mouth",
+    "chapter": "3",
+    "section": "3.5",
+    "page": 44,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 3.6 Chin",
+    "title": "Chin",
+    "chapter": "3",
+    "section": "3.6",
+    "page": 58,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 3.7 Neck",
+    "title": "Neck",
+    "chapter": "3",
+    "section": "3.7",
+    "page": 65,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 3.8 Side view",
+    "title": "Side view",
+    "chapter": "3",
+    "section": "3.8",
+    "page": 72,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 3.9 Hair",
+    "title": "Hair",
+    "chapter": "3",
+    "section": "3.9",
+    "page": 83,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 3.10 Point drawing for face",
+    "title": "Point drawing for face",
+    "chapter": "3",
+    "section": "3.10",
+    "page": 108,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "PCD - 4.0 Part 4 - Legs",
+    "title": "Part 4: Legs",
+    "chapter": "4",
+    "section": "4.0",
+    "page": 125,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 4.1 Thighs",
+    "title": "Thighs",
+    "chapter": "4",
+    "section": "4.1",
+    "page": 132,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 4.2 Knees",
+    "title": "Knees",
+    "chapter": "4",
+    "section": "4.2",
+    "page": 140,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 4.3 Ankles",
+    "title": "Ankles",
+    "chapter": "4",
+    "section": "4.3",
+    "page": 145,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 4.4 Feet",
+    "title": "Feet",
+    "chapter": "4",
+    "section": "4.4",
+    "page": 149,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "PCD - 4.5 Point drawing for legs",
+    "title": "Point drawing for legs",
+    "chapter": "4",
+    "section": "4.5",
+    "page": 188,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "PCD - 5.0 Part 5 - Illustrations",
+    "title": "Part 5: Illustrations",
+    "chapter": "5",
+    "section": "5.0",
+    "page": 203,
+    "base": "[[Point Character Drawing Vol 1.base]]",
+    "concepts": []
+  }
+]
+

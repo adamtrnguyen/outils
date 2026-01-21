@@ -1,0 +1,35 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+	deleted:    UDL_1.json
+	deleted:    UDL_2.json
+	deleted:    YLD.json
+	deleted:    main.py
+	deleted:    ura_abbot.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	data/COR.json
+	data/DV.json
+	data/FF.json
+	data/FP.json
+	data/HAA.json
+	data/HTD.json
+	data/HTPI.json
+	data/HTR.json
+	data/LLMFS.json
+	data/PCD.json
+	data/STYLE.json
+	data/UDL_1.json
+	data/UDL_2.json
+	data/YLD.json
+	data/ura_abbot.json
+	git_status_output.txt
+	src/main.py
+
+no changes added to commit (use "git add" and/or "git commit -a")

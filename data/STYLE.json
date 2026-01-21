@@ -1,0 +1,243 @@
+[
+  {
+    "file_name": "STYLE - 00 Preface",
+    "title": "Preface",
+    "chapter": "0",
+    "section": "0.1",
+    "page": "v",
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 00 In Memoriam",
+    "title": "In Memoriam",
+    "chapter": "0",
+    "section": "0.2",
+    "page": "x",
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 00 Introduction",
+    "title": "Introduction",
+    "chapter": "0",
+    "section": "0.3",
+    "page": 1,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "STYLE - 01 Style as Choice",
+    "title": "Part One: Style as Choice",
+    "chapter": "1",
+    "section": "1.0",
+    "page": 5,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 01.1 Correctness and Style",
+    "title": "Lesson One: Correctness and Style",
+    "chapter": "1",
+    "section": "1.1",
+    "page": 6,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "STYLE - 02 Clarity",
+    "title": "Part Two: Clarity",
+    "chapter": "2",
+    "section": "2.0",
+    "page": 23,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 02.1 Actions",
+    "title": "Lesson Two: Actions",
+    "chapter": "2",
+    "section": "2.1",
+    "page": 24,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 02.2 Characters",
+    "title": "Lesson Three: Characters",
+    "chapter": "2",
+    "section": "2.2",
+    "page": 40,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 02.3 Cohesion and Coherence",
+    "title": "Lesson Four: Cohesion and Coherence",
+    "chapter": "2",
+    "section": "2.3",
+    "page": 58,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 02.4 Emphasis",
+    "title": "Lesson Five: Emphasis",
+    "chapter": "2",
+    "section": "2.4",
+    "page": 71,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "STYLE - 03 Clarity of Form",
+    "title": "Part Three: Clarity of Form",
+    "chapter": "3",
+    "section": "3.0",
+    "page": 85,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 03.1 Framing Documents",
+    "title": "Lesson Six: Framing Documents",
+    "chapter": "3",
+    "section": "3.1",
+    "page": 86,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 03.2 Framing Sections",
+    "title": "Lesson Seven: Framing Sections",
+    "chapter": "3",
+    "section": "3.2",
+    "page": 100,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "STYLE - 04 Grace",
+    "title": "Part Four: Grace",
+    "chapter": "4",
+    "section": "4.0",
+    "page": 111,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 04.1 Concision",
+    "title": "Lesson Eight: Concision",
+    "chapter": "4",
+    "section": "4.1",
+    "page": 112,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 04.2 Shape",
+    "title": "Lesson Nine: Shape",
+    "chapter": "4",
+    "section": "4.2",
+    "page": 125,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 04.3 Elegance",
+    "title": "Lesson Ten: Elegance",
+    "chapter": "4",
+    "section": "4.3",
+    "page": 145,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "STYLE - 05 Ethics",
+    "title": "Part Five: Ethics",
+    "chapter": "5",
+    "section": "5.0",
+    "page": 159,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 05.1 The Ethics of Clarity",
+    "title": "Lesson Eleven: The Ethics of Clarity",
+    "chapter": "5",
+    "section": "5.1",
+    "page": 160,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - 05.2 Beyond Clarity",
+    "title": "Lesson Twelve: Beyond Clarity",
+    "chapter": "5",
+    "section": "5.2",
+    "page": 171,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+
+  {
+    "file_name": "STYLE - A1 Appendix I Punctuation",
+    "title": "Appendix I: Punctuation",
+    "chapter": "A",
+    "section": "A.1",
+    "page": 180,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - A2 Appendix II Using Sources",
+    "title": "Appendix II: Using Sources",
+    "chapter": "A",
+    "section": "A.2",
+    "page": 197,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - G Glossary",
+    "title": "Glossary",
+    "chapter": "G",
+    "section": "G.1",
+    "page": 209,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - SA Suggested Answers",
+    "title": "Suggested Answers",
+    "chapter": "S",
+    "section": "S.1",
+    "page": 217,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - ACK Acknowledgments",
+    "title": "Acknowledgments",
+    "chapter": "A",
+    "section": "A.3",
+    "page": 223,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "STYLE - IDX Index",
+    "title": "Index",
+    "chapter": "I",
+    "section": "I.1",
+    "page": 225,
+    "base": "[[Style - Lessons in Clarity and Grace.base]]",
+    "concepts": []
+  }
+]
+
