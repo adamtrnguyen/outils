@@ -1,0 +1,3224 @@
+[
+  {
+    "file_name": "TADM - 00. Preface",
+    "title": "Preface",
+    "chapter": "0",
+    "section": "0.0",
+    "page": 6,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 00. To the Reader",
+    "title": "To the Reader",
+    "chapter": "0",
+    "section": "0.0",
+    "page": 6,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 00. To the Instructor",
+    "title": "To the Instructor",
+    "chapter": "0",
+    "section": "0.0",
+    "page": 8,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 00. Acknowledgments",
+    "title": "Acknowledgments",
+    "chapter": "0",
+    "section": "0.0",
+    "page": 9,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 00. Caveat",
+    "title": "Caveat",
+    "chapter": "0",
+    "section": "0.0",
+    "page": 9,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 00. Contents",
+    "title": "Contents",
+    "chapter": "0",
+    "section": "0.0",
+    "page": 10,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - I Practical Algorithm Design",
+    "title": "Practical Algorithm Design",
+    "chapter": "I",
+    "section": "I",
+    "page": 19,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01. Introduction to Algorithm Design",
+    "title": "Introduction to Algorithm Design",
+    "chapter": "1",
+    "section": "1.0",
+    "page": 20,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.1 Robot Tour Optimization",
+    "title": "Robot Tour Optimization",
+    "chapter": "1",
+    "section": "1.1",
+    "page": 22,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.2 Selecting the Right Jobs",
+    "title": "Selecting the Right Jobs",
+    "chapter": "1",
+    "section": "1.2",
+    "page": 25,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.3 Reasoning about Correctness",
+    "title": "Reasoning about Correctness",
+    "chapter": "1",
+    "section": "1.3",
+    "page": 28,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.3.1 Problems and Properties",
+    "title": "Problems and Properties",
+    "chapter": "1",
+    "section": "1.3.1",
+    "page": 28,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.3.2 Expressing Algorithms",
+    "title": "Expressing Algorithms",
+    "chapter": "1",
+    "section": "1.3.2",
+    "page": 29,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.3.3 Demonstrating Incorrectness",
+    "title": "Demonstrating Incorrectness",
+    "chapter": "1",
+    "section": "1.3.3",
+    "page": 30,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.4 Induction and Recursion",
+    "title": "Induction and Recursion",
+    "chapter": "1",
+    "section": "1.4",
+    "page": 32,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.5 Modeling the Problem",
+    "title": "Modeling the Problem",
+    "chapter": "1",
+    "section": "1.5",
+    "page": 34,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.5.1 Combinatorial Objects",
+    "title": "Combinatorial Objects",
+    "chapter": "1",
+    "section": "1.5.1",
+    "page": 34,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.5.2 Recursive Objects",
+    "title": "Recursive Objects",
+    "chapter": "1",
+    "section": "1.5.2",
+    "page": 36,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.6 Proof by Contradiction",
+    "title": "Proof by Contradiction",
+    "chapter": "1",
+    "section": "1.6",
+    "page": 38,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.7 About the War Stories",
+    "title": "About the War Stories",
+    "chapter": "1",
+    "section": "1.7",
+    "page": 39,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.8 War Story: Psychic Modeling",
+    "title": "War Story: Psychic Modeling",
+    "chapter": "1",
+    "section": "1.8",
+    "page": 39,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.9 Estimation",
+    "title": "Estimation",
+    "chapter": "1",
+    "section": "1.9",
+    "page": 42,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 01.10 Exercises",
+    "title": "Exercises",
+    "chapter": "1",
+    "section": "1.10",
+    "page": 44,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02. Algorithm Analysis",
+    "title": "Algorithm Analysis",
+    "chapter": "2",
+    "section": "2.0",
+    "page": 48,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.1 The RAM Model of Computation",
+    "title": "The RAM Model of Computation",
+    "chapter": "2",
+    "section": "2.1",
+    "page": 48,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.1.1 Best-Case, Worst-Case, and Average-Case Complexity",
+    "title": "Best-Case, Worst-Case, and Average-Case Complexity",
+    "chapter": "2",
+    "section": "2.1.1",
+    "page": 49,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.2 The Big Oh Notation",
+    "title": "The Big Oh Notation",
+    "chapter": "2",
+    "section": "2.2",
+    "page": 51,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.3 Growth Rates and Dominance Relations",
+    "title": "Growth Rates and Dominance Relations",
+    "chapter": "2",
+    "section": "2.3",
+    "page": 54,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.3.1 Dominance Relations",
+    "title": "Dominance Relations",
+    "chapter": "2",
+    "section": "2.3.1",
+    "page": 55,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.4 Working with the Big Oh",
+    "title": "Working with the Big Oh",
+    "chapter": "2",
+    "section": "2.4",
+    "page": 56,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.4.1 Adding Functions",
+    "title": "Adding Functions",
+    "chapter": "2",
+    "section": "2.4.1",
+    "page": 57,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.4.2 Multiplying Functions",
+    "title": "Multiplying Functions",
+    "chapter": "2",
+    "section": "2.4.2",
+    "page": 57,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.5 Reasoning about E\u000eciency",
+    "title": "Reasoning about E\u000eciency",
+    "chapter": "2",
+    "section": "2.5",
+    "page": 58,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.5.1 Selection Sort",
+    "title": "Selection Sort",
+    "chapter": "2",
+    "section": "2.5.1",
+    "page": 58,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.5.2 Insertion Sort",
+    "title": "Insertion Sort",
+    "chapter": "2",
+    "section": "2.5.2",
+    "page": 59,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.5.3 String Pattern Matching",
+    "title": "String Pattern Matching",
+    "chapter": "2",
+    "section": "2.5.3",
+    "page": 60,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.5.4 Matrix Multiplication",
+    "title": "Matrix Multiplication",
+    "chapter": "2",
+    "section": "2.5.4",
+    "page": 62,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.6 Summations",
+    "title": "Summations",
+    "chapter": "2",
+    "section": "2.6",
+    "page": 63,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.7 Logarithms and Their Applications",
+    "title": "Logarithms and Their Applications",
+    "chapter": "2",
+    "section": "2.7",
+    "page": 65,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.7.1 Logarithms and Binary Search",
+    "title": "Logarithms and Binary Search",
+    "chapter": "2",
+    "section": "2.7.1",
+    "page": 66,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.7.2 Logarithms and Trees",
+    "title": "Logarithms and Trees",
+    "chapter": "2",
+    "section": "2.7.2",
+    "page": 66,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.7.3 Logarithms and Bits",
+    "title": "Logarithms and Bits",
+    "chapter": "2",
+    "section": "2.7.3",
+    "page": 67,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.7.4 Logarithms and Multiplication",
+    "title": "Logarithms and Multiplication",
+    "chapter": "2",
+    "section": "2.7.4",
+    "page": 67,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.7.5 Fast Exponentiation",
+    "title": "Fast Exponentiation",
+    "chapter": "2",
+    "section": "2.7.5",
+    "page": 67,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.7.6 Logarithms and Summations",
+    "title": "Logarithms and Summations",
+    "chapter": "2",
+    "section": "2.7.6",
+    "page": 68,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.7.7 Logarithms and Criminal Justice",
+    "title": "Logarithms and Criminal Justice",
+    "chapter": "2",
+    "section": "2.7.7",
+    "page": 68,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.8 Properties of Logarithms",
+    "title": "Properties of Logarithms",
+    "chapter": "2",
+    "section": "2.8",
+    "page": 69,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.9 War Story: Mystery of the Pyramids",
+    "title": "War Story: Mystery of the Pyramids",
+    "chapter": "2",
+    "section": "2.9",
+    "page": 71,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.10 Advanced Analysis (*)",
+    "title": "Advanced Analysis (*)",
+    "chapter": "2",
+    "section": "2.10",
+    "page": 74,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.10.1 Esoteric Functions",
+    "title": "Esoteric Functions",
+    "chapter": "2",
+    "section": "2.10.1",
+    "page": 74,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.10.2 Limits and Dominance Relations",
+    "title": "Limits and Dominance Relations",
+    "chapter": "2",
+    "section": "2.10.2",
+    "page": 75,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 02.11 Exercises",
+    "title": "Exercises",
+    "chapter": "2",
+    "section": "2.11",
+    "page": 76,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03. Data Structures",
+    "title": "Data Structures",
+    "chapter": "3",
+    "section": "3.0",
+    "page": 85,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.1 Contiguous vs. Linked Data Structures",
+    "title": "Contiguous vs. Linked Data Structures",
+    "chapter": "3",
+    "section": "3.1",
+    "page": 85,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.1.1 Arrays",
+    "title": "Arrays",
+    "chapter": "3",
+    "section": "3.1.1",
+    "page": 86,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.1.2 Pointers and Linked Structures",
+    "title": "Pointers and Linked Structures",
+    "chapter": "3",
+    "section": "3.1.2",
+    "page": 87,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.1.3 Comparison",
+    "title": "Comparison",
+    "chapter": "3",
+    "section": "3.1.3",
+    "page": 90,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.2 Containers: Stacks and Queues",
+    "title": "Containers: Stacks and Queues",
+    "chapter": "3",
+    "section": "3.2",
+    "page": 91,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.3 Dictionaries",
+    "title": "Dictionaries",
+    "chapter": "3",
+    "section": "3.3",
+    "page": 92,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.4 Binary Search Trees",
+    "title": "Binary Search Trees",
+    "chapter": "3",
+    "section": "3.4",
+    "page": 97,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.4.1 Implementing Binary Search Trees",
+    "title": "Implementing Binary Search Trees",
+    "chapter": "3",
+    "section": "3.4.1",
+    "page": 97,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.4.2 How Good are Binary Search Trees?",
+    "title": "How Good are Binary Search Trees?",
+    "chapter": "3",
+    "section": "3.4.2",
+    "page": 101,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.4.3 Balanced Search Trees",
+    "title": "Balanced Search Trees",
+    "chapter": "3",
+    "section": "3.4.3",
+    "page": 102,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.5 Priority Queues",
+    "title": "Priority Queues",
+    "chapter": "3",
+    "section": "3.5",
+    "page": 103,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.6 War Story: Stripping Triangulations",
+    "title": "War Story: Stripping Triangulations",
+    "chapter": "3",
+    "section": "3.6",
+    "page": 105,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.7 Hashing",
+    "title": "Hashing",
+    "chapter": "3",
+    "section": "3.7",
+    "page": 109,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.7.1 Collision Resolution",
+    "title": "Collision Resolution",
+    "chapter": "3",
+    "section": "3.7.1",
+    "page": 109,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.7.2 Duplicate Detection via Hashing",
+    "title": "Duplicate Detection via Hashing",
+    "chapter": "3",
+    "section": "3.7.2",
+    "page": 111,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.7.3 Other Hashing Tricks",
+    "title": "Other Hashing Tricks",
+    "chapter": "3",
+    "section": "3.7.3",
+    "page": 112,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.7.4 Canonicalization",
+    "title": "Canonicalization",
+    "chapter": "3",
+    "section": "3.7.4",
+    "page": 112,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.7.5 Compaction",
+    "title": "Compaction",
+    "chapter": "3",
+    "section": "3.7.5",
+    "page": 113,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.8 Specialized Data Structures",
+    "title": "Specialized Data Structures",
+    "chapter": "3",
+    "section": "3.8",
+    "page": 114,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.9 War Story: String 'em Up",
+    "title": "War Story: String 'em Up",
+    "chapter": "3",
+    "section": "3.9",
+    "page": 114,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 03.10 Exercises",
+    "title": "Exercises",
+    "chapter": "3",
+    "section": "3.10",
+    "page": 119,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04. Sorting",
+    "title": "Sorting",
+    "chapter": "4",
+    "section": "4.0",
+    "page": 125,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.1 Applications of Sorting",
+    "title": "Applications of Sorting",
+    "chapter": "4",
+    "section": "4.1",
+    "page": 125,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.2 Pragmatics of Sorting",
+    "title": "Pragmatics of Sorting",
+    "chapter": "4",
+    "section": "4.2",
+    "page": 129,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.3 Heapsort: Fast Sorting via Data Structures",
+    "title": "Heapsort: Fast Sorting via Data Structures",
+    "chapter": "4",
+    "section": "4.3",
+    "page": 131,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.3.1 Heaps",
+    "title": "Heaps",
+    "chapter": "4",
+    "section": "4.3.1",
+    "page": 132,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.3.2 Constructing Heaps",
+    "title": "Constructing Heaps",
+    "chapter": "4",
+    "section": "4.3.2",
+    "page": 134,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.3.3 Extracting the Minimum",
+    "title": "Extracting the Minimum",
+    "chapter": "4",
+    "section": "4.3.3",
+    "page": 136,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.3.4 Faster Heap Construction (*)",
+    "title": "Faster Heap Construction (*)",
+    "chapter": "4",
+    "section": "4.3.4",
+    "page": 138,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.3.5 Sorting by Incremental Insertion",
+    "title": "Sorting by Incremental Insertion",
+    "chapter": "4",
+    "section": "4.3.5",
+    "page": 140,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.4 War Story: Give me a Ticket on an Airplane",
+    "title": "War Story: Give me a Ticket on an Airplane",
+    "chapter": "4",
+    "section": "4.4",
+    "page": 141,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.5 Mergesort: Sorting by Divide and Conquer",
+    "title": "Mergesort: Sorting by Divide and Conquer",
+    "chapter": "4",
+    "section": "4.5",
+    "page": 143,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.6 Quicksort: Sorting by Randomization",
+    "title": "Quicksort: Sorting by Randomization",
+    "chapter": "4",
+    "section": "4.6",
+    "page": 146,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.6.1 Intuition: The Expected Case for Quicksort",
+    "title": "Intuition: The Expected Case for Quicksort",
+    "chapter": "4",
+    "section": "4.6.1",
+    "page": 148,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.6.2 Randomized Algorithms",
+    "title": "Randomized Algorithms",
+    "chapter": "4",
+    "section": "4.6.2",
+    "page": 149,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.6.3 Is Quicksort Really Quick?",
+    "title": "Is Quicksort Really Quick?",
+    "chapter": "4",
+    "section": "4.6.3",
+    "page": 151,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.7 Distribution Sort: Sorting via Bucketing",
+    "title": "Distribution Sort: Sorting via Bucketing",
+    "chapter": "4",
+    "section": "4.7",
+    "page": 152,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.7.1 Lower Bounds for Sorting",
+    "title": "Lower Bounds for Sorting",
+    "chapter": "4",
+    "section": "4.7.1",
+    "page": 153,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.8 War Story: Skiena for the Defense",
+    "title": "War Story: Skiena for the Defense",
+    "chapter": "4",
+    "section": "4.8",
+    "page": 154,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 04.9 Exercises",
+    "title": "Exercises",
+    "chapter": "4",
+    "section": "4.9",
+    "page": 156,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05. Divide and Conquer",
+    "title": "Divide and Conquer",
+    "chapter": "5",
+    "section": "5.0",
+    "page": 163,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.1 Binary Search and Related Algorithms",
+    "title": "Binary Search and Related Algorithms",
+    "chapter": "5",
+    "section": "5.1",
+    "page": 164,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.1.1 Counting Occurrences",
+    "title": "Counting Occurrences",
+    "chapter": "5",
+    "section": "5.1.1",
+    "page": 164,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.1.2 One-Sided Binary Search",
+    "title": "One-Sided Binary Search",
+    "chapter": "5",
+    "section": "5.1.2",
+    "page": 165,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.1.3 Square and Other Roots",
+    "title": "Square and Other Roots",
+    "chapter": "5",
+    "section": "5.1.3",
+    "page": 166,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.2 War Story: Finding the Bug in the Bug",
+    "title": "War Story: Finding the Bug in the Bug",
+    "chapter": "5",
+    "section": "5.2",
+    "page": 166,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.3 Recurrence Relations",
+    "title": "Recurrence Relations",
+    "chapter": "5",
+    "section": "5.3",
+    "page": 168,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.3.1 Divide-and-Conquer Recurrences",
+    "title": "Divide-and-Conquer Recurrences",
+    "chapter": "5",
+    "section": "5.3.1",
+    "page": 169,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.4 Solving Divide-and-Conquer Recurrences",
+    "title": "Solving Divide-and-Conquer Recurrences",
+    "chapter": "5",
+    "section": "5.4",
+    "page": 170,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.5 Fast Multiplication",
+    "title": "Fast Multiplication",
+    "chapter": "5",
+    "section": "5.5",
+    "page": 171,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.6 Largest Subrange and Closest Pair",
+    "title": "Largest Subrange and Closest Pair",
+    "chapter": "5",
+    "section": "5.6",
+    "page": 173,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.7 Parallel Algorithms",
+    "title": "Parallel Algorithms",
+    "chapter": "5",
+    "section": "5.7",
+    "page": 175,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.7.1 Data Parallelism",
+    "title": "Data Parallelism",
+    "chapter": "5",
+    "section": "5.7.1",
+    "page": 175,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.7.2 Pitfalls of Parallelism",
+    "title": "Pitfalls of Parallelism",
+    "chapter": "5",
+    "section": "5.7.2",
+    "page": 176,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.8 War Story: Going Nowhere Fast",
+    "title": "War Story: Going Nowhere Fast",
+    "chapter": "5",
+    "section": "5.8",
+    "page": 177,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.9 Convolution (*)",
+    "title": "Convolution (*)",
+    "chapter": "5",
+    "section": "5.9",
+    "page": 178,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.9.1 Applications of Convolution",
+    "title": "Applications of Convolution",
+    "chapter": "5",
+    "section": "5.9.1",
+    "page": 179,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.9.2 Fast Polynomial Multiplication (**)",
+    "title": "Fast Polynomial Multiplication (**)",
+    "chapter": "5",
+    "section": "5.9.2",
+    "page": 180,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 05.10 Exercises",
+    "title": "Exercises",
+    "chapter": "5",
+    "section": "5.10",
+    "page": 182,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06. Hashing and Randomized Algorithms",
+    "title": "Hashing and Randomized Algorithms",
+    "chapter": "6",
+    "section": "6.0",
+    "page": 186,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.1 Probability Review",
+    "title": "Probability Review",
+    "chapter": "6",
+    "section": "6.1",
+    "page": 187,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.1.1 Probability",
+    "title": "Probability",
+    "chapter": "6",
+    "section": "6.1.1",
+    "page": 187,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.1.2 Compound Events and Independence",
+    "title": "Compound Events and Independence",
+    "chapter": "6",
+    "section": "6.1.2",
+    "page": 189,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.1.3 Conditional Probability",
+    "title": "Conditional Probability",
+    "chapter": "6",
+    "section": "6.1.3",
+    "page": 190,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.1.4 Probability Distributions",
+    "title": "Probability Distributions",
+    "chapter": "6",
+    "section": "6.1.4",
+    "page": 191,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.1.5 Mean and Variance",
+    "title": "Mean and Variance",
+    "chapter": "6",
+    "section": "6.1.5",
+    "page": 191,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.1.6 Tossing Coins",
+    "title": "Tossing Coins",
+    "chapter": "6",
+    "section": "6.1.6",
+    "page": 192,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.2 Understanding Balls and Bins",
+    "title": "Understanding Balls and Bins",
+    "chapter": "6",
+    "section": "6.2",
+    "page": 194,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.2.1 The Coupon Collector's Problem",
+    "title": "The Coupon Collector's Problem",
+    "chapter": "6",
+    "section": "6.2.1",
+    "page": 195,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.3 Why is Hashing a Randomized Algorithm?",
+    "title": "Why is Hashing a Randomized Algorithm?",
+    "chapter": "6",
+    "section": "6.3",
+    "page": 196,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.4 Bloom Filters",
+    "title": "Bloom Filters",
+    "chapter": "6",
+    "section": "6.4",
+    "page": 197,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.5 The Birthday Paradox and Perfect Hashing",
+    "title": "The Birthday Paradox and Perfect Hashing",
+    "chapter": "6",
+    "section": "6.5",
+    "page": 199,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.6 Minwise Hashing",
+    "title": "Minwise Hashing",
+    "chapter": "6",
+    "section": "6.6",
+    "page": 201,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.7 Efficient String Matching",
+    "title": "Efficient String Matching",
+    "chapter": "6",
+    "section": "6.7",
+    "page": 203,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.8 Primality Testing",
+    "title": "Primality Testing",
+    "chapter": "6",
+    "section": "6.8",
+    "page": 205,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.9 War Story: Giving Knuth the Middle Initial",
+    "title": "War Story: Giving Knuth the Middle Initial",
+    "chapter": "6",
+    "section": "6.9",
+    "page": 206,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.10 Where do Random Numbers Come From?",
+    "title": "Where do Random Numbers Come From?",
+    "chapter": "6",
+    "section": "6.10",
+    "page": 207,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 06.11 Exercises",
+    "title": "Exercises",
+    "chapter": "6",
+    "section": "6.11",
+    "page": 208,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07. Graph Traversal",
+    "title": "Graph Traversal",
+    "chapter": "7",
+    "section": "7.0",
+    "page": 211,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.1 Flavors of Graphs",
+    "title": "Flavors of Graphs",
+    "chapter": "7",
+    "section": "7.1",
+    "page": 212,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.1.1 The Friendship Graph",
+    "title": "The Friendship Graph",
+    "chapter": "7",
+    "section": "7.1.1",
+    "page": 215,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.2 Data Structures for Graphs",
+    "title": "Data Structures for Graphs",
+    "chapter": "7",
+    "section": "7.2",
+    "page": 217,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.3 War Story: I was a Victim of Moore's Law",
+    "title": "War Story: I was a Victim of Moore's Law",
+    "chapter": "7",
+    "section": "7.3",
+    "page": 221,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.4 War Story: Getting the Graph",
+    "title": "War Story: Getting the Graph",
+    "chapter": "7",
+    "section": "7.4",
+    "page": 224,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.5 Traversing a Graph",
+    "title": "Traversing a Graph",
+    "chapter": "7",
+    "section": "7.5",
+    "page": 226,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.6 Breadth-First Search",
+    "title": "Breadth-First Search",
+    "chapter": "7",
+    "section": "7.6",
+    "page": 227,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.6.1 Exploiting Traversal",
+    "title": "Exploiting Traversal",
+    "chapter": "7",
+    "section": "7.6.1",
+    "page": 230,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.6.2 Finding Paths",
+    "title": "Finding Paths",
+    "chapter": "7",
+    "section": "7.6.2",
+    "page": 231,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.7 Applications of Breadth-First Search",
+    "title": "Applications of Breadth-First Search",
+    "chapter": "7",
+    "section": "7.7",
+    "page": 231,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.7.1 Connected Components",
+    "title": "Connected Components",
+    "chapter": "7",
+    "section": "7.7.1",
+    "page": 232,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.7.2 Two-Coloring Graphs",
+    "title": "Two-Coloring Graphs",
+    "chapter": "7",
+    "section": "7.7.2",
+    "page": 233,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.8 Depth-First Search",
+    "title": "Depth-First Search",
+    "chapter": "7",
+    "section": "7.8",
+    "page": 235,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.9 Applications of Depth-First Search",
+    "title": "Applications of Depth-First Search",
+    "chapter": "7",
+    "section": "7.9",
+    "page": 238,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.9.1 Finding Cycles",
+    "title": "Finding Cycles",
+    "chapter": "7",
+    "section": "7.9.1",
+    "page": 238,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.9.2 Articulation Vertices",
+    "title": "Articulation Vertices",
+    "chapter": "7",
+    "section": "7.9.2",
+    "page": 239,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.10 Depth-First Search on Directed Graphs",
+    "title": "Depth-First Search on Directed Graphs",
+    "chapter": "7",
+    "section": "7.10",
+    "page": 244,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.10.1 Topological Sorting",
+    "title": "Topological Sorting",
+    "chapter": "7",
+    "section": "7.10.1",
+    "page": 245,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.10.2 Strongly Connected Components",
+    "title": "Strongly Connected Components",
+    "chapter": "7",
+    "section": "7.10.2",
+    "page": 246,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 07.11 Exercises",
+    "title": "Exercises",
+    "chapter": "7",
+    "section": "7.11",
+    "page": 249,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08. Weighted Graph Algorithms",
+    "title": "Weighted Graph Algorithms",
+    "chapter": "8",
+    "section": "8.0",
+    "page": 257,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.1 Minimum Spanning Trees",
+    "title": "Minimum Spanning Trees",
+    "chapter": "8",
+    "section": "8.1",
+    "page": 258,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.1.1 Prim's Algorithm",
+    "title": "Prim's Algorithm",
+    "chapter": "8",
+    "section": "8.1.1",
+    "page": 259,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.1.2 Kruskal's Algorithm",
+    "title": "Kruskal's Algorithm",
+    "chapter": "8",
+    "section": "8.1.2",
+    "page": 262,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.1.3 The Union\u2013Find Data Structure",
+    "title": "The Union\u2013Find Data Structure",
+    "chapter": "8",
+    "section": "8.1.3",
+    "page": 264,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.1.4 Variations on Minimum Spanning Trees",
+    "title": "Variations on Minimum Spanning Trees",
+    "chapter": "8",
+    "section": "8.1.4",
+    "page": 267,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.2 War Story: Nothing but Nets",
+    "title": "War Story: Nothing but Nets",
+    "chapter": "8",
+    "section": "8.2",
+    "page": 268,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.3 Shortest Paths",
+    "title": "Shortest Paths",
+    "chapter": "8",
+    "section": "8.3",
+    "page": 271,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.3.1 Dijkstra's Algorithm",
+    "title": "Dijkstra's Algorithm",
+    "chapter": "8",
+    "section": "8.3.1",
+    "page": 272,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.3.2 All-Pairs Shortest Path",
+    "title": "All-Pairs Shortest Path",
+    "chapter": "8",
+    "section": "8.3.2",
+    "page": 275,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.3.3 Transitive Closure",
+    "title": "Transitive Closure",
+    "chapter": "8",
+    "section": "8.3.3",
+    "page": 277,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.4 War Story: Dialing for Documents",
+    "title": "War Story: Dialing for Documents",
+    "chapter": "8",
+    "section": "8.4",
+    "page": 278,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.5 Network Flows and Bipartite Matching",
+    "title": "Network Flows and Bipartite Matching",
+    "chapter": "8",
+    "section": "8.5",
+    "page": 281,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.5.1 Bipartite Matching",
+    "title": "Bipartite Matching",
+    "chapter": "8",
+    "section": "8.5.1",
+    "page": 281,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.5.2 Computing Network Flows",
+    "title": "Computing Network Flows",
+    "chapter": "8",
+    "section": "8.5.2",
+    "page": 282,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.6 Randomized Min-Cut",
+    "title": "Randomized Min-Cut",
+    "chapter": "8",
+    "section": "8.6",
+    "page": 286,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.7 Design Graphs, Not Algorithms",
+    "title": "Design Graphs, Not Algorithms",
+    "chapter": "8",
+    "section": "8.7",
+    "page": 288,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 08.8 Exercises",
+    "title": "Exercises",
+    "chapter": "8",
+    "section": "8.8",
+    "page": 290,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09. Combinatorial Search",
+    "title": "Combinatorial Search",
+    "chapter": "9",
+    "section": "9.0",
+    "page": 295,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.1 Backtracking",
+    "title": "Backtracking",
+    "chapter": "9",
+    "section": "9.1",
+    "page": 295,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.2 Examples of Backtracking",
+    "title": "Examples of Backtracking",
+    "chapter": "9",
+    "section": "9.2",
+    "page": 298,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.2.1 Constructing All Subsets",
+    "title": "Constructing All Subsets",
+    "chapter": "9",
+    "section": "9.2.1",
+    "page": 298,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.2.2 Constructing All Permutations",
+    "title": "Constructing All Permutations",
+    "chapter": "9",
+    "section": "9.2.2",
+    "page": 300,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.2.3 Constructing All Paths in a Graph",
+    "title": "Constructing All Paths in a Graph",
+    "chapter": "9",
+    "section": "9.2.3",
+    "page": 301,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.3 Search Pruning",
+    "title": "Search Pruning",
+    "chapter": "9",
+    "section": "9.3",
+    "page": 303,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.4 Sudoku",
+    "title": "Sudoku",
+    "chapter": "9",
+    "section": "9.4",
+    "page": 304,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.5 War Story: Covering Chessboards",
+    "title": "War Story: Covering Chessboards",
+    "chapter": "9",
+    "section": "9.5",
+    "page": 309,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.6 Best-First Search",
+    "title": "Best-First Search",
+    "chapter": "9",
+    "section": "9.6",
+    "page": 312,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.7 The A* Heuristic",
+    "title": "The A* Heuristic",
+    "chapter": "9",
+    "section": "9.7",
+    "page": 314,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 09.8 Exercises",
+    "title": "Exercises",
+    "chapter": "9",
+    "section": "9.8",
+    "page": 317,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10. Dynamic Programming",
+    "title": "Dynamic Programming",
+    "chapter": "10",
+    "section": "10.0",
+    "page": 321,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.1 Caching vs. Computation",
+    "title": "Caching vs. Computation",
+    "chapter": "10",
+    "section": "10.1",
+    "page": 322,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.1.1 Fibonacci Numbers by Recursion",
+    "title": "Fibonacci Numbers by Recursion",
+    "chapter": "10",
+    "section": "10.1.1",
+    "page": 322,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.1.2 Fibonacci Numbers by Caching",
+    "title": "Fibonacci Numbers by Caching",
+    "chapter": "10",
+    "section": "10.1.2",
+    "page": 323,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.1.3 Fibonacci Numbers by Dynamic Programming",
+    "title": "Fibonacci Numbers by Dynamic Programming",
+    "chapter": "10",
+    "section": "10.1.3",
+    "page": 325,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.1.4 Binomial Coefficients",
+    "title": "Binomial Coefficients",
+    "chapter": "10",
+    "section": "10.1.4",
+    "page": 326,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.2 Approximate String Matching",
+    "title": "Approximate String Matching",
+    "chapter": "10",
+    "section": "10.2",
+    "page": 328,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.2.1 Edit Distance by Recursion",
+    "title": "Edit Distance by Recursion",
+    "chapter": "10",
+    "section": "10.2.1",
+    "page": 329,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.2.2 Edit Distance by Dynamic Programming",
+    "title": "Edit Distance by Dynamic Programming",
+    "chapter": "10",
+    "section": "10.2.2",
+    "page": 331,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.2.3 Reconstructing the Path",
+    "title": "Reconstructing the Path",
+    "chapter": "10",
+    "section": "10.2.3",
+    "page": 332,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.2.4 Varieties of Edit Distance",
+    "title": "Varieties of Edit Distance",
+    "chapter": "10",
+    "section": "10.2.4",
+    "page": 335,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.3 Longest Increasing Subsequence",
+    "title": "Longest Increasing Subsequence",
+    "chapter": "10",
+    "section": "10.3",
+    "page": 338,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.4 War Story: Text Compression for Bar Codes",
+    "title": "War Story: Text Compression for Bar Codes",
+    "chapter": "10",
+    "section": "10.4",
+    "page": 340,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.5 Unordered Partition or Subset Sum",
+    "title": "Unordered Partition or Subset Sum",
+    "chapter": "10",
+    "section": "10.5",
+    "page": 343,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.6 War Story: The Balance of Power",
+    "title": "War Story: The Balance of Power",
+    "chapter": "10",
+    "section": "10.6",
+    "page": 345,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.7 The Ordered Partition Problem",
+    "title": "The Ordered Partition Problem",
+    "chapter": "10",
+    "section": "10.7",
+    "page": 347,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.8 Parsing Context-Free Grammars",
+    "title": "Parsing Context-Free Grammars",
+    "chapter": "10",
+    "section": "10.8",
+    "page": 351,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.9 Limitations of Dynamic Programming: TSP",
+    "title": "Limitations of Dynamic Programming: TSP",
+    "chapter": "10",
+    "section": "10.9",
+    "page": 353,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.9.1 When is Dynamic Programming Correct?",
+    "title": "When is Dynamic Programming Correct?",
+    "chapter": "10",
+    "section": "10.9.1",
+    "page": 354,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.9.2 When is Dynamic Programming Efficient?",
+    "title": "When is Dynamic Programming Efficient?",
+    "chapter": "10",
+    "section": "10.9.2",
+    "page": 355,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.10 War Story: What's Past is Prolog",
+    "title": "War Story: What's Past is Prolog",
+    "chapter": "10",
+    "section": "10.10",
+    "page": 356,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 10.11 Exercises",
+    "title": "Exercises",
+    "chapter": "10",
+    "section": "10.11",
+    "page": 359,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11. NP-Completeness",
+    "title": "NP-Completeness",
+    "chapter": "11",
+    "section": "11.0",
+    "page": 368,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.1 Problems and Reductions",
+    "title": "Problems and Reductions",
+    "chapter": "11",
+    "section": "11.1",
+    "page": 368,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.1.1 The Key Idea",
+    "title": "The Key Idea",
+    "chapter": "11",
+    "section": "11.1.1",
+    "page": 369,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.1.2 Decision Problems",
+    "title": "Decision Problems",
+    "chapter": "11",
+    "section": "11.1.2",
+    "page": 370,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.2 Reductions for Algorithms",
+    "title": "Reductions for Algorithms",
+    "chapter": "11",
+    "section": "11.2",
+    "page": 371,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.2.1 Closest Pair",
+    "title": "Closest Pair",
+    "chapter": "11",
+    "section": "11.2.1",
+    "page": 371,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.2.2 Longest Increasing Subsequence",
+    "title": "Longest Increasing Subsequence",
+    "chapter": "11",
+    "section": "11.2.2",
+    "page": 372,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.2.3 Least Common Multiple",
+    "title": "Least Common Multiple",
+    "chapter": "11",
+    "section": "11.2.3",
+    "page": 372,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.2.4 Convex Hull (*)",
+    "title": "Convex Hull (*)",
+    "chapter": "11",
+    "section": "11.2.4",
+    "page": 373,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.3 Elementary Hardness Reductions",
+    "title": "Elementary Hardness Reductions",
+    "chapter": "11",
+    "section": "11.3",
+    "page": 374,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.3.1 Hamiltonian Cycle",
+    "title": "Hamiltonian Cycle",
+    "chapter": "11",
+    "section": "11.3.1",
+    "page": 375,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.3.2 Independent Set and Vertex Cover",
+    "title": "Independent Set and Vertex Cover",
+    "chapter": "11",
+    "section": "11.3.2",
+    "page": 376,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.3.3 Clique",
+    "title": "Clique",
+    "chapter": "11",
+    "section": "11.3.3",
+    "page": 379,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.4 Satisfiability",
+    "title": "Satisfiability",
+    "chapter": "11",
+    "section": "11.4",
+    "page": 380,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.4.1 3-Satisfiability",
+    "title": "3-Satisfiability",
+    "chapter": "11",
+    "section": "11.4.1",
+    "page": 380,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.5 Creative Reductions from SAT",
+    "title": "Creative Reductions from SAT",
+    "chapter": "11",
+    "section": "11.5",
+    "page": 382,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.5.1 Vertex Cover",
+    "title": "Vertex Cover",
+    "chapter": "11",
+    "section": "11.5.1",
+    "page": 382,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.5.2 Integer Programming",
+    "title": "Integer Programming",
+    "chapter": "11",
+    "section": "11.5.2",
+    "page": 384,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.6 The Art of Proving Hardness",
+    "title": "The Art of Proving Hardness",
+    "chapter": "11",
+    "section": "11.6",
+    "page": 386,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.7 War Story: Hard Against the Clock",
+    "title": "War Story: Hard Against the Clock",
+    "chapter": "11",
+    "section": "11.7",
+    "page": 388,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.8 War Story: And Then I Failed",
+    "title": "War Story: And Then I Failed",
+    "chapter": "11",
+    "section": "11.8",
+    "page": 390,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.9 P vs. NP",
+    "title": "P vs. NP",
+    "chapter": "11",
+    "section": "11.9",
+    "page": 392,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.9.1 Verification vs. Discovery",
+    "title": "Verification vs. Discovery",
+    "chapter": "11",
+    "section": "11.9.1",
+    "page": 393,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.9.2 The Classes P and NP",
+    "title": "The Classes P and NP",
+    "chapter": "11",
+    "section": "11.9.2",
+    "page": 393,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.9.3 Why Satisfiability is Hard",
+    "title": "Why Satisfiability is Hard",
+    "chapter": "11",
+    "section": "11.9.3",
+    "page": 394,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.9.4 NP-hard vs. NP-complete?",
+    "title": "NP-hard vs. NP-complete?",
+    "chapter": "11",
+    "section": "11.9.4",
+    "page": 395,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 11.10 Exercises",
+    "title": "Exercises",
+    "chapter": "11",
+    "section": "11.10",
+    "page": 396,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12. Dealing with Hard Problems",
+    "title": "Dealing with Hard Problems",
+    "chapter": "12",
+    "section": "12.0",
+    "page": 402,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.1 Approximation Algorithms",
+    "title": "Approximation Algorithms",
+    "chapter": "12",
+    "section": "12.1",
+    "page": 402,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.2 Approximating Vertex Cover",
+    "title": "Approximating Vertex Cover",
+    "chapter": "12",
+    "section": "12.2",
+    "page": 403,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.2.1 A Randomized Vertex Cover Heuristic",
+    "title": "A Randomized Vertex Cover Heuristic",
+    "chapter": "12",
+    "section": "12.2.1",
+    "page": 405,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.3 Euclidean TSP",
+    "title": "Euclidean TSP",
+    "chapter": "12",
+    "section": "12.3",
+    "page": 406,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.3.1 The Christofides Heuristic",
+    "title": "The Christofides Heuristic",
+    "chapter": "12",
+    "section": "12.3.1",
+    "page": 407,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.4 When Average is Good Enough",
+    "title": "When Average is Good Enough",
+    "chapter": "12",
+    "section": "12.4",
+    "page": 409,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.4.1 Maximum k-SAT",
+    "title": "Maximum k-SAT",
+    "chapter": "12",
+    "section": "12.4.1",
+    "page": 409,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.4.2 Maximum Acyclic Subgraph",
+    "title": "Maximum Acyclic Subgraph",
+    "chapter": "12",
+    "section": "12.4.2",
+    "page": 410,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.5 Set Cover",
+    "title": "Set Cover",
+    "chapter": "12",
+    "section": "12.5",
+    "page": 410,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.6 Heuristic Search Methods",
+    "title": "Heuristic Search Methods",
+    "chapter": "12",
+    "section": "12.6",
+    "page": 412,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.6.1 Random Sampling",
+    "title": "Random Sampling",
+    "chapter": "12",
+    "section": "12.6.1",
+    "page": 413,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.6.2 Local Search",
+    "title": "Local Search",
+    "chapter": "12",
+    "section": "12.6.2",
+    "page": 415,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.6.3 Simulated Annealing",
+    "title": "Simulated Annealing",
+    "chapter": "12",
+    "section": "12.6.3",
+    "page": 419,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.6.4 Applications of Simulated Annealing",
+    "title": "Applications of Simulated Annealing",
+    "chapter": "12",
+    "section": "12.6.4",
+    "page": 423,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.7 War Story: Only it is Not a Radio",
+    "title": "War Story: Only it is Not a Radio",
+    "chapter": "12",
+    "section": "12.7",
+    "page": 424,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.8 War Story: Annealing Arrays",
+    "title": "War Story: Annealing Arrays",
+    "chapter": "12",
+    "section": "12.8",
+    "page": 427,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.9 Genetic Algorithms and Other Heuristics",
+    "title": "Genetic Algorithms and Other Heuristics",
+    "chapter": "12",
+    "section": "12.9",
+    "page": 430,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.10 Quantum Computing",
+    "title": "Quantum Computing",
+    "chapter": "12",
+    "section": "12.10",
+    "page": 431,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.10.1 Properties of \"Quantum\" Computers",
+    "title": "Properties of \"Quantum\" Computers",
+    "chapter": "12",
+    "section": "12.10.1",
+    "page": 432,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.10.2 Grover's Algorithm for Database Search",
+    "title": "Grover's Algorithm for Database Search",
+    "chapter": "12",
+    "section": "12.10.2",
+    "page": 433,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.10.3 The Faster \"Fourier Transform\"",
+    "title": "The Faster \"Fourier Transform\"",
+    "chapter": "12",
+    "section": "12.10.3",
+    "page": 435,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.10.4 Shor's Algorithm for Integer Factorization",
+    "title": "Shor's Algorithm for Integer Factorization",
+    "chapter": "12",
+    "section": "12.10.4",
+    "page": 435,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.10.5 Prospects for Quantum Computing",
+    "title": "Prospects for Quantum Computing",
+    "chapter": "12",
+    "section": "12.10.5",
+    "page": 437,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 12.11 Exercises",
+    "title": "Exercises",
+    "chapter": "12",
+    "section": "12.11",
+    "page": 439,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 13. How to Design Algorithms",
+    "title": "How to Design Algorithms",
+    "chapter": "13",
+    "section": "13.0",
+    "page": 442,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 13.1 Preparing for Tech Company Interviews",
+    "title": "Preparing for Tech Company Interviews",
+    "chapter": "13",
+    "section": "13.1",
+    "page": 446,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - II The Hitchhiker's Guide to Algorithms",
+    "title": "The Hitchhiker's Guide to Algorithms",
+    "chapter": "II",
+    "section": "II",
+    "page": 448,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 14. A Catalog of Algorithmic Problems",
+    "title": "A Catalog of Algorithmic Problems",
+    "chapter": "14",
+    "section": "14.0",
+    "page": 449,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 15. Data Structures",
+    "title": "Data Structures",
+    "chapter": "15",
+    "section": "15.0",
+    "page": 451,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 15.1 Dictionaries",
+    "title": "Dictionaries",
+    "chapter": "15",
+    "section": "15.1",
+    "page": 452,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 15.2 Priority Queues",
+    "title": "Priority Queues",
+    "chapter": "15",
+    "section": "15.2",
+    "page": 457,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 15.3 Suffix Trees and Arrays",
+    "title": "Suffix Trees and Arrays",
+    "chapter": "15",
+    "section": "15.3",
+    "page": 460,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 15.4 Graph Data Structures",
+    "title": "Graph Data Structures",
+    "chapter": "15",
+    "section": "15.4",
+    "page": 464,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 15.5 Set Data Structures",
+    "title": "Set Data Structures",
+    "chapter": "15",
+    "section": "15.5",
+    "page": 468,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 15.6 Kd-Trees",
+    "title": "Kd-Trees",
+    "chapter": "15",
+    "section": "15.6",
+    "page": 472,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16. Numerical Problems",
+    "title": "Numerical Problems",
+    "chapter": "16",
+    "section": "16.0",
+    "page": 476,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.1 Solving Linear Equations",
+    "title": "Solving Linear Equations",
+    "chapter": "16",
+    "section": "16.1",
+    "page": 478,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.2 Bandwidth Reduction",
+    "title": "Bandwidth Reduction",
+    "chapter": "16",
+    "section": "16.2",
+    "page": 481,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.3 Matrix Multiplication",
+    "title": "Matrix Multiplication",
+    "chapter": "16",
+    "section": "16.3",
+    "page": 483,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.4 Determinants and Permanents",
+    "title": "Determinants and Permanents",
+    "chapter": "16",
+    "section": "16.4",
+    "page": 486,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.5 Constrained/Unconstrained Optimization",
+    "title": "Constrained/Unconstrained Optimization",
+    "chapter": "16",
+    "section": "16.5",
+    "page": 489,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.6 Linear Programming",
+    "title": "Linear Programming",
+    "chapter": "16",
+    "section": "16.6",
+    "page": 493,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.7 Random Number Generation",
+    "title": "Random Number Generation",
+    "chapter": "16",
+    "section": "16.7",
+    "page": 497,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.8 Factoring and Primality Testing",
+    "title": "Factoring and Primality Testing",
+    "chapter": "16",
+    "section": "16.8",
+    "page": 501,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.9 Arbitrary-Precision Arithmetic",
+    "title": "Arbitrary-Precision Arithmetic",
+    "chapter": "16",
+    "section": "16.9",
+    "page": 504,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.10 Knapsack Problem",
+    "title": "Knapsack Problem",
+    "chapter": "16",
+    "section": "16.10",
+    "page": 508,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 16.11 Discrete Fourier Transform",
+    "title": "Discrete Fourier Transform",
+    "chapter": "16",
+    "section": "16.11",
+    "page": 512,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17. Combinatorial Problems",
+    "title": "Combinatorial Problems",
+    "chapter": "17",
+    "section": "17.0",
+    "page": 515,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17.1 Sorting",
+    "title": "Sorting",
+    "chapter": "17",
+    "section": "17.1",
+    "page": 516,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17.2 Searching",
+    "title": "Searching",
+    "chapter": "17",
+    "section": "17.2",
+    "page": 520,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17.3 Median and Selection",
+    "title": "Median and Selection",
+    "chapter": "17",
+    "section": "17.3",
+    "page": 524,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17.4 Generating Permutations",
+    "title": "Generating Permutations",
+    "chapter": "17",
+    "section": "17.4",
+    "page": 527,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17.5 Generating Subsets",
+    "title": "Generating Subsets",
+    "chapter": "17",
+    "section": "17.5",
+    "page": 531,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17.6 Generating Partitions",
+    "title": "Generating Partitions",
+    "chapter": "17",
+    "section": "17.6",
+    "page": 534,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17.7 Generating Graphs",
+    "title": "Generating Graphs",
+    "chapter": "17",
+    "section": "17.7",
+    "page": 538,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17.8 Calendrical Calculations",
+    "title": "Calendrical Calculations",
+    "chapter": "17",
+    "section": "17.8",
+    "page": 542,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17.9 Job Scheduling",
+    "title": "Job Scheduling",
+    "chapter": "17",
+    "section": "17.9",
+    "page": 544,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 17.10 Satisfiability",
+    "title": "Satisfiability",
+    "chapter": "17",
+    "section": "17.10",
+    "page": 547,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18. Graph Problems: Polynomial Time",
+    "title": "Graph Problems: Polynomial Time",
+    "chapter": "18",
+    "section": "18.0",
+    "page": 550,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.1 Connected Components",
+    "title": "Connected Components",
+    "chapter": "18",
+    "section": "18.1",
+    "page": 551,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.2 Topological Sorting",
+    "title": "Topological Sorting",
+    "chapter": "18",
+    "section": "18.2",
+    "page": 555,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.3 Minimum Spanning Tree",
+    "title": "Minimum Spanning Tree",
+    "chapter": "18",
+    "section": "18.3",
+    "page": 558,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.4 Shortest Path",
+    "title": "Shortest Path",
+    "chapter": "18",
+    "section": "18.4",
+    "page": 563,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.5 Transitive Closure and Reduction",
+    "title": "Transitive Closure and Reduction",
+    "chapter": "18",
+    "section": "18.5",
+    "page": 568,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.6 Matching",
+    "title": "Matching",
+    "chapter": "18",
+    "section": "18.6",
+    "page": 571,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.7 Eulerian Cycle/Chinese Postman",
+    "title": "Eulerian Cycle/Chinese Postman",
+    "chapter": "18",
+    "section": "18.7",
+    "page": 574,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.8 Edge and Vertex Connectivity",
+    "title": "Edge and Vertex Connectivity",
+    "chapter": "18",
+    "section": "18.8",
+    "page": 577,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.9 Network Flow",
+    "title": "Network Flow",
+    "chapter": "18",
+    "section": "18.9",
+    "page": 580,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.10 Drawing Graphs Nicely",
+    "title": "Drawing Graphs Nicely",
+    "chapter": "18",
+    "section": "18.10",
+    "page": 583,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.11 Drawing Trees",
+    "title": "Drawing Trees",
+    "chapter": "18",
+    "section": "18.11",
+    "page": 587,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 18.12 Planarity Detection and Embedding",
+    "title": "Planarity Detection and Embedding",
+    "chapter": "18",
+    "section": "18.12",
+    "page": 590,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19. Graph Problems: NP-Hard",
+    "title": "Graph Problems: NP-Hard",
+    "chapter": "19",
+    "section": "19.0",
+    "page": 593,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.1 Clique",
+    "title": "Clique",
+    "chapter": "19",
+    "section": "19.1",
+    "page": 594,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.2 Independent Set",
+    "title": "Independent Set",
+    "chapter": "19",
+    "section": "19.2",
+    "page": 597,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.3 Vertex Cover",
+    "title": "Vertex Cover",
+    "chapter": "19",
+    "section": "19.3",
+    "page": 599,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.4 Traveling Salesman Problem",
+    "title": "Traveling Salesman Problem",
+    "chapter": "19",
+    "section": "19.4",
+    "page": 602,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.5 Hamiltonian Cycle",
+    "title": "Hamiltonian Cycle",
+    "chapter": "19",
+    "section": "19.5",
+    "page": 606,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.6 Graph Partition",
+    "title": "Graph Partition",
+    "chapter": "19",
+    "section": "19.6",
+    "page": 609,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.7 Vertex Coloring",
+    "title": "Vertex Coloring",
+    "chapter": "19",
+    "section": "19.7",
+    "page": 612,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.8 Edge Coloring",
+    "title": "Edge Coloring",
+    "chapter": "19",
+    "section": "19.8",
+    "page": 616,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.9 Graph Isomorphism",
+    "title": "Graph Isomorphism",
+    "chapter": "19",
+    "section": "19.9",
+    "page": 618,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.10 Steiner Tree",
+    "title": "Steiner Tree",
+    "chapter": "19",
+    "section": "19.10",
+    "page": 622,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 19.11 Feedback Edge/Vertex Set",
+    "title": "Feedback Edge/Vertex Set",
+    "chapter": "19",
+    "section": "19.11",
+    "page": 626,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20. Computational Geometry",
+    "title": "Computational Geometry",
+    "chapter": "20",
+    "section": "20.0",
+    "page": 629,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.1 Robust Geometric Primitives",
+    "title": "Robust Geometric Primitives",
+    "chapter": "20",
+    "section": "20.1",
+    "page": 630,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.2 Convex Hull",
+    "title": "Convex Hull",
+    "chapter": "20",
+    "section": "20.2",
+    "page": 634,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.3 Triangulation",
+    "title": "Triangulation",
+    "chapter": "20",
+    "section": "20.3",
+    "page": 638,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.4 Voronoi Diagrams",
+    "title": "Voronoi Diagrams",
+    "chapter": "20",
+    "section": "20.4",
+    "page": 642,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.5 Nearest-Neighbor Search",
+    "title": "Nearest-Neighbor Search",
+    "chapter": "20",
+    "section": "20.5",
+    "page": 645,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.6 Range Search",
+    "title": "Range Search",
+    "chapter": "20",
+    "section": "20.6",
+    "page": 649,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.7 Point Location",
+    "title": "Point Location",
+    "chapter": "20",
+    "section": "20.7",
+    "page": 652,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.8 Intersection Detection",
+    "title": "Intersection Detection",
+    "chapter": "20",
+    "section": "20.8",
+    "page": 656,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.9 Bin Packing",
+    "title": "Bin Packing",
+    "chapter": "20",
+    "section": "20.9",
+    "page": 660,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.10 Medial-Axis Transform",
+    "title": "Medial-Axis Transform",
+    "chapter": "20",
+    "section": "20.10",
+    "page": 663,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.11 Polygon Partitioning",
+    "title": "Polygon Partitioning",
+    "chapter": "20",
+    "section": "20.11",
+    "page": 666,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.12 Simplifying Polygons",
+    "title": "Simplifying Polygons",
+    "chapter": "20",
+    "section": "20.12",
+    "page": 669,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.13 Shape Similarity",
+    "title": "Shape Similarity",
+    "chapter": "20",
+    "section": "20.13",
+    "page": 672,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.14 Motion Planning",
+    "title": "Motion Planning",
+    "chapter": "20",
+    "section": "20.14",
+    "page": 675,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.15 Maintaining Line Arrangements",
+    "title": "Maintaining Line Arrangements",
+    "chapter": "20",
+    "section": "20.15",
+    "page": 679,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 20.16 Minkowski Sum",
+    "title": "Minkowski Sum",
+    "chapter": "20",
+    "section": "20.16",
+    "page": 682,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 21. Set and String Problems",
+    "title": "Set and String Problems",
+    "chapter": "21",
+    "section": "21.0",
+    "page": 685,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 21.1 Set Cover",
+    "title": "Set Cover",
+    "chapter": "21",
+    "section": "21.1",
+    "page": 686,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 21.2 Set Packing",
+    "title": "Set Packing",
+    "chapter": "21",
+    "section": "21.2",
+    "page": 690,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 21.3 String Matching",
+    "title": "String Matching",
+    "chapter": "21",
+    "section": "21.3",
+    "page": 693,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 21.4 Approximate String Matching",
+    "title": "Approximate String Matching",
+    "chapter": "21",
+    "section": "21.4",
+    "page": 696,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 21.5 Text Compression",
+    "title": "Text Compression",
+    "chapter": "21",
+    "section": "21.5",
+    "page": 701,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 21.6 Cryptography",
+    "title": "Cryptography",
+    "chapter": "21",
+    "section": "21.6",
+    "page": 705,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 21.7 Finite State Machine Minimization",
+    "title": "Finite State Machine Minimization",
+    "chapter": "21",
+    "section": "21.7",
+    "page": 710,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 21.8 Longest Common Substring/Subsequence",
+    "title": "Longest Common Substring/Subsequence",
+    "chapter": "21",
+    "section": "21.8",
+    "page": 714,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 21.9 Shortest Common Superstring",
+    "title": "Shortest Common Superstring",
+    "chapter": "21",
+    "section": "21.9",
+    "page": 717,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22. Algorithmic Resources",
+    "title": "Algorithmic Resources",
+    "chapter": "22",
+    "section": "22.0",
+    "page": 720,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.1 Algorithm Libraries",
+    "title": "Algorithm Libraries",
+    "chapter": "22",
+    "section": "22.1",
+    "page": 720,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.1.1 LEDA",
+    "title": "LEDA",
+    "chapter": "22",
+    "section": "22.1.1",
+    "page": 720,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.1.2 CGAL",
+    "title": "CGAL",
+    "chapter": "22",
+    "section": "22.1.2",
+    "page": 721,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.1.3 Boost Graph Library",
+    "title": "Boost Graph Library",
+    "chapter": "22",
+    "section": "22.1.3",
+    "page": 721,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.1.4 Netlib",
+    "title": "Netlib",
+    "chapter": "22",
+    "section": "22.1.4",
+    "page": 721,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.1.5 Collected Algorithms of the ACM",
+    "title": "Collected Algorithms of the ACM",
+    "chapter": "22",
+    "section": "22.1.5",
+    "page": 722,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.1.6 GitHub and SourceForge",
+    "title": "GitHub and SourceForge",
+    "chapter": "22",
+    "section": "22.1.6",
+    "page": 722,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.1.7 The Stanford GraphBase",
+    "title": "The Stanford GraphBase",
+    "chapter": "22",
+    "section": "22.1.7",
+    "page": 722,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.1.8 Combinatorica",
+    "title": "Combinatorica",
+    "chapter": "22",
+    "section": "22.1.8",
+    "page": 723,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.1.9 Programs from Books",
+    "title": "Programs from Books",
+    "chapter": "22",
+    "section": "22.1.9",
+    "page": 723,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.2 Data Sources",
+    "title": "Data Sources",
+    "chapter": "22",
+    "section": "22.2",
+    "page": 724,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.3 Online Bibliographic Resources",
+    "title": "Online Bibliographic Resources",
+    "chapter": "22",
+    "section": "22.3",
+    "page": 725,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 22.4 Professional Consulting Services",
+    "title": "Professional Consulting Services",
+    "chapter": "22",
+    "section": "22.4",
+    "page": 725,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 23. Bibliography",
+    "title": "Bibliography",
+    "chapter": "23",
+    "section": "23.0",
+    "page": 726,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "TADM - 24. Index",
+    "title": "Index",
+    "chapter": "24",
+    "section": "24.0",
+    "page": 776,
+    "base": "[[The Algorithm Design Manual.base]]",
+    "concepts": []
+  }
+]

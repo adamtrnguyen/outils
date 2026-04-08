@@ -1,0 +1,821 @@
+[
+  {
+    "file_name": "SDP - Performance vs scalability",
+    "title": "Performance vs scalability",
+    "chapter": "System Design Concepts",
+    "category": "Performance vs scalability",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#performance-vs-scalability",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Latency vs throughput",
+    "title": "Latency vs throughput",
+    "chapter": "System Design Concepts",
+    "category": "Latency vs throughput",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#latency-vs-throughput",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Availability vs consistency",
+    "title": "Availability vs consistency",
+    "chapter": "System Design Concepts",
+    "category": "Availability vs consistency",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#availability-vs-consistency",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - CAP theorem",
+    "title": "CAP theorem",
+    "chapter": "System Design Concepts",
+    "category": "Availability vs consistency",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#cap-theorem",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - CP - consistency and partition tolerance",
+    "title": "CP - consistency and partition tolerance",
+    "chapter": "System Design Concepts",
+    "category": "Availability vs consistency",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#cp---consistency-and-partition-tolerance",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - AP - availability and partition tolerance",
+    "title": "AP - availability and partition tolerance",
+    "chapter": "System Design Concepts",
+    "category": "Availability vs consistency",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#ap---availability-and-partition-tolerance",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Consistency patterns",
+    "title": "Consistency patterns",
+    "chapter": "System Design Concepts",
+    "category": "Consistency patterns",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#consistency-patterns",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Weak consistency",
+    "title": "Weak consistency",
+    "chapter": "System Design Concepts",
+    "category": "Consistency patterns",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#weak-consistency",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Eventual consistency",
+    "title": "Eventual consistency",
+    "chapter": "System Design Concepts",
+    "category": "Consistency patterns",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#eventual-consistency",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Strong consistency",
+    "title": "Strong consistency",
+    "chapter": "System Design Concepts",
+    "category": "Consistency patterns",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#strong-consistency",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Availability patterns",
+    "title": "Availability patterns",
+    "chapter": "System Design Concepts",
+    "category": "Availability patterns",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#availability-patterns",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Fail-over",
+    "title": "Fail-over",
+    "chapter": "System Design Concepts",
+    "category": "Availability patterns",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#fail-over",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Replication",
+    "title": "Replication",
+    "chapter": "System Design Concepts",
+    "category": "Availability patterns",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#replication",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Availability in numbers",
+    "title": "Availability in numbers",
+    "chapter": "System Design Concepts",
+    "category": "Availability patterns",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#availability-in-numbers",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Domain name system",
+    "title": "Domain name system",
+    "chapter": "System Design Concepts",
+    "category": "Domain name system",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#domain-name-system",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Content delivery network",
+    "title": "Content delivery network",
+    "chapter": "System Design Concepts",
+    "category": "Content delivery network",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#content-delivery-network",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Push CDNs",
+    "title": "Push CDNs",
+    "chapter": "System Design Concepts",
+    "category": "Content delivery network",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#push-cdns",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Pull CDNs",
+    "title": "Pull CDNs",
+    "chapter": "System Design Concepts",
+    "category": "Content delivery network",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#pull-cdns",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Load balancer",
+    "title": "Load balancer",
+    "chapter": "System Design Concepts",
+    "category": "Load balancer",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#load-balancer",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Active-passive",
+    "title": "Active-passive",
+    "chapter": "System Design Concepts",
+    "category": "Load balancer",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#active-passive",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Active-active",
+    "title": "Active-active",
+    "chapter": "System Design Concepts",
+    "category": "Load balancer",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#active-active",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Layer 4 load balancing",
+    "title": "Layer 4 load balancing",
+    "chapter": "System Design Concepts",
+    "category": "Load balancer",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#layer-4-load-balancing",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Layer 7 load balancing",
+    "title": "Layer 7 load balancing",
+    "chapter": "System Design Concepts",
+    "category": "Load balancer",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#layer-7-load-balancing",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Horizontal scaling",
+    "title": "Horizontal scaling",
+    "chapter": "System Design Concepts",
+    "category": "Load balancer",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#horizontal-scaling",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Reverse proxy (web server)",
+    "title": "Reverse proxy (web server)",
+    "chapter": "System Design Concepts",
+    "category": "Reverse proxy (web server)",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#reverse-proxy-web-server",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Load balancer vs reverse proxy",
+    "title": "Load balancer vs reverse proxy",
+    "chapter": "System Design Concepts",
+    "category": "Reverse proxy (web server)",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#load-balancer-vs-reverse-proxy",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Application layer",
+    "title": "Application layer",
+    "chapter": "System Design Concepts",
+    "category": "Application layer",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#application-layer",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Microservices",
+    "title": "Microservices",
+    "chapter": "System Design Concepts",
+    "category": "Application layer",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#microservices",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Service discovery",
+    "title": "Service discovery",
+    "chapter": "System Design Concepts",
+    "category": "Application layer",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#service-discovery",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Database",
+    "title": "Database",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#database",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Relational database management system (RDBMS)",
+    "title": "Relational database management system (RDBMS)",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#relational-database-management-system-rdbms",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Master-slave replication",
+    "title": "Master-slave replication",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#master-slave-replication",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Master-master replication",
+    "title": "Master-master replication",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#master-master-replication",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Federation",
+    "title": "Federation",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#federation",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Sharding",
+    "title": "Sharding",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#sharding",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Denormalization",
+    "title": "Denormalization",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#denormalization",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - SQL tuning",
+    "title": "SQL tuning",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#sql-tuning",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - NoSQL",
+    "title": "NoSQL",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#nosql",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Key-value store",
+    "title": "Key-value store",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#key-value-store",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Document store",
+    "title": "Document store",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#document-store",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Wide column store",
+    "title": "Wide column store",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#wide-column-store",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Graph Database",
+    "title": "Graph Database",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#graph-database",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - SQL or NoSQL",
+    "title": "SQL or NoSQL",
+    "chapter": "System Design Concepts",
+    "category": "Database",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#sql-or-nosql",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Cache",
+    "title": "Cache",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#cache",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Client caching",
+    "title": "Client caching",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#client-caching",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - CDN caching",
+    "title": "CDN caching",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#cdn-caching",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Web server caching",
+    "title": "Web server caching",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#web-server-caching",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Database caching",
+    "title": "Database caching",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#database-caching",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Application caching",
+    "title": "Application caching",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#application-caching",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Caching at the database query level",
+    "title": "Caching at the database query level",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#caching-at-the-database-query-level",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Caching at the object level",
+    "title": "Caching at the object level",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#caching-at-the-object-level",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - When to update the cache",
+    "title": "When to update the cache",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#when-to-update-the-cache",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Cache-aside",
+    "title": "Cache-aside",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#cache-aside",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Write-through",
+    "title": "Write-through",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#write-through",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Write-behind (write-back)",
+    "title": "Write-behind (write-back)",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#write-behind-write-back",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Refresh-ahead",
+    "title": "Refresh-ahead",
+    "chapter": "System Design Concepts",
+    "category": "Cache",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#refresh-ahead",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Asynchronism",
+    "title": "Asynchronism",
+    "chapter": "System Design Concepts",
+    "category": "Asynchronism",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#asynchronism",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Message queues",
+    "title": "Message queues",
+    "chapter": "System Design Concepts",
+    "category": "Asynchronism",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#message-queues",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Task queues",
+    "title": "Task queues",
+    "chapter": "System Design Concepts",
+    "category": "Asynchronism",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#task-queues",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Back pressure",
+    "title": "Back pressure",
+    "chapter": "System Design Concepts",
+    "category": "Asynchronism",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#back-pressure",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Communication",
+    "title": "Communication",
+    "chapter": "System Design Concepts",
+    "category": "Communication",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#communication",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Transmission control protocol (TCP)",
+    "title": "Transmission control protocol (TCP)",
+    "chapter": "System Design Concepts",
+    "category": "Communication",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#transmission-control-protocol-tcp",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - User datagram protocol (UDP)",
+    "title": "User datagram protocol (UDP)",
+    "chapter": "System Design Concepts",
+    "category": "Communication",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#user-datagram-protocol-udp",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Remote procedure call (RPC)",
+    "title": "Remote procedure call (RPC)",
+    "chapter": "System Design Concepts",
+    "category": "Communication",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#remote-procedure-call-rpc",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Representational state transfer (REST)",
+    "title": "Representational state transfer (REST)",
+    "chapter": "System Design Concepts",
+    "category": "Communication",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#representational-state-transfer-rest",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Security",
+    "title": "Security",
+    "chapter": "System Design Concepts",
+    "category": "Security",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#security",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Appendix",
+    "title": "Appendix",
+    "chapter": "System Design Concepts",
+    "category": "Appendix",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#appendix",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Powers of two table",
+    "title": "Powers of two table",
+    "chapter": "System Design Concepts",
+    "category": "Appendix",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#powers-of-two-table",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Latency numbers every programmer should know",
+    "title": "Latency numbers every programmer should know",
+    "chapter": "System Design Concepts",
+    "category": "Appendix",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#latency-numbers-every-programmer-should-know",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Additional system design interview questions",
+    "title": "Additional system design interview questions",
+    "chapter": "System Design Concepts",
+    "category": "Appendix",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#additional-system-design-interview-questions",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Real world architectures",
+    "title": "Real world architectures",
+    "chapter": "System Design Concepts",
+    "category": "Appendix",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#real-world-architectures",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Company architectures",
+    "title": "Company architectures",
+    "chapter": "System Design Concepts",
+    "category": "Appendix",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#company-architectures",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Company engineering blogs",
+    "title": "Company engineering blogs",
+    "chapter": "System Design Concepts",
+    "category": "Appendix",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#company-engineering-blogs",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Under development",
+    "title": "Under development",
+    "chapter": "System Design Concepts",
+    "category": "Under development",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#under-development",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Credits",
+    "title": "Credits",
+    "chapter": "System Design Concepts",
+    "category": "Credits",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#credits",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Contact info",
+    "title": "Contact info",
+    "chapter": "System Design Concepts",
+    "category": "Contact info",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#contact-info",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - License",
+    "title": "License",
+    "chapter": "System Design Concepts",
+    "category": "License",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/README.md#license",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Question - Design Pastebin.com (or Bit.ly)",
+    "title": "Design Pastebin.com (or Bit.ly)",
+    "chapter": "Interview Questions",
+    "category": "System Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/pastebin/README.md",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Question - Design the Twitter timeline and search (or Facebook feed and search)",
+    "title": "Design the Twitter timeline and search (or Facebook feed and search)",
+    "chapter": "Interview Questions",
+    "category": "System Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Question - Design a web crawler",
+    "title": "Design a web crawler",
+    "chapter": "Interview Questions",
+    "category": "System Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/web_crawler/README.md",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Question - Design Mint.com",
+    "title": "Design Mint.com",
+    "chapter": "Interview Questions",
+    "category": "System Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/mint/README.md",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Question - Design the data structures for a social network",
+    "title": "Design the data structures for a social network",
+    "chapter": "Interview Questions",
+    "category": "System Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/social_graph/README.md",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Question - Design a key-value store for a search engine",
+    "title": "Design a key-value store for a search engine",
+    "chapter": "Interview Questions",
+    "category": "System Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/query_cache/README.md",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Question - Design Amazon's sales ranking by category feature",
+    "title": "Design Amazon's sales ranking by category feature",
+    "chapter": "Interview Questions",
+    "category": "System Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/sales_rank/README.md",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - Question - Design a system that scales to millions of users on AWS",
+    "title": "Design a system that scales to millions of users on AWS",
+    "chapter": "Interview Questions",
+    "category": "System Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/scaling_aws/README.md",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - OOD - Design a hash map",
+    "title": "Design a hash map",
+    "chapter": "Interview Questions",
+    "category": "Object Oriented Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/hash_table/hash_map.ipynb",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - OOD - Design a least recently used cache",
+    "title": "Design a least recently used cache",
+    "chapter": "Interview Questions",
+    "category": "Object Oriented Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/lru_cache/lru_cache.ipynb",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - OOD - Design a call center",
+    "title": "Design a call center",
+    "chapter": "Interview Questions",
+    "category": "Object Oriented Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/call_center/call_center.ipynb",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - OOD - Design a deck of cards",
+    "title": "Design a deck of cards",
+    "chapter": "Interview Questions",
+    "category": "Object Oriented Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - OOD - Design a parking lot",
+    "title": "Design a parking lot",
+    "chapter": "Interview Questions",
+    "category": "Object Oriented Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/parking_lot/parking_lot.ipynb",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  },
+  {
+    "file_name": "SDP - OOD - Design a chat server",
+    "title": "Design a chat server",
+    "chapter": "Interview Questions",
+    "category": "Object Oriented Design",
+    "url": "https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/online_chat/online_chat.ipynb",
+    "base": "[[System Design Primer.base]]",
+    "concepts": []
+  }
+]
